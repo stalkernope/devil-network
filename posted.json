@@ -1,5 +1,6 @@
 {
  "ids": [
-  "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/"
+  "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
+  "cve:CVE-2026-119977"
  ]
 }
