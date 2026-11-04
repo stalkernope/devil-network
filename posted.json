@@ -1,6 +1,7 @@
 {
  "ids": [
   "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
-  "cve:CVE-2026-119977"
+  "cve:CVE-2026-119977",
+  "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/"
  ]
 }
