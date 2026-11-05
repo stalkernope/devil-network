@@ -1,9 +1,12 @@
 {
 "seen": [
+"https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+"https://therecord.media/queens-library-ransomware-causes-disruptions",
 "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
 "https://www.chainalysis.com/blog/chainalysis-response-mercado-bitcoin/",
+"https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
 "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
 "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
@@ -12,8 +15,8 @@
 "tg:true_secator/8779",
 "tg:true_secator/8784"
 ],
-"last_post": "2026-11-05T17:40:32.261368+00:00",
-"n": 11,
+"last_post": "2026-11-05T22:54:12.102059+00:00",
+"n": 14,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -268,6 +271,66 @@
 "следу",
 "среди",
 "увесистый"
+],
+"cve": []
+},
+{
+"t": "2026-11-05T22:54:04.655485+00:00",
+"title": "Публичная библиотека Квинса сообщает, что атака с помощью программы-вымогателя нарушила работу Wi-Fi и компьютеров на территории",
+"link": "https://therecord.media/queens-library-ransomware-causes-disruptions",
+"score": 10.24,
+"tags": "#даркнет #кибервойна",
+"kind": "rss",
+"tok": [
+"attack",
+"computers",
+"disrupted",
+"library",
+"on-site",
+"public",
+"queens",
+"ransomware",
+"says",
+"wi-fi"
+],
+"cve": []
+},
+{
+"t": "2026-11-05T22:54:08.296717+00:00",
+"title": "Прибыль американского биткойна в размере 126 миллионов долларов маскирует давление на добычу полезных ископаемых, поскольку конкуренты обращаются к искусственному интеллекту",
+"link": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"score": 8.97,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"126m",
+"american",
+"bitcoin",
+"masks",
+"mining",
+"pressure",
+"profit",
+"rivals",
+"turn"
+],
+"cve": []
+},
+{
+"t": "2026-11-05T22:54:12.101991+00:00",
+"title": "Bitcion упал до $76 000, поскольку коллапс торговли ИИ привел к резкому падению акций",
+"link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+"score": 8.49,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"bitcion",
+"collapsing",
+"drags",
+"lower",
+"sharply",
+"stocks",
+"trade",
+"tumbles"
 ],
 "cve": []
 }
