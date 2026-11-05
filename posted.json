@@ -4,13 +4,16 @@
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
 "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
 "https://www.chainalysis.com/blog/chainalysis-response-mercado-bitcoin/",
+"https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+"https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
 "tg:investigations/374",
-"tg:true_secator/8779"
+"tg:true_secator/8779",
+"tg:true_secator/8784"
 ],
-"last_post": "2026-11-05T14:19:28.157168+00:00",
-"n": 8,
+"last_post": "2026-11-05T17:40:32.261368+00:00",
+"n": 11,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -198,10 +201,80 @@
 "хакера"
 ],
 "cve": []
+},
+{
+"t": "2026-11-05T17:40:23.811541+00:00",
+"title": "Агенты ИИ получили root-права в Linux из-за 948 ошибок ядра в исследовании OpenAI",
+"link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+"score": 9.49,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"agents",
+"flaws",
+"kernel",
+"linux",
+"openai",
+"research",
+"root"
+],
+"cve": []
+},
+{
+"t": "2026-11-05T17:40:28.789902+00:00",
+"title": "Северная Корея украла 12,8 миллиарда долларов США в криптовалюте, из них 7,4 миллиарда долларов США в 2026 году | ТРМ Лабс",
+"link": "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
+"score": 9.4,
+"tags": "#расследование #крипта",
+"kind": "rss",
+"tok": [
+"2026",
+"billion",
+"crypto",
+"korea",
+"labs",
+"north",
+"stolen"
+],
+"cve": []
+},
+{
+"t": "2026-11-05T17:40:32.261251+00:00",
+"title": "Позитивы выкатили увесистый отчет с оценками влияния атак вымогателей и вайперов на…",
+"link": "https://t.me/true_secator/8784",
+"score": 6.63,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"2025",
+"2026",
+"атак",
+"бизнес",
+"вайперов",
+"влияния",
+"второе",
+"выкатили",
+"вымогателей",
+"года",
+"основных",
+"отметим",
+"отчет",
+"оценками",
+"первое",
+"позитивы",
+"положений",
+"полугодие",
+"российский",
+"следу",
+"среди",
+"увесистый"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-05",
-"quiz": "2026-11-05"
+"quiz": "2026-11-05",
+"term": "2026-11-05"
 }
 }
