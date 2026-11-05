@@ -1,12 +1,15 @@
 {
 "seen": [
 "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
+"https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
 "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+"https://www.chainalysis.com/blog/chainalysis-response-mercado-bitcoin/",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
-"tg:investigations/374"
+"tg:investigations/374",
+"tg:true_secator/8779"
 ],
-"last_post": "2026-11-05T04:42:56.707920+00:00",
-"n": 4,
+"last_post": "2026-11-05T09:32:37.784726+00:00",
+"n": 7,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -104,7 +107,84 @@
 "sonic"
 ],
 "cve": []
+},
+{
+"t": "2026-11-05T09:32:27.540147+00:00",
+"title": "Патч Zyxel GS1900 не блокирует эксплойт нулевого дня, позволяющий выполнять root-команды",
+"link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+"score": 13.89,
+"tags": "#новости #кибербезопасность",
+"kind": "rss",
+"tok": [
+"allowing",
+"block",
+"command",
+"execution",
+"exploit",
+"fails",
+"gs1900",
+"patch",
+"root",
+"zero-day",
+"zyxel"
+],
+"cve": []
+},
+{
+"t": "2026-11-05T09:32:34.210872+00:00",
+"title": "Преодоление биткойн-атаки Mercado: как цепной анализ привел к заморозке почти 10 миллионов долларов украденных средств",
+"link": "https://www.chainalysis.com/blog/chainalysis-response-mercado-bitcoin/",
+"score": 9.5,
+"tags": "#расследование #крипта #даркнет",
+"kind": "rss",
+"tok": [
+"attack",
+"bitcoin",
+"chainalysis",
+"disrupting",
+"freeze",
+"funds",
+"mercado",
+"nearly",
+"stolen"
+],
+"cve": []
+},
+{
+"t": "2026-11-05T09:32:37.784646+00:00",
+"title": "Исследователи VulnCheck отмечают, что критическая уязвимость в Node-RED используется в…",
+"link": "https://t.me/true_secator/8779",
+"score": 3.19,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"node-red",
+"vulncheck",
+"атак",
+"атаках",
+"вредоносн",
+"используется",
+"исследователи",
+"критическая",
+"несколько",
+"одного",
+"отмечают",
+"причем",
+"развертывания",
+"различных",
+"сразу",
+"того",
+"уязвимость",
+"фиксировалось",
+"целью"
+],
+"cve": [
+"cve-2026-58115",
+"cve-2026-58115"
+]
 }
 ],
-"rubrics": {}
+"rubrics": {
+"tip": "2026-11-05"
+}
 }
