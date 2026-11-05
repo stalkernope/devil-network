@@ -2,10 +2,11 @@
 "seen": [
 "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
 "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+"https://www.youtube.com/watch?v=vCAD3W43lIk",
 "tg:investigations/374"
 ],
-"last_post": "2026-11-05T04:42:02.454870+00:00",
-"n": 3,
+"last_post": "2026-11-05T04:42:56.707920+00:00",
+"n": 4,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -86,6 +87,21 @@
 "were",
 "withdrawn",
 "yesterday"
+],
+"cve": []
+},
+{
+"t": "2026-11-05T04:42:56.707572+00:00",
+"title": "Кто богаче, Марио или Соник? - Числофил",
+"link": "https://www.youtube.com/watch?v=vCAD3W43lIk",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"mario",
+"numberphile",
+"richer",
+"sonic"
 ],
 "cve": []
 }
