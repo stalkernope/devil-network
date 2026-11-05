@@ -1,1 +1,42 @@
-{}
+{
+"seen": [
+"https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/"
+],
+"last_post": "2026-11-05T02:08:27.205845+00:00",
+"n": 1,
+"yt_ids": {
+"_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
+"NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
+"Seytonic": "UCW6xlqxSY3gGur4PkGPEUeA",
+"davidbombal": "UCZTIRrENWr_rjVoA7BcUE_A",
+"ippsec": "UCa6eh7gCkpPo5XXUDfygQQA",
+"LoiLiangYang": "UC1szFCBUWXY3ESff8dJjjzw",
+"mamai11": "UCyc6_vL1CIR12LQhrAyKHoA",
+"STOKfredrik": "UCQN2DsjnYH60SFBIA6IkNwg",
+"maska_238": "UCpXnlh1UWRI3y4Vndx4DoTQ",
+"Computerphile": "UCoxcjq-8xIDTYp3uz647V5A",
+"LiveOverflow": "UCNNfzr9A5dEOscVEDyyzo-A",
+"hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
+},
+"recent": [
+{
+"t": "2026-11-05T02:08:27.205783+00:00",
+"title": "Лаборатория 1 предупреждает, что данные об утечках теперь раскрывают тысячи других компаний",
+"link": "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
+"score": 10.13,
+"tags": "#утечки #даркнет",
+"kind": "rss",
+"tok": [
+"breach",
+"data",
+"exposes",
+"firms",
+"more",
+"thousands",
+"warns"
+],
+"cve": []
+}
+],
+"rubrics": {}
+}
