@@ -4,19 +4,22 @@
 "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
 "https://therecord.media/queens-library-ransomware-causes-disruptions",
+"https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
 "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
 "https://www.chainalysis.com/blog/chainalysis-response-mercado-bitcoin/",
 "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+"https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
 "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
 "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
 "tg:investigations/374",
 "tg:true_secator/8779",
-"tg:true_secator/8784"
+"tg:true_secator/8784",
+"tg:true_secator/8785"
 ],
-"last_post": "2026-11-05T22:54:12.102059+00:00",
-"n": 14,
+"last_post": "2026-11-06T03:18:37.117877+00:00",
+"n": 17,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -331,6 +334,74 @@
 "stocks",
 "trade",
 "tumbles"
+],
+"cve": []
+},
+{
+"t": "2026-11-06T03:18:26.303794+00:00",
+"title": "На протяжении последних лет на канале SecAtor выходили материалы с отчетами ведущих…",
+"link": "https://t.me/true_secator/8785",
+"score": 5.33,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"fluffy",
+"secator",
+"vasygrek",
+"wolf",
+"активности",
+"ведущих",
+"выходили",
+"группы",
+"инструмен",
+"инфосек-компаний",
+"канале",
+"материалы",
+"отношении",
+"отчетами",
+"последних",
+"протяжении",
+"российских",
+"хакерской",
+"частности"
+],
+"cve": []
+},
+{
+"t": "2026-11-06T03:18:31.951349+00:00",
+"title": "США вводят дополнительные санкции против филиалов мошеннического центра Prince Group",
+"link": "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
+"score": 8.84,
+"tags": "#даркнет #кибервойна",
+"kind": "rss",
+"tok": [
+"affiliates",
+"against",
+"center",
+"group",
+"issues",
+"more",
+"prince",
+"sanctions",
+"scam"
+],
+"cve": []
+},
+{
+"t": "2026-11-06T03:18:37.117804+00:00",
+"title": "3 обвиняются в схеме использования ИИ для выдачи себя за генеральных директоров и адвокатов с целью кражи 129 миллионов долларов",
+"link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+"score": 7.74,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"attorneys",
+"ceos",
+"charged",
+"impersonate",
+"million",
+"scheme",
+"steal"
 ],
 "cve": []
 }
