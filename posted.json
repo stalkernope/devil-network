@@ -2,7 +2,9 @@
 "seen": [
 "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
+"https://databreaches.net/2026/11/06/the-next-target-for-data-breach-lawsuits-law-firms-that-represent-breached-parties/",
 "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
+"https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
 "https://therecord.media/queens-library-ransomware-causes-disruptions",
 "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
@@ -16,13 +18,14 @@
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
 "tg:investigations/374",
+"tg:tginfo/4448",
 "tg:true_secator/8779",
 "tg:true_secator/8782",
 "tg:true_secator/8784",
 "tg:true_secator/8785"
 ],
-"last_post": "2026-11-06T11:22:46.901535+00:00",
-"n": 20,
+"last_post": "2026-11-06T18:17:09.831753+00:00",
+"n": 23,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -474,11 +477,78 @@
 "ranking"
 ],
 "cve": []
+},
+{
+"t": "2026-11-06T18:17:00.950967+00:00",
+"title": "Следующая мишень для исков о утечке данных – юридические фирмы, представляющие стороны, подвергшиеся утечке данных",
+"link": "https://databreaches.net/2026/11/06/the-next-target-for-data-breach-lawsuits-law-firms-that-represent-breached-parties/",
+"score": 10.33,
+"tags": "#утечки #даркнет",
+"kind": "rss",
+"tok": [
+"breach",
+"breached",
+"data",
+"firms",
+"lawsuits",
+"next",
+"parties",
+"represent",
+"target",
+"that"
+],
+"cve": []
+},
+{
+"t": "2026-11-06T18:17:06.164110+00:00",
+"title": "Установка исправления использованной уязвимости WordPress может в последний раз подвергнуть опасности некоторые сайты",
+"link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+"score": 9.62,
+"tags": "#новости #кибербезопасность",
+"kind": "rss",
+"tok": [
+"exploited",
+"expose",
+"flaw",
+"installing",
+"last",
+"sites",
+"some",
+"time",
+"wordpress"
+],
+"cve": []
+},
+{
+"t": "2026-11-06T18:17:09.831664+00:00",
+"title": "Telegram для Android, iOS и macOS обновились до версии 13.2, а Telegram Desktop — до…",
+"link": "https://t.me/tginfo/4448",
+"score": 7.29,
+"tags": "#telegram #новости",
+"kind": "tg",
+"tok": [
+"android",
+"desktop",
+"html-сообщения",
+"macos",
+"telegram",
+"версии",
+"делимся",
+"мессенджера",
+"ноябрьском",
+"обновились",
+"обновлении",
+"подробностями",
+"появилось",
+"разра"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-06",
 "quiz": "2026-11-05",
-"term": "2026-11-05"
+"term": "2026-11-05",
+"top_day": "2026-11-06"
 }
 }
