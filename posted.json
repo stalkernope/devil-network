@@ -2,6 +2,7 @@
 "seen": [
 "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
+"https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
 "https://therecord.media/queens-library-ransomware-causes-disruptions",
 "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
@@ -11,15 +12,17 @@
 "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
 "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
 "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
+"https://www.youtube.com/shorts/iJU6csQs_no",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
 "tg:investigations/374",
 "tg:true_secator/8779",
+"tg:true_secator/8782",
 "tg:true_secator/8784",
 "tg:true_secator/8785"
 ],
-"last_post": "2026-11-06T03:18:37.117877+00:00",
-"n": 17,
+"last_post": "2026-11-06T11:22:46.901535+00:00",
+"n": 20,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -404,10 +407,77 @@
 "steal"
 ],
 "cve": []
+},
+{
+"t": "2026-11-06T11:22:39.464337+00:00",
+"title": "Обновление Zcash NU7 запущено, перерабатывая 60% комиссий для финансирования будущих вознаграждений за блоки",
+"link": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
+"score": 7.5,
+"tags": "#крипта #web3",
+"kind": "rss",
+"tok": [
+"block",
+"fees",
+"fund",
+"future",
+"goes",
+"live",
+"recycling",
+"rewards",
+"upgrade",
+"zcash"
+],
+"cve": []
+},
+{
+"t": "2026-11-06T11:22:43.079414+00:00",
+"title": "Хакеры массово захватывают основные учетные записи пользователей электромобилей Li Auto в…",
+"link": "https://t.me/true_secator/8782",
+"score": 3.64,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"auto",
+"автомобилям",
+"блокируя",
+"владельцев",
+"восстановление",
+"вымогают",
+"деньги",
+"доступ",
+"записи",
+"захватывают",
+"контроля",
+"массово",
+"основные",
+"пользователей",
+"россии",
+"транспор",
+"учетные",
+"хакеры",
+"электромобилей"
+],
+"cve": []
+},
+{
+"t": "2026-11-06T11:22:46.901408+00:00",
+"title": "Слепые рейтинговые цифры (Дэниел Литт)",
+"link": "https://www.youtube.com/shorts/iJU6csQs_no",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"blind",
+"daniel",
+"litt",
+"numbers",
+"ranking"
+],
+"cve": []
 }
 ],
 "rubrics": {
-"tip": "2026-11-05",
+"tip": "2026-11-06",
 "quiz": "2026-11-05",
 "term": "2026-11-05"
 }
