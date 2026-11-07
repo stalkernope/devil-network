@@ -5,6 +5,7 @@
 "https://databreaches.net/2026/11/06/state-attorneys-general-secure-up-to-10-million-and-corrective-action-plan-from-perry-johnson-companies-after-2023-breach/",
 "https://databreaches.net/2026/11/06/the-next-target-for-data-breach-lawsuits-law-firms-that-represent-breached-parties/",
 "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
+"https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
 "https://habr.com/ru/articles/1104742/?utm_campaign=1104742&utm_source=habrahabr&utm_medium=rss",
 "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
@@ -20,15 +21,17 @@
 "https://www.youtube.com/shorts/iJU6csQs_no",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
+"https://xakep.ru/2026/11/06/paper-specials-3/",
 "tg:investigations/374",
 "tg:tginfo/4448",
 "tg:true_secator/8779",
 "tg:true_secator/8782",
 "tg:true_secator/8784",
-"tg:true_secator/8785"
+"tg:true_secator/8785",
+"tg:true_secator/8790"
 ],
-"last_post": "2026-11-06T23:25:54.279528+00:00",
-"n": 26,
+"last_post": "2026-11-07T03:04:19.399727+00:00",
+"n": 29,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -608,6 +611,74 @@
 "trezor",
 "weaponized",
 "within"
+],
+"cve": []
+},
+{
+"t": "2026-11-07T03:04:11.450868+00:00",
+"title": "Продолжаем отслеживать наиболее трендовые угрозы, отметим следующие: 1. Недавно…",
+"link": "https://t.me/true_secator/8790",
+"score": 5.37,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"musl",
+"openssh",
+"sshole",
+"входить",
+"злоумышленникам",
+"название",
+"наиболее",
+"недавно",
+"некоторые",
+"обнаруженная",
+"отметим",
+"отслеживать",
+"позволяет",
+"получившая",
+"продолжаем",
+"следующие",
+"трендовые",
+"угрозы",
+"уязвимость"
+],
+"cve": [
+"cve-2026-107441",
+"cve-2026-98432"
+]
+},
+{
+"t": "2026-11-07T03:04:16.080748+00:00",
+"title": "Казначейство отключило криптобиржу MEXC от финансовой системы США",
+"link": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+"score": 8.29,
+"tags": "#крипта #web3",
+"kind": "rss",
+"tok": [
+"crypto",
+"cuts",
+"exchange",
+"financial",
+"from",
+"mexc",
+"system",
+"treasury"
+],
+"cve": []
+},
+{
+"t": "2026-11-07T03:04:19.399645+00:00",
+"title": "Четвертый спецвыпуск «Хакера» и еще два печатных номера",
+"link": "https://xakep.ru/2026/11/06/paper-specials-3/",
+"score": 8.11,
+"tags": "#хакинг #новости",
+"kind": "rss",
+"tok": [
+"номера",
+"печатных",
+"спецвыпуск",
+"хакера",
+"четвертый"
 ],
 "cve": []
 }
