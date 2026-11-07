@@ -15,8 +15,10 @@
 "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
 "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
 "https://www.chainalysis.com/blog/chainalysis-response-mercado-bitcoin/",
+"https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
 "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
 "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+"https://www.europol.europa.eu/media-press/newsroom/news/almost-50-arrested-police-target-western-balkan-network-linked-to-killings",
 "https://www.europol.europa.eu/media-press/newsroom/news/ordering-violence-abroad-five-suspects-arrested-in-spain-morocco-and-france",
 "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
 "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
@@ -37,10 +39,11 @@
 "tg:true_secator/8785",
 "tg:true_secator/8787",
 "tg:true_secator/8788",
+"tg:true_secator/8789",
 "tg:true_secator/8790"
 ],
-"last_post": "2026-11-07T20:32:31.850895+00:00",
-"n": 38,
+"last_post": "2026-11-07T23:59:30.600308+00:00",
+"n": 41,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -879,6 +882,76 @@
 "moves",
 "over",
 "treasury"
+],
+"cve": []
+},
+{
+"t": "2026-11-07T23:59:21.764314+00:00",
+"title": "Исследователи Positive Technologies продолжают серию отчетных материалов, на этот раз…",
+"link": "https://t.me/true_secator/8789",
+"score": 2.06,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"positive",
+"technologies",
+"инцидентов",
+"исследователи",
+"итоги",
+"кварта",
+"материалов",
+"отчете",
+"отчетных",
+"период",
+"подведены",
+"подвели",
+"продолжают",
+"проектов",
+"работы",
+"расследованию",
+"серию",
+"этот"
+],
+"cve": []
+},
+{
+"t": "2026-11-07T23:59:25.580874+00:00",
+"title": "Взлом Gnosis Pay раскрывает номера карт, домашние адреса и связанные криптокошельки",
+"link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+"score": 8.54,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"addresses",
+"breach",
+"card",
+"crypto",
+"exposes",
+"gnosis",
+"home",
+"linked",
+"numbers",
+"wallets"
+],
+"cve": []
+},
+{
+"t": "2026-11-07T23:59:30.600228+00:00",
+"title": "Почти 50 арестованы, поскольку полиция преследует западнобалканскую сеть, связанную с убийствами",
+"link": "https://www.europol.europa.eu/media-press/newsroom/news/almost-50-arrested-police-target-western-balkan-network-linked-to-killings",
+"score": 7.85,
+"tags": "#даркнет #аресты #расследование",
+"kind": "rss",
+"tok": [
+"almost",
+"arrested",
+"balkan",
+"killings",
+"linked",
+"network",
+"police",
+"target",
+"western"
 ],
 "cve": []
 }
