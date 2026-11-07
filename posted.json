@@ -14,6 +14,7 @@
 "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
 "https://www.chainalysis.com/blog/chainalysis-response-mercado-bitcoin/",
 "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+"https://www.europol.europa.eu/media-press/newsroom/news/ordering-violence-abroad-five-suspects-arrested-in-spain-morocco-and-france",
 "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
 "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
 "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
@@ -21,6 +22,7 @@
 "https://www.youtube.com/shorts/iJU6csQs_no",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
+"https://www.youtube.com/watch?v=yTEBEBz6dNw",
 "https://xakep.ru/2026/11/06/paper-specials-3/",
 "tg:investigations/374",
 "tg:tginfo/4448",
@@ -28,10 +30,11 @@
 "tg:true_secator/8782",
 "tg:true_secator/8784",
 "tg:true_secator/8785",
+"tg:true_secator/8788",
 "tg:true_secator/8790"
 ],
-"last_post": "2026-11-07T03:04:19.399727+00:00",
-"n": 29,
+"last_post": "2026-11-07T10:15:30.778780+00:00",
+"n": 32,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -681,10 +684,82 @@
 "четвертый"
 ],
 "cve": []
+},
+{
+"t": "2026-11-07T10:15:21.354927+00:00",
+"title": "Заказ насилия из-за границы: пятеро подозреваемых арестованы в Испании, Марокко и Франции",
+"link": "https://www.europol.europa.eu/media-press/newsroom/news/ordering-violence-abroad-five-suspects-arrested-in-spain-morocco-and-france",
+"score": 7.85,
+"tags": "#даркнет #аресты #расследование",
+"kind": "rss",
+"tok": [
+"abroad",
+"arrested",
+"five",
+"france",
+"from",
+"morocco",
+"ordering",
+"spain",
+"suspects",
+"violence"
+],
+"cve": []
+},
+{
+"t": "2026-11-07T10:15:25.174995+00:00",
+"title": "Исследователи Лаборатории Касперского в деталях разобрали бесфайловый взлом SharePoint…",
+"link": "https://t.me/true_secator/8788",
+"score": 7.58,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"2025",
+"cve-2025-53770",
+"cve-2025-53771",
+"sharepoint",
+"storm-2603",
+"бесфайловый",
+"взлом",
+"году",
+"групп",
+"группой",
+"деталях",
+"известные",
+"исследователи",
+"касперского",
+"лаборатории",
+"несколько",
+"разных",
+"разобрали",
+"эксплуатировали"
+],
+"cve": [
+"cve-2025-53770",
+"cve-2025-53771"
+]
+},
+{
+"t": "2026-11-07T10:15:30.778704+00:00",
+"title": "12-летняя ошибка безопасности была только началом | Угроза провода",
+"link": "https://www.youtube.com/watch?v=yTEBEBz6dNw",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"12-year-old",
+"beginning",
+"flaw",
+"just",
+"security",
+"threat",
+"wire"
+],
+"cve": []
 }
 ],
 "rubrics": {
-"tip": "2026-11-06",
+"tip": "2026-11-07",
 "quiz": "2026-11-05",
 "term": "2026-11-05",
 "top_day": "2026-11-06"
