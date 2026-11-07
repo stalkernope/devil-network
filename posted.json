@@ -1,6 +1,7 @@
 {
 "seen": [
 "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"https://darknetdiaries.com/episode/182/",
 "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
 "https://databreaches.net/2026/11/06/state-attorneys-general-secure-up-to-10-million-and-corrective-action-plan-from-perry-johnson-companies-after-2023-breach/",
 "https://databreaches.net/2026/11/06/the-next-target-for-data-breach-lawsuits-law-firms-that-represent-breached-parties/",
@@ -18,6 +19,7 @@
 "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
 "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
 "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
+"https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
 "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
 "https://www.youtube.com/shorts/iJU6csQs_no",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
@@ -30,11 +32,12 @@
 "tg:true_secator/8782",
 "tg:true_secator/8784",
 "tg:true_secator/8785",
+"tg:true_secator/8787",
 "tg:true_secator/8788",
 "tg:true_secator/8790"
 ],
-"last_post": "2026-11-07T10:15:30.778780+00:00",
-"n": 32,
+"last_post": "2026-11-07T16:32:21.031706+00:00",
+"n": 35,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -756,12 +759,78 @@
 "wire"
 ],
 "cve": []
+},
+{
+"t": "2026-11-07T16:32:12.203606+00:00",
+"title": "182: Черные тени",
+"link": "https://darknetdiaries.com/episode/182/",
+"score": 7.9,
+"tags": "#даркнет #подкаст",
+"kind": "rss",
+"tok": [
+"blackshades"
+],
+"cve": []
+},
+{
+"t": "2026-11-07T16:32:17.434393+00:00",
+"title": "SonicWall исправляет использованную уязвимость SonicOS, которая ослабляет вход в VPN",
+"link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+"score": 7.88,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"exploited",
+"logins",
+"patches",
+"sonicos",
+"sonicwall",
+"that",
+"vulnerability",
+"weakens"
+],
+"cve": [
+"cve-2026-19868"
+]
+},
+{
+"t": "2026-11-07T16:32:21.031646+00:00",
+"title": "Кейс с холодильными системами обрастает новыми деталями. На этой неделе хакеры пытались…",
+"link": "https://t.me/true_secator/8787",
+"score": 7.29,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"банков",
+"взлом",
+"всей",
+"деталями",
+"из-за",
+"кейс",
+"крови",
+"неделе",
+"новыми",
+"обрастает",
+"повысить",
+"пытались",
+"системами",
+"сотрудники",
+"температуру",
+"того",
+"удался",
+"франции",
+"хакеры",
+"холодильниках",
+"холодильными",
+"этой"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-07",
 "quiz": "2026-11-05",
-"term": "2026-11-05",
+"term": "2026-11-07",
 "top_day": "2026-11-06"
 }
 }
