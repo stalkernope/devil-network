@@ -8,12 +8,14 @@
 "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
 "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
 "https://habr.com/ru/articles/1104742/?utm_campaign=1104742&utm_source=habrahabr&utm_medium=rss",
+"https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
 "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
 "https://therecord.media/queens-library-ransomware-causes-disruptions",
 "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
 "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
 "https://www.chainalysis.com/blog/chainalysis-response-mercado-bitcoin/",
+"https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
 "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
 "https://www.europol.europa.eu/media-press/newsroom/news/ordering-violence-abroad-five-suspects-arrested-in-spain-morocco-and-france",
 "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
@@ -23,6 +25,7 @@
 "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
 "https://www.youtube.com/shorts/iJU6csQs_no",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
+"https://www.youtube.com/watch?v=J9OIWnwuAeU",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
 "https://www.youtube.com/watch?v=yTEBEBz6dNw",
 "https://xakep.ru/2026/11/06/paper-specials-3/",
@@ -36,8 +39,8 @@
 "tg:true_secator/8788",
 "tg:true_secator/8790"
 ],
-"last_post": "2026-11-07T16:32:21.031706+00:00",
-"n": 35,
+"last_post": "2026-11-07T20:32:31.850895+00:00",
+"n": 38,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -825,12 +828,65 @@
 "этой"
 ],
 "cve": []
+},
+{
+"t": "2026-11-07T20:32:22.539425+00:00",
+"title": "Представляем Theme Studio Pro",
+"link": "https://www.youtube.com/watch?v=J9OIWnwuAeU",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"introducing",
+"studio",
+"theme"
+],
+"cve": []
+},
+{
+"t": "2026-11-07T20:32:27.443086+00:00",
+"title": "Финансовый директор Binance уходит, чтобы «заниматься новым предприятием» после взлома на сумму 6,3 миллиарда долларов",
+"link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+"score": 9.41,
+"tags": "#IT #стартапы",
+"kind": "rss",
+"tok": [
+"after",
+"billion",
+"binance",
+"hack",
+"leaving",
+"pursue",
+"venture"
+],
+"cve": []
+},
+{
+"t": "2026-11-07T20:32:31.850812+00:00",
+"title": "Казначейство США намерено прекратить предполагаемые незаконные потоки криптовалютной биржи MEXC на сумму более 16 миллиардов долларов",
+"link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+"score": 8.88,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"alleged",
+"billion",
+"crypto",
+"exchange",
+"flows",
+"illicit",
+"mexc",
+"moves",
+"over",
+"treasury"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-07",
 "quiz": "2026-11-05",
 "term": "2026-11-07",
-"top_day": "2026-11-06"
+"top_day": "2026-11-07"
 }
 }
