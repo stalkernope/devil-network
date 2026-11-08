@@ -1,5 +1,6 @@
 {
 "seen": [
+"CVE-2026-19868",
 "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://darknetdiaries.com/episode/182/",
 "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
@@ -9,6 +10,8 @@
 "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
 "https://habr.com/ru/articles/1104742/?utm_campaign=1104742&utm_source=habrahabr&utm_medium=rss",
 "https://habr.com/ru/articles/1104926/?utm_campaign=1104926&utm_source=habrahabr&utm_medium=rss",
+"https://habr.com/ru/articles/1105240/?utm_campaign=1105240&utm_source=habrahabr&utm_medium=rss",
+"https://isc.sans.edu/diary/rss/33498",
 "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
 "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
 "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
@@ -35,6 +38,7 @@
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
 "https://www.youtube.com/watch?v=J9OIWnwuAeU",
 "https://www.youtube.com/watch?v=pIUXSsrDgBI",
+"https://www.youtube.com/watch?v=s1XUIievwVA",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
 "https://www.youtube.com/watch?v=yTEBEBz6dNw",
 "https://xakep.ru/2026/11/06/paper-specials-3/",
@@ -51,8 +55,8 @@
 "tg:true_secator/8789",
 "tg:true_secator/8790"
 ],
-"last_post": "2026-11-08T18:19:35.908260+00:00",
-"n": 50,
+"last_post": "2026-11-08T22:22:15.632866+00:00",
+"n": 53,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -1152,6 +1156,63 @@
 "ohyama"
 ],
 "cve": []
+},
+{
+"t": "2026-11-08T22:22:04.690569+00:00",
+"title": "Мошенникам даже не нужно ничего взламывать: я проверил 284 крупных сайта Рунета",
+"link": "https://habr.com/ru/articles/1105240/?utm_campaign=1105240&utm_source=habrahabr&utm_medium=rss",
+"score": 8.12,
+"tags": "#ИБ",
+"kind": "rss",
+"tok": [
+"взламывать",
+"даже",
+"крупных",
+"мошенникам",
+"ничего",
+"нужно",
+"проверил",
+"рунета",
+"сайта"
+],
+"cve": []
+},
+{
+"t": "2026-11-08T22:22:10.233512+00:00",
+"title": "🍍📟 [ПОЛЕЗНАЯ НАГРУЗКА] 🔴 Hak5 Live: WiFi-пейджер в ананасе с Дарреном Китченом",
+"link": "https://www.youtube.com/watch?v=s1XUIievwVA",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"darren",
+"hak5",
+"kitchen",
+"live",
+"pager",
+"payload",
+"pineapple",
+"wifi",
+"with"
+],
+"cve": []
+},
+{
+"t": "2026-11-08T22:22:15.632781+00:00",
+"title": "Сканирование уязвимости Sshole (CVE-2026-123158), (воскресенье, 8 ноября)",
+"link": "https://isc.sans.edu/diary/rss/33498",
+"score": 6.67,
+"tags": "#угрозы",
+"kind": "rss",
+"tok": [
+"cve-2026-123158",
+"scans",
+"sshole",
+"vulnerability"
+],
+"cve": [
+"cve-2026-123158"
+]
 }
 ],
 "rubrics": {
