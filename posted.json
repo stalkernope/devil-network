@@ -22,8 +22,10 @@
 "https://www.europol.europa.eu/media-press/newsroom/news/almost-50-arrested-police-target-western-balkan-network-linked-to-killings",
 "https://www.europol.europa.eu/media-press/newsroom/news/european-and-ecuadorian-cooperation-leads-to-20-arrests-in-major-hit-against-drug-trafficking",
 "https://www.europol.europa.eu/media-press/newsroom/news/ordering-violence-abroad-five-suspects-arrested-in-spain-morocco-and-france",
+"https://www.securitylab.ru/news/579843.php",
 "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
 "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+"https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
 "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
 "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
 "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
@@ -34,6 +36,7 @@
 "https://www.youtube.com/watch?v=yTEBEBz6dNw",
 "https://xakep.ru/2026/11/06/paper-specials-3/",
 "tg:investigations/374",
+"tg:investigations/377",
 "tg:tginfo/4448",
 "tg:true_secator/8779",
 "tg:true_secator/8782",
@@ -45,8 +48,8 @@
 "tg:true_secator/8789",
 "tg:true_secator/8790"
 ],
-"last_post": "2026-11-08T05:50:50.023955+00:00",
-"n": 44,
+"last_post": "2026-11-08T12:59:26.177422+00:00",
+"n": 47,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -1024,11 +1027,79 @@
 "trafficking"
 ],
 "cve": []
+},
+{
+"t": "2026-11-08T12:59:18.838179+00:00",
+"title": "Brava Security выходит из скрытности с финансированием в 15 миллионов долларов",
+"link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
+"score": 7.07,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"brava",
+"emerges",
+"from",
+"funding",
+"million",
+"security",
+"stealth",
+"with"
+],
+"cve": []
+},
+{
+"t": "2026-11-08T12:59:22.421598+00:00",
+"title": "ИИ в Telegram оказался талантливым программистом и странным помощником по хозяйству",
+"link": "https://www.securitylab.ru/news/579843.php",
+"score": 6.44,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"telegram",
+"оказался",
+"помощником",
+"программистом",
+"странным",
+"талантливым",
+"хозяйству"
+],
+"cve": []
+},
+{
+"t": "2026-11-08T12:59:26.177336+00:00",
+"title": "NEW: The US Treasury sanctioned eight Canadian OTCs on Friday (Nov 6), including Nia…",
+"link": "https://t.me/investigations/377",
+"score": 6.94,
+"tags": "#расследование #крипта #кражи",
+"kind": "tg",
+"tok": [
+"after",
+"canadian",
+"eight",
+"exchange",
+"five",
+"friday",
+"including",
+"million",
+"millionex",
+"months",
+"nations",
+"nnce",
+"otcs",
+"replied",
+"sanction",
+"sanctioned",
+"suggesting",
+"them",
+"they",
+"treasury"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-07",
-"quiz": "2026-11-05",
+"quiz": "2026-11-08",
 "term": "2026-11-07",
 "top_day": "2026-11-07"
 }
