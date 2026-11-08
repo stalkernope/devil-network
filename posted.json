@@ -10,10 +10,12 @@
 "https://habr.com/ru/articles/1104742/?utm_campaign=1104742&utm_source=habrahabr&utm_medium=rss",
 "https://habr.com/ru/articles/1104926/?utm_campaign=1104926&utm_source=habrahabr&utm_medium=rss",
 "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+"https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
 "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
 "https://therecord.media/queens-library-ransomware-causes-disruptions",
 "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
+"https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
 "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
 "https://www.chainalysis.com/blog/chainalysis-response-mercado-bitcoin/",
 "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
@@ -32,6 +34,7 @@
 "https://www.youtube.com/shorts/iJU6csQs_no",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
 "https://www.youtube.com/watch?v=J9OIWnwuAeU",
+"https://www.youtube.com/watch?v=pIUXSsrDgBI",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
 "https://www.youtube.com/watch?v=yTEBEBz6dNw",
 "https://xakep.ru/2026/11/06/paper-specials-3/",
@@ -48,8 +51,8 @@
 "tg:true_secator/8789",
 "tg:true_secator/8790"
 ],
-"last_post": "2026-11-08T12:59:26.177422+00:00",
-"n": 47,
+"last_post": "2026-11-08T18:19:35.908260+00:00",
+"n": 50,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -1095,12 +1098,66 @@
 "treasury"
 ],
 "cve": []
+},
+{
+"t": "2026-11-08T18:19:25.086250+00:00",
+"title": "ОХОТА ФСБ НА ГЛАВНОГО ЛУДИКА ДАРКНЕТА",
+"link": "https://www.youtube.com/watch?v=pIUXSsrDgBI",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"главного",
+"даркнета",
+"лудика",
+"охота"
+],
+"cve": []
+},
+{
+"t": "2026-11-08T18:19:30.985691+00:00",
+"title": "Он арестовал хакера, а затем провел 18 месяцев, очищая свое имя. Теперь он венчурный инвестор в области кибербезопасности.",
+"link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+"score": 10.91,
+"tags": "#IT #стартапы",
+"kind": "rss",
+"tok": [
+"arrested",
+"clearing",
+"cybersecurity",
+"hacker",
+"months",
+"name",
+"spent",
+"then"
+],
+"cve": []
+},
+{
+"t": "2026-11-08T18:19:35.908176+00:00",
+"title": "Взлом облака данных Iris Ohyama раскрывает информацию о 7,7 миллионах клиентов",
+"link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+"score": 10.61,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"breach",
+"cloud",
+"customers",
+"data",
+"exposes",
+"info",
+"iris",
+"million",
+"ohyama"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-07",
 "quiz": "2026-11-08",
 "term": "2026-11-07",
-"top_day": "2026-11-07"
+"top_day": "2026-11-08"
 }
 }
