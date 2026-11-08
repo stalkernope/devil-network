@@ -8,6 +8,7 @@
 "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
 "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
 "https://habr.com/ru/articles/1104742/?utm_campaign=1104742&utm_source=habrahabr&utm_medium=rss",
+"https://habr.com/ru/articles/1104926/?utm_campaign=1104926&utm_source=habrahabr&utm_medium=rss",
 "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
 "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
@@ -19,6 +20,7 @@
 "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
 "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
 "https://www.europol.europa.eu/media-press/newsroom/news/almost-50-arrested-police-target-western-balkan-network-linked-to-killings",
+"https://www.europol.europa.eu/media-press/newsroom/news/european-and-ecuadorian-cooperation-leads-to-20-arrests-in-major-hit-against-drug-trafficking",
 "https://www.europol.europa.eu/media-press/newsroom/news/ordering-violence-abroad-five-suspects-arrested-in-spain-morocco-and-france",
 "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
 "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
@@ -37,13 +39,14 @@
 "tg:true_secator/8782",
 "tg:true_secator/8784",
 "tg:true_secator/8785",
+"tg:true_secator/8786",
 "tg:true_secator/8787",
 "tg:true_secator/8788",
 "tg:true_secator/8789",
 "tg:true_secator/8790"
 ],
-"last_post": "2026-11-07T23:59:30.600308+00:00",
-"n": 41,
+"last_post": "2026-11-08T05:50:50.023955+00:00",
+"n": 44,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -952,6 +955,73 @@
 "police",
 "target",
 "western"
+],
+"cve": []
+},
+{
+"t": "2026-11-08T05:50:40.338763+00:00",
+"title": "[Перевод] Они не взламывали Polymarket, а просто подменили его тест скорости",
+"link": "https://habr.com/ru/articles/1104926/?utm_campaign=1104926&utm_source=habrahabr&utm_medium=rss",
+"score": 7.69,
+"tags": "#ИБ",
+"kind": "rss",
+"tok": [
+"polymarket",
+"взламывали",
+"перевод",
+"подменили",
+"просто",
+"скорости",
+"тест"
+],
+"cve": []
+},
+{
+"t": "2026-11-08T05:50:44.071807+00:00",
+"title": "• Красивое: нашел интересный инструмент, который называется Netviz! Тулза предназначена…",
+"link": "https://t.me/true_secator/8786",
+"score": 0.49,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"netviz",
+"архитектуры",
+"бесплатно",
+"браузера",
+"выходя",
+"инструмент",
+"интересный",
+"который",
+"красивое",
+"можем",
+"называется",
+"нашел",
+"предназначена",
+"проектирования",
+"сетевой",
+"совершенно",
+"соль",
+"тулза"
+],
+"cve": []
+},
+{
+"t": "2026-11-08T05:50:50.023842+00:00",
+"title": "Сотрудничество Европы и Эквадора привело к 20 арестам в результате крупного удара по борьбе с незаконным оборотом наркотиков",
+"link": "https://www.europol.europa.eu/media-press/newsroom/news/european-and-ecuadorian-cooperation-leads-to-20-arrests-in-major-hit-against-drug-trafficking",
+"score": 7.06,
+"tags": "#даркнет #аресты #расследование",
+"kind": "rss",
+"tok": [
+"against",
+"arrests",
+"cooperation",
+"drug",
+"ecuadorian",
+"european",
+"leads",
+"major",
+"trafficking"
 ],
 "cve": []
 }
