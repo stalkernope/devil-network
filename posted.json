@@ -31,6 +31,7 @@
 "https://www.europol.europa.eu/media-press/newsroom/news/almost-50-arrested-police-target-western-balkan-network-linked-to-killings",
 "https://www.europol.europa.eu/media-press/newsroom/news/european-and-ecuadorian-cooperation-leads-to-20-arrests-in-major-hit-against-drug-trafficking",
 "https://www.europol.europa.eu/media-press/newsroom/news/ordering-violence-abroad-five-suspects-arrested-in-spain-morocco-and-france",
+"https://www.malwarebytes.com/blog/news/2026/11/13-3-million-peoples-medical-data-exposed-companies-pay-300000",
 "https://www.securitylab.ru/news/579843.php",
 "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
 "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
@@ -38,6 +39,7 @@
 "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
 "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
 "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
+"https://www.youtube.com/shorts/F4duxQ4mMrg",
 "https://www.youtube.com/shorts/iJU6csQs_no",
 "https://www.youtube.com/watch?v=-j15pqyZBZs",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
@@ -48,6 +50,7 @@
 "https://www.youtube.com/watch?v=yTEBEBz6dNw",
 "https://xakep.ru/2026/11/06/paper-specials-3/",
 "https://xakep.ru/2026/11/09/paint-rce/",
+"https://xakep.ru/2026/11/09/zyxel-attacks-2/",
 "tg:investigations/374",
 "tg:investigations/377",
 "tg:tginfo/4448",
@@ -61,8 +64,8 @@
 "tg:true_secator/8789",
 "tg:true_secator/8790"
 ],
-"last_post": "2026-11-09T09:25:30.143069+00:00",
-"n": 59,
+"last_post": "2026-11-09T19:59:30.252157+00:00",
+"n": 62,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -1332,12 +1335,65 @@
 "worth"
 ],
 "cve": []
+},
+{
+"t": "2026-11-09T19:59:21.540424+00:00",
+"title": "Перевод вашего PHP-сайта в автономный режим",
+"link": "https://www.youtube.com/shorts/F4duxQ4mMrg",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"offline",
+"taking",
+"website",
+"your"
+],
+"cve": []
+},
+{
+"t": "2026-11-09T19:59:24.935483+00:00",
+"title": "Почти 1000 коммутаторов Zyxel взломаны через уязвимость, от которой не защищал патч",
+"link": "https://xakep.ru/2026/11/09/zyxel-attacks-2/",
+"score": 14.23,
+"tags": "#хакинг #новости",
+"kind": "rss",
+"tok": [
+"1000",
+"zyxel",
+"взломаны",
+"защищал",
+"коммутаторов",
+"которой",
+"патч",
+"почти",
+"уязвимость",
+"через"
+],
+"cve": []
+},
+{
+"t": "2026-11-09T19:59:30.252080+00:00",
+"title": "раскрыты медицинские данные 13,3 миллиона человек; компании платят 300 000 долларов",
+"link": "https://www.malwarebytes.com/blog/news/2026/11/13-3-million-peoples-medical-data-exposed-companies-pay-300000",
+"score": 10.08,
+"tags": "#мошенничество #фишинг",
+"kind": "rss",
+"tok": [
+"companies",
+"data",
+"exposed",
+"medical",
+"million",
+"people"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-09",
 "quiz": "2026-11-08",
 "term": "2026-11-07",
-"top_day": "2026-11-08"
+"top_day": "2026-11-09"
 }
 }
