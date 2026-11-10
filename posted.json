@@ -22,6 +22,8 @@
 "https://therecord.media/queens-library-ransomware-causes-disruptions",
 "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
 "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+"https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+"https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
 "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
 "https://www.chainalysis.com/blog/chainalysis-response-mercado-bitcoin/",
 "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
@@ -51,6 +53,7 @@
 "https://xakep.ru/2026/11/06/paper-specials-3/",
 "https://xakep.ru/2026/11/09/paint-rce/",
 "https://xakep.ru/2026/11/09/zyxel-attacks-2/",
+"tg:durov/553",
 "tg:investigations/374",
 "tg:investigations/377",
 "tg:tginfo/4448",
@@ -64,8 +67,8 @@
 "tg:true_secator/8789",
 "tg:true_secator/8790"
 ],
-"last_post": "2026-11-09T19:59:30.252157+00:00",
-"n": 62,
+"last_post": "2026-11-10T02:39:49.092206+00:00",
+"n": 65,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -1386,6 +1389,76 @@
 "medical",
 "million",
 "people"
+],
+"cve": []
+},
+{
+"t": "2026-11-10T02:39:39.554341+00:00",
+"title": "700K+ self-custodial wallets created on Telegram in the last 48 hours alone. 🦠 Adoption…",
+"link": "https://t.me/durov/553",
+"score": 7.6,
+"tags": "#telegram #Дуров",
+"kind": "tg",
+"tok": [
+"700k",
+"activates",
+"adoption",
+"alone",
+"created",
+"crypto",
+"going",
+"grams",
+"hours",
+"last",
+"moment",
+"receives",
+"revolution",
+"self-custodial",
+"someone",
+"spreads",
+"strong",
+"telegram",
+"virally",
+"wallet",
+"wallets"
+],
+"cve": []
+},
+{
+"t": "2026-11-10T02:39:44.323488+00:00",
+"title": "Утечка данных информационного бюллетеня SEGA выявила 2,2 миллиона адресов электронной почты",
+"link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+"score": 10.31,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"addresses",
+"breach",
+"data",
+"email",
+"exposes",
+"million",
+"newsletter",
+"sega"
+],
+"cve": []
+},
+{
+"t": "2026-11-10T02:39:49.092116+00:00",
+"title": "Университет Вандербильта пострадал от атаки программы-вымогателя BYOD, заявлено о краже данных",
+"link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+"score": 9.81,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"attack",
+"byod",
+"claimed",
+"data",
+"ransomware",
+"theft",
+"university",
+"vanderbilt"
 ],
 "cve": []
 }
