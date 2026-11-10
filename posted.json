@@ -21,6 +21,7 @@
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
 "https://therecord.media/queens-library-ransomware-causes-disruptions",
 "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
+"https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
 "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
 "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
 "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
@@ -55,6 +56,7 @@
 "https://xakep.ru/2026/11/06/paper-specials-3/",
 "https://xakep.ru/2026/11/09/paint-rce/",
 "https://xakep.ru/2026/11/09/zyxel-attacks-2/",
+"https://xakep.ru/2026/11/10/d-link-0-days/",
 "https://xakep.ru/2026/11/10/sshole-attacks/",
 "tg:durov/553",
 "tg:investigations/374",
@@ -70,10 +72,11 @@
 "tg:true_secator/8788",
 "tg:true_secator/8789",
 "tg:true_secator/8790",
-"tg:true_secator/8792"
+"tg:true_secator/8792",
+"tg:true_secator/8797"
 ],
-"last_post": "2026-11-10T10:28:33.588436+00:00",
-"n": 68,
+"last_post": "2026-11-10T18:10:06.001733+00:00",
+"n": 71,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -1534,12 +1537,81 @@
 "with"
 ],
 "cve": []
+},
+{
+"t": "2026-11-10T18:09:59.029272+00:00",
+"title": "Критическая ошибка обхода аутентификации Xen Orchestra, использованная для взлома серверов виртуальных машин",
+"link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+"score": 11.86,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"auth",
+"bypass",
+"critical",
+"exploited",
+"flaw",
+"hijack",
+"orchestra",
+"servers"
+],
+"cve": []
+},
+{
+"t": "2026-11-10T18:10:02.573758+00:00",
+"title": "D-Link предупреждает о нескольких 0-day в свитчах серии DGS-3130",
+"link": "https://xakep.ru/2026/11/10/d-link-0-days/",
+"score": 10.6,
+"tags": "#хакинг #новости",
+"kind": "rss",
+"tok": [
+"0-day",
+"d-link",
+"dgs-3130",
+"нескольких",
+"предупреждает",
+"свитчах",
+"серии"
+],
+"cve": []
+},
+{
+"t": "2026-11-10T18:10:06.001621+00:00",
+"title": "N-able отключила N-central после того, как исследователь раскрыл сразу более 30 0-day,…",
+"link": "https://t.me/true_secator/8797",
+"score": 6.91,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"0-day",
+"n-able",
+"n-central",
+"более",
+"выполнения",
+"данных",
+"злоумышленники",
+"использовать",
+"исследователь",
+"кода",
+"которые",
+"кражи",
+"могут",
+"отключила",
+"после",
+"потенциальные",
+"раскрыл",
+"сразу",
+"того",
+"удалённого",
+"учётных"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-10",
 "quiz": "2026-11-08",
 "term": "2026-11-07",
-"top_day": "2026-11-09"
+"top_day": "2026-11-10"
 }
 }
