@@ -35,12 +35,14 @@
 "https://www.europol.europa.eu/media-press/newsroom/news/ordering-violence-abroad-five-suspects-arrested-in-spain-morocco-and-france",
 "https://www.malwarebytes.com/blog/news/2026/11/13-3-million-peoples-medical-data-exposed-companies-pay-300000",
 "https://www.securitylab.ru/news/579843.php",
+"https://www.securitylab.ru/news/579909.php",
 "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
 "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
 "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
 "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
 "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
 "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
+"https://www.youtube.com/shorts/5USn1bdtvJU",
 "https://www.youtube.com/shorts/F4duxQ4mMrg",
 "https://www.youtube.com/shorts/iJU6csQs_no",
 "https://www.youtube.com/watch?v=-j15pqyZBZs",
@@ -53,10 +55,12 @@
 "https://xakep.ru/2026/11/06/paper-specials-3/",
 "https://xakep.ru/2026/11/09/paint-rce/",
 "https://xakep.ru/2026/11/09/zyxel-attacks-2/",
+"https://xakep.ru/2026/11/10/sshole-attacks/",
 "tg:durov/553",
 "tg:investigations/374",
 "tg:investigations/377",
 "tg:tginfo/4448",
+"tg:tginfo/4449",
 "tg:true_secator/8779",
 "tg:true_secator/8782",
 "tg:true_secator/8784",
@@ -65,10 +69,11 @@
 "tg:true_secator/8787",
 "tg:true_secator/8788",
 "tg:true_secator/8789",
-"tg:true_secator/8790"
+"tg:true_secator/8790",
+"tg:true_secator/8792"
 ],
-"last_post": "2026-11-10T02:39:49.092206+00:00",
-"n": 65,
+"last_post": "2026-11-10T10:28:33.588436+00:00",
+"n": 68,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -1461,10 +1466,78 @@
 "vanderbilt"
 ],
 "cve": []
+},
+{
+"t": "2026-11-10T10:28:25.679518+00:00",
+"title": "Чтобы устроить 15 пожаров, хакерам даже не понадобились спички. Во Франции расследовали атаку на холодильники",
+"link": "https://www.securitylab.ru/news/579909.php",
+"score": 9.47,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"атаку",
+"даже",
+"пожаров",
+"понадобились",
+"расследовали",
+"спички",
+"устроить",
+"франции",
+"хакерам",
+"холодильники",
+"чтобы"
+],
+"cve": []
+},
+{
+"t": "2026-11-10T10:28:29.563489+00:00",
+"title": "Истории в Telegram Desktop В canary-версии 7.4.1 (сборка 113) приложения Telegram Desktop…",
+"link": "https://t.me/tginfo/4449",
+"score": 5.25,
+"tags": "#telegram #новости",
+"kind": "tg",
+"tok": [
+"canary-версии",
+"desktop",
+"telegram",
+"видео",
+"возможность",
+"выбора",
+"графически",
+"истории",
+"отображает",
+"после",
+"появилась",
+"приложение",
+"приложения",
+"публиковать",
+"сборка",
+"фото"
+],
+"cve": []
+},
+{
+"t": "2026-11-10T10:28:33.588358+00:00",
+"title": "В Сингапуре несколько дней тусуются с хакерами и хорошо проводят время.",
+"link": "https://www.youtube.com/shorts/5USn1bdtvJU",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"days",
+"good",
+"hackers",
+"hanging",
+"having",
+"singapore",
+"time",
+"with"
+],
+"cve": []
 }
 ],
 "rubrics": {
-"tip": "2026-11-09",
+"tip": "2026-11-10",
 "quiz": "2026-11-08",
 "term": "2026-11-07",
 "top_day": "2026-11-09"
