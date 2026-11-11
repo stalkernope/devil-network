@@ -3,6 +3,7 @@
 "CVE-2026-19868",
 "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://darknetdiaries.com/episode/182/",
 "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
 "https://databreaches.net/2026/11/06/state-attorneys-general-secure-up-to-10-million-and-corrective-action-plan-from-perry-johnson-companies-after-2023-breach/",
@@ -54,6 +55,7 @@
 "https://www.youtube.com/watch?v=-j15pqyZBZs",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
 "https://www.youtube.com/watch?v=J9OIWnwuAeU",
+"https://www.youtube.com/watch?v=Z5DAv-zgrcI",
 "https://www.youtube.com/watch?v=pIUXSsrDgBI",
 "https://www.youtube.com/watch?v=s1XUIievwVA",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
@@ -79,10 +81,11 @@
 "tg:true_secator/8789",
 "tg:true_secator/8790",
 "tg:true_secator/8792",
-"tg:true_secator/8797"
+"tg:true_secator/8797",
+"tg:true_secator/8799"
 ],
-"last_post": "2026-11-11T02:56:17.670256+00:00",
-"n": 77,
+"last_post": "2026-11-11T10:37:46.983760+00:00",
+"n": 80,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -1726,10 +1729,75 @@
 "railway"
 ],
 "cve": []
+},
+{
+"t": "2026-11-11T10:37:37.340331+00:00",
+"title": "Bitmine отчиталась о чистом убытке в размере $6,3 млрд за 2026 финансовый год из-за падения цен на эфир",
+"link": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"score": 10.95,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"2026",
+"bitmine",
+"ether",
+"fiscal",
+"loss",
+"posts",
+"prices",
+"slide"
+],
+"cve": []
+},
+{
+"t": "2026-11-11T10:37:41.154182+00:00",
+"title": "🍏 Apple закрыла доступ посторонних к группам iMessage на фоне неопределённости вокруг…",
+"link": "https://t.me/true_secator/8799",
+"score": 6.5,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"2026",
+"apple",
+"imessage",
+"ipados",
+"вокруг",
+"выпущенные",
+"года",
+"группам",
+"доступ",
+"закрыла",
+"неопределённости",
+"ноября",
+"обновления",
+"обхода",
+"патча",
+"песочницы",
+"посторонних",
+"также",
+"фоне"
+],
+"cve": [
+"cve-2026-113961",
+"cve-2026-113960"
+]
+},
+{
+"t": "2026-11-11T10:37:46.983676+00:00",
+"title": "HackTheBox — MakeSense",
+"link": "https://www.youtube.com/watch?v=Z5DAv-zgrcI",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"hackthebox",
+"makesense"
+],
+"cve": []
 }
 ],
 "rubrics": {
-"tip": "2026-11-10",
+"tip": "2026-11-11",
 "quiz": "2026-11-08",
 "term": "2026-11-07",
 "top_day": "2026-11-10"
