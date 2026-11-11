@@ -26,6 +26,7 @@
 "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
 "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
 "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+"https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
 "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
 "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
 "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
@@ -65,8 +66,10 @@
 "https://xakep.ru/2026/11/09/zyxel-attacks-2/",
 "https://xakep.ru/2026/11/10/d-link-0-days/",
 "https://xakep.ru/2026/11/10/sshole-attacks/",
+"https://xakep.ru/2026/11/11/worse_query/",
 "tg:durov/553",
 "tg:durov/554",
+"tg:durov/556",
 "tg:investigations/374",
 "tg:investigations/377",
 "tg:tginfo/4448",
@@ -84,8 +87,8 @@
 "tg:true_secator/8797",
 "tg:true_secator/8799"
 ],
-"last_post": "2026-11-11T10:37:46.983760+00:00",
-"n": 80,
+"last_post": "2026-11-11T18:05:10.339631+00:00",
+"n": 83,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -1794,12 +1797,75 @@
 "makesense"
 ],
 "cve": []
+},
+{
+"t": "2026-11-11T18:05:02.919772+00:00",
+"title": "Maersk подтверждает утечку данных, поскольку программа-вымогатель WhiteArmor требует 5 миллионов долларов",
+"link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+"score": 13.04,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"breach",
+"confirms",
+"data",
+"demands",
+"maersk",
+"million",
+"ransomware",
+"whitearmor"
+],
+"cve": []
+},
+{
+"t": "2026-11-11T18:05:06.581534+00:00",
+"title": "Binance: уязвимость в iOS может привести к утечке ключей криптокошельков",
+"link": "https://xakep.ru/2026/11/11/worse_query/",
+"score": 9.86,
+"tags": "#хакинг #новости",
+"kind": "rss",
+"tok": [
+"binance",
+"ключей",
+"криптокошельков",
+"может",
+"привести",
+"утечке",
+"уязвимость"
+],
+"cve": []
+},
+{
+"t": "2026-11-11T18:05:10.339536+00:00",
+"title": "👛 Over 1 million self-custodial Gram wallets activated on Telegram in the last 48 hours…",
+"link": "https://t.me/durov/556",
+"score": 9.94,
+"tags": "#telegram #Дуров",
+"kind": "tg",
+"tok": [
+"activated",
+"alone",
+"among",
+"coins",
+"gainer",
+"gram",
+"hours",
+"last",
+"market",
+"million",
+"over",
+"self-custodial",
+"telegram",
+"today",
+"wallets"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-11",
 "quiz": "2026-11-08",
 "term": "2026-11-07",
-"top_day": "2026-11-10"
+"top_day": "2026-11-11"
 }
 }
