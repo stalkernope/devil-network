@@ -29,6 +29,7 @@
 "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
 "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
 "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+"https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
 "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
 "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
 "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
@@ -59,6 +60,7 @@
 "https://www.youtube.com/watch?v=-j15pqyZBZs",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
 "https://www.youtube.com/watch?v=J9OIWnwuAeU",
+"https://www.youtube.com/watch?v=PBLB1nZ2SZI",
 "https://www.youtube.com/watch?v=Z5DAv-zgrcI",
 "https://www.youtube.com/watch?v=p2AAz24AzU4",
 "https://www.youtube.com/watch?v=pIUXSsrDgBI",
@@ -91,10 +93,11 @@
 "tg:true_secator/8790",
 "tg:true_secator/8792",
 "tg:true_secator/8797",
-"tg:true_secator/8799"
+"tg:true_secator/8799",
+"tg:true_secator/8806"
 ],
-"last_post": "2026-11-12T08:03:41.598015+00:00",
-"n": 89,
+"last_post": "2026-11-12T16:50:32.053656+00:00",
+"n": 92,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -1993,12 +1996,78 @@
 "stock"
 ],
 "cve": []
+},
+{
+"t": "2026-11-12T16:50:22.465126+00:00",
+"title": "Новая система нулевого дня Windows SignDrop дает хакерам СИСТЕМНЫЕ привилегии",
+"link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+"score": 10.31,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"gives",
+"hackers",
+"privileges",
+"signdrop",
+"system",
+"windows",
+"zero-day"
+],
+"cve": []
+},
+{
+"t": "2026-11-12T16:50:26.091059+00:00",
+"title": "Исследователи Лаборатории Касперского обнаружили попытку украинской хакерской группы BO…",
+"link": "https://t.me/true_secator/8806",
+"score": 6.17,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"2025",
+"it-провайдера",
+"team",
+"атаку",
+"года",
+"группы",
+"исследователи",
+"июне",
+"касперского",
+"лаборатории",
+"неназванного",
+"обнаружили",
+"осуществить",
+"попытку",
+"поставок",
+"представител",
+"российского",
+"украинской",
+"хакерской",
+"цепочку"
+],
+"cve": []
+},
+{
+"t": "2026-11-12T16:50:32.053541+00:00",
+"title": "Apple понятия не имела, что это находится внутри 174 миллионов iPhone",
+"link": "https://www.youtube.com/watch?v=PBLB1nZ2SZI",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"apple",
+"idea",
+"inside",
+"iphones",
+"million",
+"this"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-12",
 "quiz": "2026-11-08",
-"term": "2026-11-07",
+"term": "2026-11-12",
 "top_day": "2026-11-11"
 }
 }
