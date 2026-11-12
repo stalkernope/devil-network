@@ -8,6 +8,7 @@
 "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
 "https://databreaches.net/2026/11/06/state-attorneys-general-secure-up-to-10-million-and-corrective-action-plan-from-perry-johnson-companies-after-2023-breach/",
 "https://databreaches.net/2026/11/06/the-next-target-for-data-breach-lawsuits-law-firms-that-represent-breached-parties/",
+"https://databreaches.net/2026/11/11/au-hacker-claims-to-have-sold-stolen-exams-to-students-but-marked-them-for-identification-purposes/",
 "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
 "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
 "https://habr.com/ru/articles/1104742/?utm_campaign=1104742&utm_source=habrahabr&utm_medium=rss",
@@ -24,6 +25,7 @@
 "https://therecord.media/queens-library-ransomware-causes-disruptions",
 "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
 "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+"https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
 "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
 "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
 "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
@@ -59,6 +61,7 @@
 "https://www.youtube.com/watch?v=Z5DAv-zgrcI",
 "https://www.youtube.com/watch?v=pIUXSsrDgBI",
 "https://www.youtube.com/watch?v=s1XUIievwVA",
+"https://www.youtube.com/watch?v=tEfNgifejKc",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
 "https://www.youtube.com/watch?v=yTEBEBz6dNw",
 "https://xakep.ru/2026/11/06/paper-specials-3/",
@@ -87,8 +90,8 @@
 "tg:true_secator/8797",
 "tg:true_secator/8799"
 ],
-"last_post": "2026-11-11T18:05:10.339631+00:00",
-"n": 83,
+"last_post": "2026-11-12T00:46:09.423543+00:00",
+"n": 86,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -1858,6 +1861,67 @@
 "telegram",
 "today",
 "wallets"
+],
+"cve": []
+},
+{
+"t": "2026-11-12T00:46:00.934754+00:00",
+"title": "Trust Me Bro Then Websites Went Offline (The php2shell story) | Threat Wire",
+"link": "https://www.youtube.com/watch?v=tEfNgifejKc",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"offline",
+"php2shell",
+"story",
+"then",
+"threat",
+"trust",
+"websites",
+"went",
+"wire"
+],
+"cve": []
+},
+{
+"t": "2026-11-12T00:46:05.284161+00:00",
+"title": "AU: Hacker claims to have sold stolen exams to students — but marked them for identification purposes?",
+"link": "https://databreaches.net/2026/11/11/au-hacker-claims-to-have-sold-stolen-exams-to-students-but-marked-them-for-identification-purposes/",
+"score": 10.05,
+"tags": "#утечки #даркнет",
+"kind": "rss",
+"tok": [
+"claims",
+"exams",
+"hacker",
+"have",
+"identification",
+"marked",
+"purposes",
+"sold",
+"stolen",
+"students",
+"them"
+],
+"cve": []
+},
+{
+"t": "2026-11-12T00:46:09.423457+00:00",
+"title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+"link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+"score": 9.12,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"active",
+"attacks",
+"breach",
+"dozens",
+"impact",
+"msps",
+"organizations",
+"screenconnect"
 ],
 "cve": []
 }
