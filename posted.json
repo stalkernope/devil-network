@@ -37,6 +37,7 @@
 "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
 "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
 "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+"https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
 "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
 "https://www.europol.europa.eu/media-press/newsroom/news/almost-50-arrested-police-target-western-balkan-network-linked-to-killings",
 "https://www.europol.europa.eu/media-press/newsroom/news/european-and-ecuadorian-cooperation-leads-to-20-arrests-in-major-hit-against-drug-trafficking",
@@ -59,6 +60,7 @@
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
 "https://www.youtube.com/watch?v=J9OIWnwuAeU",
 "https://www.youtube.com/watch?v=Z5DAv-zgrcI",
+"https://www.youtube.com/watch?v=p2AAz24AzU4",
 "https://www.youtube.com/watch?v=pIUXSsrDgBI",
 "https://www.youtube.com/watch?v=s1XUIievwVA",
 "https://www.youtube.com/watch?v=tEfNgifejKc",
@@ -77,6 +79,7 @@
 "tg:investigations/377",
 "tg:tginfo/4448",
 "tg:tginfo/4449",
+"tg:tginfo/4452",
 "tg:true_secator/8779",
 "tg:true_secator/8782",
 "tg:true_secator/8784",
@@ -90,8 +93,8 @@
 "tg:true_secator/8797",
 "tg:true_secator/8799"
 ],
-"last_post": "2026-11-12T00:46:09.423543+00:00",
-"n": 86,
+"last_post": "2026-11-12T08:03:41.598015+00:00",
+"n": 89,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -1924,10 +1927,76 @@
 "screenconnect"
 ],
 "cve": []
+},
+{
+"t": "2026-11-12T08:03:31.344330+00:00",
+"title": "Массовый сбой при покупке Telegram Premium Пользователи, приобретающие подписку через…",
+"link": "https://t.me/tginfo/4452",
+"score": 6.73,
+"tags": "#telegram #новости",
+"kind": "tg",
+"tok": [
+"1970",
+"premium",
+"premiumbot",
+"telegram",
+"бота",
+"года",
+"массовый",
+"него",
+"подписка",
+"подписку",
+"покупке",
+"получают",
+"пользователи",
+"приобретающие",
+"продлена",
+"сама",
+"сбой",
+"сообщение",
+"через",
+"января"
+],
+"cve": []
+},
+{
+"t": "2026-11-12T08:03:36.936868+00:00",
+"title": "Основы математики Теренса Тао",
+"link": "https://www.youtube.com/watch?v=p2AAz24AzU4",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"essentials",
+"math",
+"numberphile",
+"terence"
+],
+"cve": []
+},
+{
+"t": "2026-11-12T08:03:41.597925+00:00",
+"title": "Canaan может продать больше биткойнов для выкупа акций, поскольку доходы от майнинговых установок упали на 96%",
+"link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
+"score": 8.39,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"bitcoin",
+"buybacks",
+"canaan",
+"falls",
+"mining-rig",
+"more",
+"revenue",
+"sell",
+"stock"
+],
+"cve": []
 }
 ],
 "rubrics": {
-"tip": "2026-11-11",
+"tip": "2026-11-12",
 "quiz": "2026-11-08",
 "term": "2026-11-07",
 "top_day": "2026-11-11"
