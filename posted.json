@@ -11,6 +11,7 @@
 "https://databreaches.net/2026/11/11/au-hacker-claims-to-have-sold-stolen-exams-to-students-but-marked-them-for-identification-purposes/",
 "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
 "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+"https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
 "https://habr.com/ru/articles/1104742/?utm_campaign=1104742&utm_source=habrahabr&utm_medium=rss",
 "https://habr.com/ru/articles/1104926/?utm_campaign=1104926&utm_source=habrahabr&utm_medium=rss",
 "https://habr.com/ru/articles/1105192/?utm_campaign=1105192&utm_source=habrahabr&utm_medium=rss",
@@ -23,6 +24,7 @@
 "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
 "https://therecord.media/queens-library-ransomware-causes-disruptions",
+"https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
 "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
 "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
 "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
@@ -94,10 +96,11 @@
 "tg:true_secator/8792",
 "tg:true_secator/8797",
 "tg:true_secator/8799",
-"tg:true_secator/8806"
+"tg:true_secator/8806",
+"tg:true_secator/8808"
 ],
-"last_post": "2026-11-12T16:50:32.053656+00:00",
-"n": 92,
+"last_post": "2026-11-12T22:38:50.224095+00:00",
+"n": 95,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -2060,6 +2063,78 @@
 "iphones",
 "million",
 "this"
+],
+"cve": []
+},
+{
+"t": "2026-11-12T22:38:41.137963+00:00",
+"title": "Северная Корея украла 400 миллионов долларов в криптовалюте с помощью дипфейковых видеозвонков, сообщает Министерство юстиции",
+"link": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+"score": 14.13,
+"tags": "#крипта #web3",
+"kind": "rss",
+"tok": [
+"calls",
+"crypto",
+"deepfake",
+"korea",
+"million",
+"north",
+"says",
+"stole",
+"using",
+"video"
+],
+"cve": []
+},
+{
+"t": "2026-11-12T22:38:46.622487+00:00",
+"title": "Федеральные власти объявляют об аресте 1,2 миллиарда долларов США, полученных в результате кражи Binance; также удаление инструментов FaceStealer",
+"link": "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
+"score": 11.95,
+"tags": "#даркнет #кибервойна",
+"kind": "rss",
+"tok": [
+"also",
+"announce",
+"billion",
+"binance",
+"facestealer",
+"feds",
+"from",
+"seizure",
+"takedown",
+"theft",
+"tools"
+],
+"cve": []
+},
+{
+"t": "2026-11-12T22:38:50.223973+00:00",
+"title": "Huntress сообщает , что в рамках новой кампании злоумышленники скомпрометировали сотни…",
+"link": "https://t.me/true_secator/8808",
+"score": 7.63,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"connectwise",
+"huntress",
+"воспользовавшись",
+"десятков",
+"злоумышленники",
+"кампании",
+"клиентов",
+"конечных",
+"легитимном",
+"новой",
+"рамках",
+"расширении",
+"скомпрометировали",
+"сообщает",
+"сотни",
+"устройств",
+"уязвимостью",
+"чтобы"
 ],
 "cve": []
 }
