@@ -41,6 +41,7 @@
 "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
 "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
 "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
+"https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
 "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
 "https://www.europol.europa.eu/media-press/newsroom/news/almost-50-arrested-police-target-western-balkan-network-linked-to-killings",
 "https://www.europol.europa.eu/media-press/newsroom/news/european-and-ecuadorian-cooperation-leads-to-20-arrests-in-major-hit-against-drug-trafficking",
@@ -52,9 +53,11 @@
 "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
 "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
 "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+"https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
 "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
 "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
 "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
+"https://www.youtube.com/shorts/33_jJ4kIxfc",
 "https://www.youtube.com/shorts/5USn1bdtvJU",
 "https://www.youtube.com/shorts/F4duxQ4mMrg",
 "https://www.youtube.com/shorts/iJU6csQs_no",
@@ -99,8 +102,8 @@
 "tg:true_secator/8806",
 "tg:true_secator/8808"
 ],
-"last_post": "2026-11-12T22:38:50.224095+00:00",
-"n": 95,
+"last_post": "2026-11-13T02:57:16.449797+00:00",
+"n": 98,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -116,24 +119,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-05T02:08:27.205783+00:00",
-"title": "Лаборатория 1 предупреждает, что данные об утечках теперь раскрывают тысячи других компаний",
-"link": "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
-"score": 10.13,
-"tags": "#утечки #даркнет",
-"kind": "rss",
-"tok": [
-"breach",
-"data",
-"exposes",
-"firms",
-"more",
-"thousands",
-"warns"
-],
-"cve": []
-},
 {
 "t": "2026-11-05T03:40:49.233048+00:00",
 "title": "Zyxel исправляет уязвимость нулевого дня, позволившую взломать почти 1000 сетевых коммутаторов",
@@ -2135,6 +2120,61 @@
 "устройств",
 "уязвимостью",
 "чтобы"
+],
+"cve": []
+},
+{
+"t": "2026-11-13T02:57:08.090494+00:00",
+"title": "Blind Ranking Numbers (Terence Tao)",
+"link": "https://www.youtube.com/shorts/33_jJ4kIxfc",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"blind",
+"numbers",
+"ranking",
+"terence"
+],
+"cve": []
+},
+{
+"t": "2026-11-13T02:57:12.368477+00:00",
+"title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
+"link": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
+"score": 18.89,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"billion",
+"binance",
+"cryptocurrency",
+"from",
+"says",
+"seized",
+"stolen",
+"worth"
+],
+"cve": []
+},
+{
+"t": "2026-11-13T02:57:16.449718+00:00",
+"title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+"link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+"score": 15.38,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"billion",
+"binance",
+"crackdown",
+"crypto",
+"faces",
+"hack",
+"korea",
+"north",
+"stolen",
+"targets"
 ],
 "cve": []
 }
