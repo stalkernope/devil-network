@@ -28,6 +28,7 @@
 "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
 "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
 "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+"https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
 "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
 "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
 "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
@@ -73,6 +74,7 @@
 "https://www.youtube.com/watch?v=tEfNgifejKc",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
 "https://www.youtube.com/watch?v=yTEBEBz6dNw",
+"https://www.youtube.com/watch?v=zsIIIga8KbU",
 "https://xakep.ru/2026/11/06/paper-specials-3/",
 "https://xakep.ru/2026/11/09/paint-rce/",
 "https://xakep.ru/2026/11/09/zyxel-attacks-2/",
@@ -99,11 +101,12 @@
 "tg:true_secator/8792",
 "tg:true_secator/8797",
 "tg:true_secator/8799",
+"tg:true_secator/8805",
 "tg:true_secator/8806",
 "tg:true_secator/8808"
 ],
-"last_post": "2026-11-13T02:57:16.449797+00:00",
-"n": 98,
+"last_post": "2026-11-13T10:49:49.846312+00:00",
+"n": 101,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -119,146 +122,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-05T03:40:49.233048+00:00",
-"title": "Zyxel исправляет уязвимость нулевого дня, позволившую взломать почти 1000 сетевых коммутаторов",
-"link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-"score": 10.14,
-"tags": "#новости #взломы",
-"kind": "rss",
-"tok": [
-"exploited",
-"fixes",
-"hack",
-"nearly",
-"network",
-"switches",
-"zero-day",
-"zyxel"
-],
-"cve": []
-},
-{
-"t": "2026-11-05T04:42:02.454800+00:00",
-"title": "Community Alert: An EU entity is suspected of losing $106M+ from multiple centralized…",
-"link": "https://t.me/investigations/374",
-"score": 4.49,
-"tags": "#расследование #крипта #кражи",
-"kind": "tg",
-"tok": [
-"106m",
-"accounts",
-"actor",
-"alert",
-"centralized",
-"community",
-"entity",
-"exchange",
-"from",
-"funds",
-"illicit",
-"losing",
-"multiple",
-"stolen",
-"suspected",
-"usdc",
-"usdt",
-"were",
-"withdrawn",
-"yesterday"
-],
-"cve": []
-},
-{
-"t": "2026-11-05T04:42:56.707572+00:00",
-"title": "Кто богаче, Марио или Соник? - Числофил",
-"link": "https://www.youtube.com/watch?v=vCAD3W43lIk",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"mario",
-"numberphile",
-"richer",
-"sonic"
-],
-"cve": []
-},
-{
-"t": "2026-11-05T09:32:27.540147+00:00",
-"title": "Патч Zyxel GS1900 не блокирует эксплойт нулевого дня, позволяющий выполнять root-команды",
-"link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-"score": 13.89,
-"tags": "#новости #кибербезопасность",
-"kind": "rss",
-"tok": [
-"allowing",
-"block",
-"command",
-"execution",
-"exploit",
-"fails",
-"gs1900",
-"patch",
-"root",
-"zero-day",
-"zyxel"
-],
-"cve": []
-},
-{
-"t": "2026-11-05T09:32:34.210872+00:00",
-"title": "Преодоление биткойн-атаки Mercado: как цепной анализ привел к заморозке почти 10 миллионов долларов украденных средств",
-"link": "https://www.chainalysis.com/blog/chainalysis-response-mercado-bitcoin/",
-"score": 9.5,
-"tags": "#расследование #крипта #даркнет",
-"kind": "rss",
-"tok": [
-"attack",
-"bitcoin",
-"chainalysis",
-"disrupting",
-"freeze",
-"funds",
-"mercado",
-"nearly",
-"stolen"
-],
-"cve": []
-},
-{
-"t": "2026-11-05T09:32:37.784646+00:00",
-"title": "Исследователи VulnCheck отмечают, что критическая уязвимость в Node-RED используется в…",
-"link": "https://t.me/true_secator/8779",
-"score": 3.19,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"node-red",
-"vulncheck",
-"атак",
-"атаках",
-"вредоносн",
-"используется",
-"исследователи",
-"критическая",
-"несколько",
-"одного",
-"отмечают",
-"причем",
-"развертывания",
-"различных",
-"сразу",
-"того",
-"уязвимость",
-"фиксировалось",
-"целью"
-],
-"cve": [
-"cve-2026-58115",
-"cve-2026-58115"
-]
-},
 {
 "t": "2026-11-05T14:19:28.156845+00:00",
 "title": "Как ФСБ Нашли Русского Хакера из Воронежа",
@@ -2177,10 +2040,76 @@
 "targets"
 ],
 "cve": []
+},
+{
+"t": "2026-11-13T10:49:40.660904+00:00",
+"title": "Данные клиентов Notion утекли в результате взлома ИИ-платформы Fireworks . Правда, как…",
+"link": "https://t.me/true_secator/8805",
+"score": 4.53,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"fireworks",
+"notion",
+"взлома",
+"данные",
+"доступ",
+"заявляется",
+"злоумышленники",
+"ии-платформы",
+"клиентов",
+"менее",
+"получили",
+"правда",
+"пространств",
+"рабочих",
+"расшифровкам",
+"результате",
+"универ",
+"утекли",
+"чатов"
+],
+"cve": []
+},
+{
+"t": "2026-11-13T10:49:45.709699+00:00",
+"title": "AI Agents Are Here Now. Can Your Cyber Defenses Keep Up?",
+"link": "https://www.youtube.com/watch?v=zsIIIga8KbU",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"agents",
+"cyber",
+"defenses",
+"here",
+"keep",
+"your"
+],
+"cve": []
+},
+{
+"t": "2026-11-13T10:49:49.846234+00:00",
+"title": "Check Point warns of zero-day flaw exploited for root access",
+"link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+"score": 9.97,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"access",
+"check",
+"exploited",
+"flaw",
+"point",
+"root",
+"warns",
+"zero-day"
+],
+"cve": []
 }
 ],
 "rubrics": {
-"tip": "2026-11-12",
+"tip": "2026-11-13",
 "quiz": "2026-11-08",
 "term": "2026-11-12",
 "top_day": "2026-11-11"
