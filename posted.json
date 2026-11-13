@@ -64,6 +64,7 @@
 "https://www.youtube.com/shorts/iJU6csQs_no",
 "https://www.youtube.com/shorts/v9sfKhXDOn0",
 "https://www.youtube.com/watch?v=-j15pqyZBZs",
+"https://www.youtube.com/watch?v=06Qjai8RQKw",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
 "https://www.youtube.com/watch?v=J9OIWnwuAeU",
 "https://www.youtube.com/watch?v=PBLB1nZ2SZI",
@@ -81,6 +82,7 @@
 "https://xakep.ru/2026/11/10/d-link-0-days/",
 "https://xakep.ru/2026/11/10/sshole-attacks/",
 "https://xakep.ru/2026/11/11/worse_query/",
+"https://xakep.ru/2026/11/13/n-able-0days/",
 "tg:durov/553",
 "tg:durov/554",
 "tg:durov/556",
@@ -89,6 +91,7 @@
 "tg:tginfo/4448",
 "tg:tginfo/4449",
 "tg:tginfo/4452",
+"tg:tginfo/4453",
 "tg:true_secator/8779",
 "tg:true_secator/8782",
 "tg:true_secator/8784",
@@ -105,8 +108,8 @@
 "tg:true_secator/8806",
 "tg:true_secator/8808"
 ],
-"last_post": "2026-11-13T10:49:49.846312+00:00",
-"n": 101,
+"last_post": "2026-11-13T18:27:02.936821+00:00",
+"n": 104,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -122,90 +125,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-05T14:19:28.156845+00:00",
-"title": "Как ФСБ Нашли Русского Хакера из Воронежа",
-"link": "https://www.youtube.com/watch?v=3BmzS53iHiw",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"воронежа",
-"нашли",
-"русского",
-"хакера"
-],
-"cve": []
-},
-{
-"t": "2026-11-05T17:40:23.811541+00:00",
-"title": "Агенты ИИ получили root-права в Linux из-за 948 ошибок ядра в исследовании OpenAI",
-"link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
-"score": 9.49,
-"tags": "#кибербезопасность",
-"kind": "rss",
-"tok": [
-"agents",
-"flaws",
-"kernel",
-"linux",
-"openai",
-"research",
-"root"
-],
-"cve": []
-},
-{
-"t": "2026-11-05T17:40:28.789902+00:00",
-"title": "Северная Корея украла 12,8 миллиарда долларов США в криптовалюте, из них 7,4 миллиарда долларов США в 2026 году | ТРМ Лабс",
-"link": "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
-"score": 9.4,
-"tags": "#расследование #крипта",
-"kind": "rss",
-"tok": [
-"2026",
-"billion",
-"crypto",
-"korea",
-"labs",
-"north",
-"stolen"
-],
-"cve": []
-},
-{
-"t": "2026-11-05T17:40:32.261251+00:00",
-"title": "Позитивы выкатили увесистый отчет с оценками влияния атак вымогателей и вайперов на…",
-"link": "https://t.me/true_secator/8784",
-"score": 6.63,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"2025",
-"2026",
-"атак",
-"бизнес",
-"вайперов",
-"влияния",
-"второе",
-"выкатили",
-"вымогателей",
-"года",
-"основных",
-"отметим",
-"отчет",
-"оценками",
-"первое",
-"позитивы",
-"положений",
-"полугодие",
-"российский",
-"следу",
-"среди",
-"увесистый"
-],
-"cve": []
-},
 {
 "t": "2026-11-05T22:54:04.655485+00:00",
 "title": "Публичная библиотека Квинса сообщает, что атака с помощью программы-вымогателя нарушила работу Wi-Fi и компьютеров на территории",
@@ -2106,12 +2025,82 @@
 "zero-day"
 ],
 "cve": []
+},
+{
+"t": "2026-11-13T18:26:54.325700+00:00",
+"title": "Компания N-able отключила платформу N-central из-за обнаружения 33 уязвимостей нулевого",
+"link": "https://xakep.ru/2026/11/13/n-able-0days/",
+"score": 10.75,
+"tags": "#хакинг #новости",
+"kind": "rss",
+"tok": [
+"n-able",
+"n-central",
+"из-за",
+"компания",
+"нулевого",
+"обнаружения",
+"отключила",
+"платформу",
+"уязвимостей"
+],
+"cve": []
+},
+{
+"t": "2026-11-13T18:26:58.075241+00:00",
+"title": "Telegram отключил HTML-виджеты в чатах Несколько минут назад интерактивные HTML-сообщения…",
+"link": "https://t.me/tginfo/4453",
+"score": 8.67,
+"tags": "#telegram #новости",
+"kind": "tg",
+"tok": [
+"html-виджеты",
+"html-сообщения",
+"telegram",
+"tginfo",
+"виджеты",
+"всех",
+"интерактивные",
+"команда",
+"мессенджера",
+"минут",
+"назад",
+"несколько",
+"отключил",
+"перестали",
+"полагает",
+"пользователей",
+"работать",
+"редакция",
+"чатах",
+"экстренн"
+],
+"cve": []
+},
+{
+"t": "2026-11-13T18:27:02.936743+00:00",
+"title": "Is curl Getting Harder to Hack? Daniel Stenberg on AI vs. Decades of Hardening",
+"link": "https://www.youtube.com/watch?v=06Qjai8RQKw",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"curl",
+"daniel",
+"decades",
+"getting",
+"hack",
+"hardening",
+"harder",
+"stenberg"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-13",
 "quiz": "2026-11-08",
 "term": "2026-11-12",
-"top_day": "2026-11-11"
+"top_day": "2026-11-13"
 }
 }
