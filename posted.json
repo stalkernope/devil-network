@@ -43,11 +43,13 @@
 "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
 "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
 "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+"https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
 "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
 "https://www.europol.europa.eu/media-press/newsroom/news/almost-50-arrested-police-target-western-balkan-network-linked-to-killings",
 "https://www.europol.europa.eu/media-press/newsroom/news/european-and-ecuadorian-cooperation-leads-to-20-arrests-in-major-hit-against-drug-trafficking",
 "https://www.europol.europa.eu/media-press/newsroom/news/ordering-violence-abroad-five-suspects-arrested-in-spain-morocco-and-france",
 "https://www.malwarebytes.com/blog/news/2026/11/13-3-million-peoples-medical-data-exposed-companies-pay-300000",
+"https://www.ransomware.live/id/RmluYWwgTm90aWNlIEJlZm9yZSBQdWJsaWNhdGlvbkBldmVyZXN0",
 "https://www.securitylab.ru/news/579843.php",
 "https://www.securitylab.ru/news/579909.php",
 "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
@@ -86,6 +88,7 @@
 "tg:durov/553",
 "tg:durov/554",
 "tg:durov/556",
+"tg:durov/560",
 "tg:investigations/374",
 "tg:investigations/377",
 "tg:tginfo/4448",
@@ -108,8 +111,8 @@
 "tg:true_secator/8806",
 "tg:true_secator/8808"
 ],
-"last_post": "2026-11-13T18:27:02.936821+00:00",
-"n": 104,
+"last_post": "2026-11-13T23:48:39.853310+00:00",
+"n": 107,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -125,66 +128,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-05T22:54:04.655485+00:00",
-"title": "Публичная библиотека Квинса сообщает, что атака с помощью программы-вымогателя нарушила работу Wi-Fi и компьютеров на территории",
-"link": "https://therecord.media/queens-library-ransomware-causes-disruptions",
-"score": 10.24,
-"tags": "#даркнет #кибервойна",
-"kind": "rss",
-"tok": [
-"attack",
-"computers",
-"disrupted",
-"library",
-"on-site",
-"public",
-"queens",
-"ransomware",
-"says",
-"wi-fi"
-],
-"cve": []
-},
-{
-"t": "2026-11-05T22:54:08.296717+00:00",
-"title": "Прибыль американского биткойна в размере 126 миллионов долларов маскирует давление на добычу полезных ископаемых, поскольку конкуренты обращаются к искусственному интеллекту",
-"link": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"score": 8.97,
-"tags": "#крипта",
-"kind": "rss",
-"tok": [
-"126m",
-"american",
-"bitcoin",
-"masks",
-"mining",
-"pressure",
-"profit",
-"rivals",
-"turn"
-],
-"cve": []
-},
-{
-"t": "2026-11-05T22:54:12.101991+00:00",
-"title": "Bitcion упал до $76 000, поскольку коллапс торговли ИИ привел к резкому падению акций",
-"link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
-"score": 8.49,
-"tags": "#крипта",
-"kind": "rss",
-"tok": [
-"bitcion",
-"collapsing",
-"drags",
-"lower",
-"sharply",
-"stocks",
-"trade",
-"tumbles"
-],
-"cve": []
-},
 {
 "t": "2026-11-06T03:18:26.303794+00:00",
 "title": "На протяжении последних лет на канале SecAtor выходили материалы с отчетами ведущих…",
@@ -2093,6 +2036,73 @@
 "hardening",
 "harder",
 "stenberg"
+],
+"cve": []
+},
+{
+"t": "2026-11-13T23:48:31.483205+00:00",
+"title": "🏴‍☠️ Everest has just published a new victim : Final Notice Before Publication",
+"link": "https://www.ransomware.live/id/RmluYWwgTm90aWNlIEJlZm9yZSBQdWJsaWNhdGlvbkBldmVyZXN0",
+"score": 10.69,
+"tags": "#ransomware #даркнет",
+"kind": "rss",
+"tok": [
+"before",
+"everest",
+"final",
+"just",
+"notice",
+"publication",
+"published",
+"victim"
+],
+"cve": []
+},
+{
+"t": "2026-11-13T23:48:36.200930+00:00",
+"title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
+"link": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
+"score": 9.28,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"arcticrat",
+"cybercrime",
+"finances",
+"gang",
+"profiles",
+"victim",
+"with"
+],
+"cve": []
+},
+{
+"t": "2026-11-13T23:48:39.853222+00:00",
+"title": "Re alleged RCE in new TG Android/Windows widgets : The issue doesn’t exist. No one could…",
+"link": "https://t.me/durov/560",
+"score": 7.25,
+"tags": "#telegram #Дуров",
+"kind": "tg",
+"tok": [
+"actively",
+"alleged",
+"android",
+"could",
+"doesn",
+"even",
+"exist",
+"first",
+"hacked",
+"issue",
+"just",
+"message",
+"receiving",
+"service",
+"start",
+"that",
+"third-party",
+"widgets",
+"windows"
 ],
 "cve": []
 }
