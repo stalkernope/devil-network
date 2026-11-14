@@ -53,6 +53,7 @@
 "https://www.europol.europa.eu/media-press/newsroom/news/ordering-violence-abroad-five-suspects-arrested-in-spain-morocco-and-france",
 "https://www.malwarebytes.com/blog/news/2026/11/13-3-million-peoples-medical-data-exposed-companies-pay-300000",
 "https://www.ransomware.live/id/RmluYWwgTm90aWNlIEJlZm9yZSBQdWJsaWNhdGlvbkBldmVyZXN0",
+"https://www.ransomware.live/id/TW9tZW50dW0gVGVsZWNvbUBFbmRab25l",
 "https://www.securitylab.ru/news/579843.php",
 "https://www.securitylab.ru/news/579909.php",
 "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
@@ -73,6 +74,7 @@
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
 "https://www.youtube.com/watch?v=J9OIWnwuAeU",
 "https://www.youtube.com/watch?v=PBLB1nZ2SZI",
+"https://www.youtube.com/watch?v=Q-e9L6ECpgM",
 "https://www.youtube.com/watch?v=Z5DAv-zgrcI",
 "https://www.youtube.com/watch?v=p2AAz24AzU4",
 "https://www.youtube.com/watch?v=pIUXSsrDgBI",
@@ -112,10 +114,11 @@
 "tg:true_secator/8799",
 "tg:true_secator/8805",
 "tg:true_secator/8806",
-"tg:true_secator/8808"
+"tg:true_secator/8808",
+"tg:true_secator/8813"
 ],
-"last_post": "2026-11-14T05:39:25.258406+00:00",
-"n": 110,
+"last_post": "2026-11-14T12:32:25.503896+00:00",
+"n": 113,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -131,73 +134,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-06T11:22:39.464337+00:00",
-"title": "Обновление Zcash NU7 запущено, перерабатывая 60% комиссий для финансирования будущих вознаграждений за блоки",
-"link": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
-"score": 7.5,
-"tags": "#крипта #web3",
-"kind": "rss",
-"tok": [
-"block",
-"fees",
-"fund",
-"future",
-"goes",
-"live",
-"recycling",
-"rewards",
-"upgrade",
-"zcash"
-],
-"cve": []
-},
-{
-"t": "2026-11-06T11:22:43.079414+00:00",
-"title": "Хакеры массово захватывают основные учетные записи пользователей электромобилей Li Auto в…",
-"link": "https://t.me/true_secator/8782",
-"score": 3.64,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"auto",
-"автомобилям",
-"блокируя",
-"владельцев",
-"восстановление",
-"вымогают",
-"деньги",
-"доступ",
-"записи",
-"захватывают",
-"контроля",
-"массово",
-"основные",
-"пользователей",
-"россии",
-"транспор",
-"учетные",
-"хакеры",
-"электромобилей"
-],
-"cve": []
-},
-{
-"t": "2026-11-06T11:22:46.901408+00:00",
-"title": "Слепые рейтинговые цифры (Дэниел Литт)",
-"link": "https://www.youtube.com/shorts/iJU6csQs_no",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"blind",
-"daniel",
-"litt",
-"numbers",
-"ranking"
-],
-"cve": []
-},
 {
 "t": "2026-11-06T18:17:00.950967+00:00",
 "title": "Следующая мишень для исков о утечке данных – юридические фирмы, представляющие стороны, подвергшиеся утечке данных",
@@ -2108,11 +2044,75 @@
 "warns"
 ],
 "cve": []
+},
+{
+"t": "2026-11-14T12:32:15.041692+00:00",
+"title": "Исследователи Лаборатории Касперского препарировали Citrus Ransomware , которая…",
+"link": "https://t.me/true_secator/8813",
+"score": 5.54,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"citrus",
+"ransomware",
+"sn00py",
+"vless",
+"встречае",
+"годы",
+"исследователи",
+"касперского",
+"киберугроз",
+"которая",
+"лаборатории",
+"последние",
+"практикует",
+"препарировали",
+"придачу",
+"среди",
+"трафика",
+"чаще",
+"шифрования"
+],
+"cve": [
+"cve-2026-54121",
+"cve-2020-1337"
+]
+},
+{
+"t": "2026-11-14T12:32:20.566488+00:00",
+"title": "Подкаст «Полезная нагрузка» 013 – Catchup",
+"link": "https://www.youtube.com/watch?v=Q-e9L6ECpgM",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"catchup",
+"payload",
+"podcast"
+],
+"cve": []
+},
+{
+"t": "2026-11-14T12:32:25.503810+00:00",
+"title": "🏴‍☠️ Endzone только что опубликовала новую жертву: Momentum Telecom.",
+"link": "https://www.ransomware.live/id/TW9tZW50dW0gVGVsZWNvbUBFbmRab25l",
+"score": 7.7,
+"tags": "#ransomware #даркнет",
+"kind": "rss",
+"tok": [
+"endzone",
+"just",
+"momentum",
+"published",
+"telecom",
+"victim"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-13",
-"quiz": "2026-11-08",
+"quiz": "2026-11-14",
 "term": "2026-11-12",
 "top_day": "2026-11-13"
 }
