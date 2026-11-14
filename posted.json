@@ -1,5 +1,6 @@
 {
 "seen": [
+"CVE-2026-123039",
 "CVE-2026-19868",
 "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -23,6 +24,7 @@
 "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
 "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+"https://therecord.media/city-of-osaka-japan-email-data-breach",
 "https://therecord.media/queens-library-ransomware-causes-disruptions",
 "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
 "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
@@ -42,6 +44,7 @@
 "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
 "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
 "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
+"https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
 "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
 "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
 "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
@@ -111,8 +114,8 @@
 "tg:true_secator/8806",
 "tg:true_secator/8808"
 ],
-"last_post": "2026-11-13T23:48:39.853310+00:00",
-"n": 107,
+"last_post": "2026-11-14T05:39:25.258406+00:00",
+"n": 110,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -128,74 +131,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-06T03:18:26.303794+00:00",
-"title": "На протяжении последних лет на канале SecAtor выходили материалы с отчетами ведущих…",
-"link": "https://t.me/true_secator/8785",
-"score": 5.33,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"fluffy",
-"secator",
-"vasygrek",
-"wolf",
-"активности",
-"ведущих",
-"выходили",
-"группы",
-"инструмен",
-"инфосек-компаний",
-"канале",
-"материалы",
-"отношении",
-"отчетами",
-"последних",
-"протяжении",
-"российских",
-"хакерской",
-"частности"
-],
-"cve": []
-},
-{
-"t": "2026-11-06T03:18:31.951349+00:00",
-"title": "США вводят дополнительные санкции против филиалов мошеннического центра Prince Group",
-"link": "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
-"score": 8.84,
-"tags": "#даркнет #кибервойна",
-"kind": "rss",
-"tok": [
-"affiliates",
-"against",
-"center",
-"group",
-"issues",
-"more",
-"prince",
-"sanctions",
-"scam"
-],
-"cve": []
-},
-{
-"t": "2026-11-06T03:18:37.117804+00:00",
-"title": "3 обвиняются в схеме использования ИИ для выдачи себя за генеральных директоров и адвокатов с целью кражи 129 миллионов долларов",
-"link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
-"score": 7.74,
-"tags": "#кибербезопасность",
-"kind": "rss",
-"tok": [
-"attorneys",
-"ceos",
-"charged",
-"impersonate",
-"million",
-"scheme",
-"steal"
-],
-"cve": []
-},
 {
 "t": "2026-11-06T11:22:39.464337+00:00",
 "title": "Обновление Zcash NU7 запущено, перерабатывая 60% комиссий для финансирования будущих вознаграждений за блоки",
@@ -2103,6 +2038,74 @@
 "third-party",
 "widgets",
 "windows"
+],
+"cve": []
+},
+{
+"t": "2026-11-14T05:39:13.678252+00:00",
+"title": "Кошелек эпохи Сатоши, рассмотренный в судебном иске на сумму 260 миллиардов долларов, переместил 75 BTC, которые он хранил с 2011 года.",
+"link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+"score": 10.63,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"2011",
+"billion",
+"held",
+"lawsuit",
+"moves",
+"satoshi-era",
+"served",
+"since",
+"wallet"
+],
+"cve": []
+},
+{
+"t": "2026-11-14T05:39:19.437841+00:00",
+"title": "CVE-2026-123039: Несколько продуктов Check Point — Несколько продуктов Check Point Неверное назначение разрешений для уязвимости критического ресурса",
+"link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123039",
+"score": 9.46,
+"tags": "#уязвимости #CVE",
+"kind": "kev",
+"tok": [
+"assignment",
+"check",
+"critical",
+"cve-2026-123039",
+"incorrect",
+"multiple",
+"permission",
+"point",
+"products",
+"resource",
+"vulnerability"
+],
+"cve": [
+"cve-2026-123039"
+]
+},
+{
+"t": "2026-11-14T05:39:25.258325+00:00",
+"title": "Город Осака предупреждает об утечке данных, затронувшей 1 миллион человек, поскольку Япония переживает десятки киберинцидентов",
+"link": "https://therecord.media/city-of-osaka-japan-email-data-breach",
+"score": 8.53,
+"tags": "#даркнет #кибервойна",
+"kind": "rss",
+"tok": [
+"breach",
+"city",
+"cyber",
+"data",
+"dozens",
+"from",
+"impacting",
+"incidents",
+"japan",
+"million",
+"osaka",
+"reels",
+"warns"
 ],
 "cve": []
 }
