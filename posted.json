@@ -10,6 +10,7 @@
 "https://databreaches.net/2026/11/06/state-attorneys-general-secure-up-to-10-million-and-corrective-action-plan-from-perry-johnson-companies-after-2023-breach/",
 "https://databreaches.net/2026/11/06/the-next-target-for-data-breach-lawsuits-law-firms-that-represent-breached-parties/",
 "https://databreaches.net/2026/11/11/au-hacker-claims-to-have-sold-stolen-exams-to-students-but-marked-them-for-identification-purposes/",
+"https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/",
 "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
 "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
 "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
@@ -72,6 +73,7 @@
 "https://www.youtube.com/watch?v=-j15pqyZBZs",
 "https://www.youtube.com/watch?v=06Qjai8RQKw",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
+"https://www.youtube.com/watch?v=9U1b9RsmdWk",
 "https://www.youtube.com/watch?v=J9OIWnwuAeU",
 "https://www.youtube.com/watch?v=PBLB1nZ2SZI",
 "https://www.youtube.com/watch?v=Q-e9L6ECpgM",
@@ -115,10 +117,11 @@
 "tg:true_secator/8805",
 "tg:true_secator/8806",
 "tg:true_secator/8808",
+"tg:true_secator/8811",
 "tg:true_secator/8813"
 ],
-"last_post": "2026-11-14T12:32:25.503896+00:00",
-"n": 113,
+"last_post": "2026-11-14T18:30:52.753042+00:00",
+"n": 116,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -134,72 +137,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-06T18:17:00.950967+00:00",
-"title": "Следующая мишень для исков о утечке данных – юридические фирмы, представляющие стороны, подвергшиеся утечке данных",
-"link": "https://databreaches.net/2026/11/06/the-next-target-for-data-breach-lawsuits-law-firms-that-represent-breached-parties/",
-"score": 10.33,
-"tags": "#утечки #даркнет",
-"kind": "rss",
-"tok": [
-"breach",
-"breached",
-"data",
-"firms",
-"lawsuits",
-"next",
-"parties",
-"represent",
-"target",
-"that"
-],
-"cve": []
-},
-{
-"t": "2026-11-06T18:17:06.164110+00:00",
-"title": "Установка исправления использованной уязвимости WordPress может в последний раз подвергнуть опасности некоторые сайты",
-"link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-"score": 9.62,
-"tags": "#новости #кибербезопасность",
-"kind": "rss",
-"tok": [
-"exploited",
-"expose",
-"flaw",
-"installing",
-"last",
-"sites",
-"some",
-"time",
-"wordpress"
-],
-"cve": []
-},
-{
-"t": "2026-11-06T18:17:09.831664+00:00",
-"title": "Telegram для Android, iOS и macOS обновились до версии 13.2, а Telegram Desktop — до…",
-"link": "https://t.me/tginfo/4448",
-"score": 7.29,
-"tags": "#telegram #новости",
-"kind": "tg",
-"tok": [
-"android",
-"desktop",
-"html-сообщения",
-"macos",
-"telegram",
-"версии",
-"делимся",
-"мессенджера",
-"ноябрьском",
-"обновились",
-"обновлении",
-"подробностями",
-"появилось",
-"разра"
-],
-"cve": []
-},
 {
 "t": "2026-11-06T23:25:43.770427+00:00",
 "title": "Его обвинили в работе на ФБР и создании ransomware форума ханипота",
@@ -2108,12 +2045,76 @@
 "victim"
 ],
 "cve": []
+},
+{
+"t": "2026-11-14T18:30:44.458555+00:00",
+"title": "Uber Data Breach: Driver Licenses Stolen via Fireworks AI",
+"link": "https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/",
+"score": 10.26,
+"tags": "#утечки #даркнет",
+"kind": "rss",
+"tok": [
+"breach",
+"data",
+"driver",
+"fireworks",
+"licenses",
+"stolen",
+"uber"
+],
+"cve": []
+},
+{
+"t": "2026-11-14T18:30:48.031164+00:00",
+"title": "Бывший сотрудник микромягких , исследователь Абдельхамид Насери (также известный как…",
+"link": "https://t.me/true_secator/8811",
+"score": 6.81,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"0-day",
+"eclipse",
+"nightmare",
+"абдельхамид",
+"бывшего",
+"бывший",
+"известный",
+"исследователь",
+"микромягких",
+"наезжать",
+"насери",
+"новую",
+"опубликовал",
+"продолжает",
+"работодателя",
+"своего",
+"сотрудник",
+"также",
+"этот"
+],
+"cve": []
+},
+{
+"t": "2026-11-14T18:30:52.752953+00:00",
+"title": "Самый Молодой Крипто Скаммер в Даркнете",
+"link": "https://www.youtube.com/watch?v=9U1b9RsmdWk",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"даркнете",
+"крипто",
+"молодой",
+"самый",
+"скаммер"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-13",
 "quiz": "2026-11-14",
 "term": "2026-11-12",
-"top_day": "2026-11-13"
+"top_day": "2026-11-14"
 }
 }
