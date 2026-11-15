@@ -40,6 +40,7 @@
 "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
 "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
 "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+"https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
 "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
 "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
 "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
@@ -84,6 +85,7 @@
 "https://www.youtube.com/watch?v=J9OIWnwuAeU",
 "https://www.youtube.com/watch?v=PBLB1nZ2SZI",
 "https://www.youtube.com/watch?v=Q-e9L6ECpgM",
+"https://www.youtube.com/watch?v=XJ8zqsz4xvw",
 "https://www.youtube.com/watch?v=Z5DAv-zgrcI",
 "https://www.youtube.com/watch?v=p2AAz24AzU4",
 "https://www.youtube.com/watch?v=pIUXSsrDgBI",
@@ -105,6 +107,7 @@
 "tg:durov/560",
 "tg:investigations/374",
 "tg:investigations/377",
+"tg:investigations/379",
 "tg:tginfo/4448",
 "tg:tginfo/4449",
 "tg:tginfo/4452",
@@ -130,8 +133,8 @@
 "tg:true_secator/8811",
 "tg:true_secator/8813"
 ],
-"last_post": "2026-11-15T09:50:00.681426+00:00",
-"n": 125,
+"last_post": "2026-11-15T16:52:19.917335+00:00",
+"n": 128,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -147,144 +150,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-07T10:15:21.354927+00:00",
-"title": "Заказ насилия из-за границы: пятеро подозреваемых арестованы в Испании, Марокко и Франции",
-"link": "https://www.europol.europa.eu/media-press/newsroom/news/ordering-violence-abroad-five-suspects-arrested-in-spain-morocco-and-france",
-"score": 7.85,
-"tags": "#даркнет #аресты #расследование",
-"kind": "rss",
-"tok": [
-"abroad",
-"arrested",
-"five",
-"france",
-"from",
-"morocco",
-"ordering",
-"spain",
-"suspects",
-"violence"
-],
-"cve": []
-},
-{
-"t": "2026-11-07T10:15:25.174995+00:00",
-"title": "Исследователи Лаборатории Касперского в деталях разобрали бесфайловый взлом SharePoint…",
-"link": "https://t.me/true_secator/8788",
-"score": 7.58,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"2025",
-"cve-2025-53770",
-"cve-2025-53771",
-"sharepoint",
-"storm-2603",
-"бесфайловый",
-"взлом",
-"году",
-"групп",
-"группой",
-"деталях",
-"известные",
-"исследователи",
-"касперского",
-"лаборатории",
-"несколько",
-"разных",
-"разобрали",
-"эксплуатировали"
-],
-"cve": [
-"cve-2025-53770",
-"cve-2025-53771"
-]
-},
-{
-"t": "2026-11-07T10:15:30.778704+00:00",
-"title": "12-летняя ошибка безопасности была только началом | Угроза провода",
-"link": "https://www.youtube.com/watch?v=yTEBEBz6dNw",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"12-year-old",
-"beginning",
-"flaw",
-"just",
-"security",
-"threat",
-"wire"
-],
-"cve": []
-},
-{
-"t": "2026-11-07T16:32:12.203606+00:00",
-"title": "182: Черные тени",
-"link": "https://darknetdiaries.com/episode/182/",
-"score": 7.9,
-"tags": "#даркнет #подкаст",
-"kind": "rss",
-"tok": [
-"blackshades"
-],
-"cve": []
-},
-{
-"t": "2026-11-07T16:32:17.434393+00:00",
-"title": "SonicWall исправляет использованную уязвимость SonicOS, которая ослабляет вход в VPN",
-"link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
-"score": 7.88,
-"tags": "#кибербезопасность",
-"kind": "rss",
-"tok": [
-"exploited",
-"logins",
-"patches",
-"sonicos",
-"sonicwall",
-"that",
-"vulnerability",
-"weakens"
-],
-"cve": [
-"cve-2026-19868"
-]
-},
-{
-"t": "2026-11-07T16:32:21.031646+00:00",
-"title": "Кейс с холодильными системами обрастает новыми деталями. На этой неделе хакеры пытались…",
-"link": "https://t.me/true_secator/8787",
-"score": 7.29,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"банков",
-"взлом",
-"всей",
-"деталями",
-"из-за",
-"кейс",
-"крови",
-"неделе",
-"новыми",
-"обрастает",
-"повысить",
-"пытались",
-"системами",
-"сотрудники",
-"температуру",
-"того",
-"удался",
-"франции",
-"хакеры",
-"холодильниках",
-"холодильными",
-"этой"
-],
-"cve": []
-},
 {
 "t": "2026-11-07T20:32:22.539425+00:00",
 "title": "Представляем Theme Studio Pro",
@@ -2176,12 +2041,66 @@
 "warns"
 ],
 "cve": []
+},
+{
+"t": "2026-11-15T16:52:10.736069+00:00",
+"title": "Утечка данных сотрудников TSMC связана с облачным провайдером",
+"link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+"score": 12.14,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"breach",
+"cloud",
+"data",
+"employee",
+"linked",
+"provider",
+"tsmc"
+],
+"cve": []
+},
+{
+"t": "2026-11-15T16:52:14.428115+00:00",
+"title": "ZachXBT vs. Indian Law Enforcement tomorrow on X at 1 pm UTC. Who do you think wins?",
+"link": "https://t.me/investigations/379",
+"score": 2.62,
+"tags": "#расследование #крипта #кражи",
+"kind": "tg",
+"tok": [
+"enforcement",
+"indian",
+"think",
+"tomorrow",
+"wins",
+"zachxbt"
+],
+"cve": []
+},
+{
+"t": "2026-11-15T16:52:19.917257+00:00",
+"title": "Китайский искусственный интеллект попытался позвонить домой. Никто не знает, почему | Угроза провода",
+"link": "https://www.youtube.com/watch?v=XJ8zqsz4xvw",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"chinese",
+"home",
+"knows",
+"nobody",
+"phone",
+"threat",
+"tried",
+"wire"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-15",
 "quiz": "2026-11-14",
-"term": "2026-11-12",
+"term": "2026-11-15",
 "top_day": "2026-11-14"
 }
 }
