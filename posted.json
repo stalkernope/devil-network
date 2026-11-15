@@ -1,5 +1,6 @@
 {
 "seen": [
+"CVE-2026-114713",
 "CVE-2026-123039",
 "CVE-2026-19868",
 "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -44,6 +45,7 @@
 "https://www.chainalysis.com/blog/chainalysis-response-mercado-bitcoin/",
 "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
 "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+"https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
 "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
 "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
 "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
@@ -65,6 +67,7 @@
 "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
 "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
 "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
+"https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
 "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
 "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
 "https://www.youtube.com/shorts/33_jJ4kIxfc",
@@ -124,8 +127,8 @@
 "tg:true_secator/8811",
 "tg:true_secator/8813"
 ],
-"last_post": "2026-11-14T22:45:33.431975+00:00",
-"n": 119,
+"last_post": "2026-11-15T02:28:17.147163+00:00",
+"n": 122,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -141,70 +144,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-06T23:25:43.770427+00:00",
-"title": "Его обвинили в работе на ФБР и создании ransomware форума ханипота",
-"link": "https://habr.com/ru/articles/1104742/?utm_campaign=1104742&utm_source=habrahabr&utm_medium=rss",
-"score": 10.14,
-"tags": "#ИБ",
-"kind": "rss",
-"tok": [
-"ransomware",
-"обвинили",
-"работе",
-"создании",
-"форума",
-"ханипота"
-],
-"cve": []
-},
-{
-"t": "2026-11-06T23:25:49.284549+00:00",
-"title": "Генеральные прокуроры штата добились от компаний Perry Johnson выплаты до 10 миллионов долларов и плана корректирующих действий после нарушения в 2023 году",
-"link": "https://databreaches.net/2026/11/06/state-attorneys-general-secure-up-to-10-million-and-corrective-action-plan-from-perry-johnson-companies-after-2023-breach/",
-"score": 10.09,
-"tags": "#утечки #даркнет",
-"kind": "rss",
-"tok": [
-"2023",
-"action",
-"after",
-"attorneys",
-"breach",
-"companies",
-"corrective",
-"from",
-"general",
-"johnson",
-"million",
-"perry",
-"plan",
-"secure",
-"state"
-],
-"cve": []
-},
-{
-"t": "2026-11-06T23:25:54.279454+00:00",
-"title": "Другие новости: Trezor Implant, счета за LLMJacking достигли 1 миллиона долларов, недостатки SAP превращены в оружие в течение нескольких дней",
-"link": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
-"score": 9.11,
-"tags": "#кибербезопасность",
-"kind": "rss",
-"tok": [
-"bills",
-"days",
-"flaws",
-"implant",
-"llmjacking",
-"news",
-"other",
-"trezor",
-"weaponized",
-"within"
-],
-"cve": []
-},
 {
 "t": "2026-11-07T03:04:11.450868+00:00",
 "title": "Продолжаем отслеживать наиболее трендовые угрозы, отметим следующие: 1. Недавно…",
@@ -2180,6 +2119,58 @@
 "учетных",
 "хакеры",
 "ходе"
+],
+"cve": []
+},
+{
+"t": "2026-11-15T02:28:08.535789+00:00",
+"title": "Is AI Making Us Worse at Cybersecurity?",
+"link": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+"score": 5.95,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"cybersecurity",
+"making",
+"worse"
+],
+"cve": []
+},
+{
+"t": "2026-11-15T02:28:12.748973+00:00",
+"title": "CVE-2026-114713: UnrealIRCd UnrealIRCd — UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
+"link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114713",
+"score": 5.45,
+"tags": "#уязвимости #CVE",
+"kind": "kev",
+"tok": [
+"cve-2026-114713",
+"delimiters",
+"improper",
+"neutralization",
+"unrealircd",
+"vulnerability"
+],
+"cve": [
+"cve-2026-114713"
+]
+},
+{
+"t": "2026-11-15T02:28:17.147086+00:00",
+"title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+"link": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+"score": 5.27,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"business",
+"ethereum",
+"megaeth",
+"project",
+"pursues",
+"scaling",
+"slashes",
+"staff"
 ],
 "cve": []
 }
