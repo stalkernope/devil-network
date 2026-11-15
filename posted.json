@@ -16,6 +16,7 @@
 "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
 "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
 "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+"https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
 "https://habr.com/ru/articles/1104742/?utm_campaign=1104742&utm_source=habrahabr&utm_medium=rss",
 "https://habr.com/ru/articles/1104926/?utm_campaign=1104926&utm_source=habrahabr&utm_medium=rss",
 "https://habr.com/ru/articles/1105192/?utm_campaign=1105192&utm_source=habrahabr&utm_medium=rss",
@@ -26,6 +27,7 @@
 "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
 "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
 "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+"https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
 "https://therecord.media/city-of-osaka-japan-email-data-breach",
 "https://therecord.media/queens-library-ransomware-causes-disruptions",
@@ -105,6 +107,7 @@
 "tg:durov/554",
 "tg:durov/556",
 "tg:durov/560",
+"tg:durov/561",
 "tg:investigations/374",
 "tg:investigations/377",
 "tg:investigations/379",
@@ -133,8 +136,8 @@
 "tg:true_secator/8811",
 "tg:true_secator/8813"
 ],
-"last_post": "2026-11-15T16:52:19.917335+00:00",
-"n": 128,
+"last_post": "2026-11-15T21:31:43.794177+00:00",
+"n": 131,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -150,59 +153,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-07T20:32:22.539425+00:00",
-"title": "Представляем Theme Studio Pro",
-"link": "https://www.youtube.com/watch?v=J9OIWnwuAeU",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"introducing",
-"studio",
-"theme"
-],
-"cve": []
-},
-{
-"t": "2026-11-07T20:32:27.443086+00:00",
-"title": "Финансовый директор Binance уходит, чтобы «заниматься новым предприятием» после взлома на сумму 6,3 миллиарда долларов",
-"link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-"score": 9.41,
-"tags": "#IT #стартапы",
-"kind": "rss",
-"tok": [
-"after",
-"billion",
-"binance",
-"hack",
-"leaving",
-"pursue",
-"venture"
-],
-"cve": []
-},
-{
-"t": "2026-11-07T20:32:31.850812+00:00",
-"title": "Казначейство США намерено прекратить предполагаемые незаконные потоки криптовалютной биржи MEXC на сумму более 16 миллиардов долларов",
-"link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-"score": 8.88,
-"tags": "#крипта",
-"kind": "rss",
-"tok": [
-"alleged",
-"billion",
-"crypto",
-"exchange",
-"flows",
-"illicit",
-"mexc",
-"moves",
-"over",
-"treasury"
-],
-"cve": []
-},
 {
 "t": "2026-11-07T23:59:21.764314+00:00",
 "title": "Исследователи Positive Technologies продолжают серию отчетных материалов, на этот раз…",
@@ -2093,6 +2043,76 @@
 "threat",
 "tried",
 "wire"
+],
+"cve": []
+},
+{
+"t": "2026-11-15T21:31:34.641223+00:00",
+"title": "Биткойн-ETF потеряли $2,1 миллиарда в ноябре, поскольку полоса оттока достигла семи дней",
+"link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+"score": 11.69,
+"tags": "#крипта #web3",
+"kind": "rss",
+"tok": [
+"billion",
+"bitcoin",
+"days",
+"etfs",
+"hits",
+"lose",
+"november",
+"outflow",
+"seven",
+"streak"
+],
+"cve": []
+},
+{
+"t": "2026-11-15T21:31:40.392548+00:00",
+"title": "Курсор утверждает, что украденный ключ искусственного интеллекта Fireworks привел к инциденту с расширением кода Клода, зараженным трояном",
+"link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+"score": 8.76,
+"tags": "#новости #кибербезопасность",
+"kind": "rss",
+"tok": [
+"claude",
+"code",
+"cursor",
+"extension",
+"fireworks",
+"incident",
+"says",
+"stolen",
+"trojanized"
+],
+"cve": []
+},
+{
+"t": "2026-11-15T21:31:43.794090+00:00",
+"title": "Nvidia’s board was right to fire Jensen. He was married. Meaning he signed an exclusive…",
+"link": "https://t.me/durov/561",
+"score": 1.53,
+"tags": "#telegram #Дуров",
+"kind": "tg",
+"tok": [
+"board",
+"contract",
+"exclusive",
+"exit",
+"fire",
+"guarantee",
+"jensen",
+"married",
+"meaning",
+"nvidia",
+"penalty",
+"right",
+"service",
+"sign",
+"signed",
+"trust",
+"uptime",
+"with"
 ],
 "cve": []
 }
