@@ -6,6 +6,7 @@
 "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://darknetdiaries.com/episode/182/",
 "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
 "https://databreaches.net/2026/11/06/state-attorneys-general-secure-up-to-10-million-and-corrective-action-plan-from-perry-johnson-companies-after-2023-breach/",
@@ -79,6 +80,7 @@
 "https://www.youtube.com/watch?v=06Qjai8RQKw",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
 "https://www.youtube.com/watch?v=9U1b9RsmdWk",
+"https://www.youtube.com/watch?v=Dcxyeb1rB1g",
 "https://www.youtube.com/watch?v=J9OIWnwuAeU",
 "https://www.youtube.com/watch?v=PBLB1nZ2SZI",
 "https://www.youtube.com/watch?v=Q-e9L6ECpgM",
@@ -123,12 +125,13 @@
 "tg:true_secator/8805",
 "tg:true_secator/8806",
 "tg:true_secator/8808",
+"tg:true_secator/8809",
 "tg:true_secator/8810",
 "tg:true_secator/8811",
 "tg:true_secator/8813"
 ],
-"last_post": "2026-11-15T02:28:17.147163+00:00",
-"n": 122,
+"last_post": "2026-11-15T09:50:00.681426+00:00",
+"n": 125,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -144,74 +147,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-07T03:04:11.450868+00:00",
-"title": "Продолжаем отслеживать наиболее трендовые угрозы, отметим следующие: 1. Недавно…",
-"link": "https://t.me/true_secator/8790",
-"score": 5.37,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"musl",
-"openssh",
-"sshole",
-"входить",
-"злоумышленникам",
-"название",
-"наиболее",
-"недавно",
-"некоторые",
-"обнаруженная",
-"отметим",
-"отслеживать",
-"позволяет",
-"получившая",
-"продолжаем",
-"следующие",
-"трендовые",
-"угрозы",
-"уязвимость"
-],
-"cve": [
-"cve-2026-107441",
-"cve-2026-98432"
-]
-},
-{
-"t": "2026-11-07T03:04:16.080748+00:00",
-"title": "Казначейство отключило криптобиржу MEXC от финансовой системы США",
-"link": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
-"score": 8.29,
-"tags": "#крипта #web3",
-"kind": "rss",
-"tok": [
-"crypto",
-"cuts",
-"exchange",
-"financial",
-"from",
-"mexc",
-"system",
-"treasury"
-],
-"cve": []
-},
-{
-"t": "2026-11-07T03:04:19.399645+00:00",
-"title": "Четвертый спецвыпуск «Хакера» и еще два печатных номера",
-"link": "https://xakep.ru/2026/11/06/paper-specials-3/",
-"score": 8.11,
-"tags": "#хакинг #новости",
-"kind": "rss",
-"tok": [
-"номера",
-"печатных",
-"спецвыпуск",
-"хакера",
-"четвертый"
-],
-"cve": []
-},
 {
 "t": "2026-11-07T10:15:21.354927+00:00",
 "title": "Заказ насилия из-за границы: пятеро подозреваемых арестованы в Испании, Марокко и Франции",
@@ -2173,10 +2108,78 @@
 "staff"
 ],
 "cve": []
+},
+{
+"t": "2026-11-15T09:49:51.765097+00:00",
+"title": "Киберподполье переходит на GSocket , легитимный инструмент удаленного доступа с открытым…",
+"link": "https://t.me/true_secator/8809",
+"score": 2.53,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"gsocket",
+"linux",
+"даже",
+"доступа",
+"инструмент",
+"использованных",
+"исходным",
+"киберподполье",
+"кодом",
+"легитимный",
+"открытым",
+"переходит",
+"после",
+"серверам",
+"сохранения",
+"удаленного",
+"устранения",
+"уязвимостей"
+],
+"cve": [
+"cve-2026-43284",
+"cve-2026-43284"
+]
+},
+{
+"t": "2026-11-15T09:49:56.515660+00:00",
+"title": "Claude Code Extension Hid an SSH Backdoor | Threat",
+"link": "https://www.youtube.com/watch?v=Dcxyeb1rB1g",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"backdoor",
+"claude",
+"code",
+"extension",
+"threat"
+],
+"cve": []
+},
+{
+"t": "2026-11-15T09:50:00.681342+00:00",
+"title": "Coinone warns of phishing, identity theft after customer data breach",
+"link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"score": 10.17,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"after",
+"breach",
+"coinone",
+"customer",
+"data",
+"identity",
+"phishing",
+"theft",
+"warns"
+],
+"cve": []
 }
 ],
 "rubrics": {
-"tip": "2026-11-13",
+"tip": "2026-11-15",
 "quiz": "2026-11-14",
 "term": "2026-11-12",
 "top_day": "2026-11-14"
