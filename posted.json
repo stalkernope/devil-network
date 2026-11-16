@@ -13,6 +13,7 @@
 "https://databreaches.net/2026/11/06/the-next-target-for-data-breach-lawsuits-law-firms-that-represent-breached-parties/",
 "https://databreaches.net/2026/11/11/au-hacker-claims-to-have-sold-stolen-exams-to-students-but-marked-them-for-identification-purposes/",
 "https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/",
+"https://databreaches.net/2026/11/15/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
 "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
 "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
 "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
@@ -63,6 +64,7 @@
 "https://www.malwarebytes.com/blog/news/2026/11/13-3-million-peoples-medical-data-exposed-companies-pay-300000",
 "https://www.ransomware.live/id/RmluYWwgTm90aWNlIEJlZm9yZSBQdWJsaWNhdGlvbkBldmVyZXN0",
 "https://www.ransomware.live/id/TW9tZW50dW0gVGVsZWNvbUBFbmRab25l",
+"https://www.ransomware.live/id/VGV4YXMgSEhTQyAtIEZpbmFsIFdhcm5pbmcgJiBTYW1wbGVAQllPRA",
 "https://www.securitylab.ru/news/579843.php",
 "https://www.securitylab.ru/news/579909.php",
 "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
@@ -77,6 +79,7 @@
 "https://www.youtube.com/shorts/33_jJ4kIxfc",
 "https://www.youtube.com/shorts/5USn1bdtvJU",
 "https://www.youtube.com/shorts/F4duxQ4mMrg",
+"https://www.youtube.com/shorts/M7RDtnWsV4U",
 "https://www.youtube.com/shorts/iJU6csQs_no",
 "https://www.youtube.com/shorts/v9sfKhXDOn0",
 "https://www.youtube.com/watch?v=-j15pqyZBZs",
@@ -136,8 +139,8 @@
 "tg:true_secator/8811",
 "tg:true_secator/8813"
 ],
-"last_post": "2026-11-15T21:31:43.794177+00:00",
-"n": 131,
+"last_post": "2026-11-16T01:25:29.537927+00:00",
+"n": 134,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -153,76 +156,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-07T23:59:21.764314+00:00",
-"title": "Исследователи Positive Technologies продолжают серию отчетных материалов, на этот раз…",
-"link": "https://t.me/true_secator/8789",
-"score": 2.06,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"positive",
-"technologies",
-"инцидентов",
-"исследователи",
-"итоги",
-"кварта",
-"материалов",
-"отчете",
-"отчетных",
-"период",
-"подведены",
-"подвели",
-"продолжают",
-"проектов",
-"работы",
-"расследованию",
-"серию",
-"этот"
-],
-"cve": []
-},
-{
-"t": "2026-11-07T23:59:25.580874+00:00",
-"title": "Взлом Gnosis Pay раскрывает номера карт, домашние адреса и связанные криптокошельки",
-"link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-"score": 8.54,
-"tags": "#крипта",
-"kind": "rss",
-"tok": [
-"addresses",
-"breach",
-"card",
-"crypto",
-"exposes",
-"gnosis",
-"home",
-"linked",
-"numbers",
-"wallets"
-],
-"cve": []
-},
-{
-"t": "2026-11-07T23:59:30.600228+00:00",
-"title": "Почти 50 арестованы, поскольку полиция преследует западнобалканскую сеть, связанную с убийствами",
-"link": "https://www.europol.europa.eu/media-press/newsroom/news/almost-50-arrested-police-target-western-balkan-network-linked-to-killings",
-"score": 7.85,
-"tags": "#даркнет #аресты #расследование",
-"kind": "rss",
-"tok": [
-"almost",
-"arrested",
-"balkan",
-"killings",
-"linked",
-"network",
-"police",
-"target",
-"western"
-],
-"cve": []
-},
 {
 "t": "2026-11-08T05:50:40.338763+00:00",
 "title": "[Перевод] Они не взламывали Polymarket, а просто подменили его тест скорости",
@@ -2113,6 +2046,62 @@
 "trust",
 "uptime",
 "with"
+],
+"cve": []
+},
+{
+"t": "2026-11-16T01:25:20.997852+00:00",
+"title": "🍍📟 Theme Hacking Tip - WiFi Pineapple Pager #pentesting #hacking #cybersecurity",
+"link": "https://www.youtube.com/shorts/M7RDtnWsV4U",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"cybersecurity",
+"hacking",
+"pager",
+"pentesting",
+"pineapple",
+"theme",
+"wifi"
+],
+"cve": []
+},
+{
+"t": "2026-11-16T01:25:25.262325+00:00",
+"title": "🏴‍☠️ Byod has just published a new victim : Texas HHSC - Final Warning & Sample",
+"link": "https://www.ransomware.live/id/VGV4YXMgSEhTQyAtIEZpbmFsIFdhcm5pbmcgJiBTYW1wbGVAQllPRA",
+"score": 8.45,
+"tags": "#ransomware #даркнет",
+"kind": "rss",
+"tok": [
+"byod",
+"final",
+"hhsc",
+"just",
+"published",
+"sample",
+"texas",
+"victim",
+"warning"
+],
+"cve": []
+},
+{
+"t": "2026-11-16T01:25:29.537848+00:00",
+"title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+"link": "https://databreaches.net/2026/11/15/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+"score": 7.61,
+"tags": "#утечки #даркнет",
+"kind": "rss",
+"tok": [
+"artex",
+"cyberattacks",
+"global",
+"hacking",
+"powering",
+"tool",
+"warns"
 ],
 "cve": []
 }
