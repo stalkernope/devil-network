@@ -27,6 +27,7 @@
 "https://securelist.com/storm-2603-fileless-toolshell-attack/121467/",
 "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
 "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+"https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
 "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
 "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
@@ -76,6 +77,7 @@
 "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
 "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
 "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
+"https://www.youtube.com/shorts/-mhIHhRz2Ew",
 "https://www.youtube.com/shorts/33_jJ4kIxfc",
 "https://www.youtube.com/shorts/5USn1bdtvJU",
 "https://www.youtube.com/shorts/F4duxQ4mMrg",
@@ -119,6 +121,7 @@
 "tg:tginfo/4452",
 "tg:tginfo/4453",
 "tg:tginfo/4454",
+"tg:tginfo/4456",
 "tg:true_secator/8779",
 "tg:true_secator/8782",
 "tg:true_secator/8784",
@@ -139,8 +142,8 @@
 "tg:true_secator/8811",
 "tg:true_secator/8813"
 ],
-"last_post": "2026-11-16T01:25:29.537927+00:00",
-"n": 134,
+"last_post": "2026-11-16T08:26:43.751826+00:00",
+"n": 137,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -156,73 +159,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-08T05:50:40.338763+00:00",
-"title": "[Перевод] Они не взламывали Polymarket, а просто подменили его тест скорости",
-"link": "https://habr.com/ru/articles/1104926/?utm_campaign=1104926&utm_source=habrahabr&utm_medium=rss",
-"score": 7.69,
-"tags": "#ИБ",
-"kind": "rss",
-"tok": [
-"polymarket",
-"взламывали",
-"перевод",
-"подменили",
-"просто",
-"скорости",
-"тест"
-],
-"cve": []
-},
-{
-"t": "2026-11-08T05:50:44.071807+00:00",
-"title": "• Красивое: нашел интересный инструмент, который называется Netviz! Тулза предназначена…",
-"link": "https://t.me/true_secator/8786",
-"score": 0.49,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"netviz",
-"архитектуры",
-"бесплатно",
-"браузера",
-"выходя",
-"инструмент",
-"интересный",
-"который",
-"красивое",
-"можем",
-"называется",
-"нашел",
-"предназначена",
-"проектирования",
-"сетевой",
-"совершенно",
-"соль",
-"тулза"
-],
-"cve": []
-},
-{
-"t": "2026-11-08T05:50:50.023842+00:00",
-"title": "Сотрудничество Европы и Эквадора привело к 20 арестам в результате крупного удара по борьбе с незаконным оборотом наркотиков",
-"link": "https://www.europol.europa.eu/media-press/newsroom/news/european-and-ecuadorian-cooperation-leads-to-20-arrests-in-major-hit-against-drug-trafficking",
-"score": 7.06,
-"tags": "#даркнет #аресты #расследование",
-"kind": "rss",
-"tok": [
-"against",
-"arrests",
-"cooperation",
-"drug",
-"ecuadorian",
-"european",
-"leads",
-"major",
-"trafficking"
-],
-"cve": []
-},
 {
 "t": "2026-11-08T12:59:18.838179+00:00",
 "title": "Brava Security выходит из скрытности с финансированием в 15 миллионов долларов",
@@ -2104,10 +2040,70 @@
 "warns"
 ],
 "cve": []
+},
+{
+"t": "2026-11-16T08:26:35.809273+00:00",
+"title": "💪 В Telegram для iOS появился виртуальный компаньон В Beta-версии Telegram для iOS под…",
+"link": "https://t.me/tginfo/4456",
+"score": 6.75,
+"tags": "#telegram #новости",
+"kind": "tg",
+"tok": [
+"37388",
+"3d-пер",
+"beta-версии",
+"telegram",
+"виртуального",
+"виртуальный",
+"добавить",
+"компаньон",
+"личные",
+"номером",
+"обнаружена",
+"позволяющая",
+"появился",
+"функция",
+"чаты",
+"экспериментальная"
+],
+"cve": []
+},
+{
+"t": "2026-11-16T08:26:39.617575+00:00",
+"title": "ClickFix Data Staging",
+"link": "https://www.youtube.com/shorts/-mhIHhRz2Ew",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"clickfix",
+"data",
+"staging"
+],
+"cve": []
+},
+{
+"t": "2026-11-16T08:26:43.751715+00:00",
+"title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+"link": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+"score": 8.09,
+"tags": "#IT #стартапы",
+"kind": "rss",
+"tok": [
+"backer",
+"europe",
+"fund",
+"helsing",
+"moonshots",
+"next",
+"plural",
+"raises"
+],
+"cve": []
 }
 ],
 "rubrics": {
-"tip": "2026-11-15",
+"tip": "2026-11-16",
 "quiz": "2026-11-14",
 "term": "2026-11-15",
 "top_day": "2026-11-14"
