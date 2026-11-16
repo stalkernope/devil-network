@@ -57,6 +57,7 @@
 "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
 "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
 "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+"https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
 "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
 "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
 "https://www.europol.europa.eu/media-press/newsroom/news/almost-50-arrested-police-target-western-balkan-network-linked-to-killings",
@@ -94,6 +95,7 @@
 "https://www.youtube.com/watch?v=Q-e9L6ECpgM",
 "https://www.youtube.com/watch?v=XJ8zqsz4xvw",
 "https://www.youtube.com/watch?v=Z5DAv-zgrcI",
+"https://www.youtube.com/watch?v=kx94I2FuOUk",
 "https://www.youtube.com/watch?v=p2AAz24AzU4",
 "https://www.youtube.com/watch?v=pIUXSsrDgBI",
 "https://www.youtube.com/watch?v=s1XUIievwVA",
@@ -140,10 +142,11 @@
 "tg:true_secator/8809",
 "tg:true_secator/8810",
 "tg:true_secator/8811",
-"tg:true_secator/8813"
+"tg:true_secator/8813",
+"tg:true_secator/8817"
 ],
-"last_post": "2026-11-16T08:26:43.751826+00:00",
-"n": 137,
+"last_post": "2026-11-16T18:50:49.426349+00:00",
+"n": 140,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -159,128 +162,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-08T12:59:18.838179+00:00",
-"title": "Brava Security выходит из скрытности с финансированием в 15 миллионов долларов",
-"link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
-"score": 7.07,
-"tags": "#кибербезопасность",
-"kind": "rss",
-"tok": [
-"brava",
-"emerges",
-"from",
-"funding",
-"million",
-"security",
-"stealth",
-"with"
-],
-"cve": []
-},
-{
-"t": "2026-11-08T12:59:22.421598+00:00",
-"title": "ИИ в Telegram оказался талантливым программистом и странным помощником по хозяйству",
-"link": "https://www.securitylab.ru/news/579843.php",
-"score": 6.44,
-"tags": "#кибербезопасность",
-"kind": "rss",
-"tok": [
-"telegram",
-"оказался",
-"помощником",
-"программистом",
-"странным",
-"талантливым",
-"хозяйству"
-],
-"cve": []
-},
-{
-"t": "2026-11-08T12:59:26.177336+00:00",
-"title": "NEW: The US Treasury sanctioned eight Canadian OTCs on Friday (Nov 6), including Nia…",
-"link": "https://t.me/investigations/377",
-"score": 6.94,
-"tags": "#расследование #крипта #кражи",
-"kind": "tg",
-"tok": [
-"after",
-"canadian",
-"eight",
-"exchange",
-"five",
-"friday",
-"including",
-"million",
-"millionex",
-"months",
-"nations",
-"nnce",
-"otcs",
-"replied",
-"sanction",
-"sanctioned",
-"suggesting",
-"them",
-"they",
-"treasury"
-],
-"cve": []
-},
-{
-"t": "2026-11-08T18:19:25.086250+00:00",
-"title": "ОХОТА ФСБ НА ГЛАВНОГО ЛУДИКА ДАРКНЕТА",
-"link": "https://www.youtube.com/watch?v=pIUXSsrDgBI",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"главного",
-"даркнета",
-"лудика",
-"охота"
-],
-"cve": []
-},
-{
-"t": "2026-11-08T18:19:30.985691+00:00",
-"title": "Он арестовал хакера, а затем провел 18 месяцев, очищая свое имя. Теперь он венчурный инвестор в области кибербезопасности.",
-"link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-"score": 10.91,
-"tags": "#IT #стартапы",
-"kind": "rss",
-"tok": [
-"arrested",
-"clearing",
-"cybersecurity",
-"hacker",
-"months",
-"name",
-"spent",
-"then"
-],
-"cve": []
-},
-{
-"t": "2026-11-08T18:19:35.908176+00:00",
-"title": "Взлом облака данных Iris Ohyama раскрывает информацию о 7,7 миллионах клиентов",
-"link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-"score": 10.61,
-"tags": "#новости #взломы",
-"kind": "rss",
-"tok": [
-"breach",
-"cloud",
-"customers",
-"data",
-"exposes",
-"info",
-"iris",
-"million",
-"ohyama"
-],
-"cve": []
-},
 {
 "t": "2026-11-08T22:22:04.690569+00:00",
 "title": "Мошенникам даже не нужно ничего взламывать: я проверил 284 крупных сайта Рунета",
@@ -2100,12 +1981,79 @@
 "raises"
 ],
 "cve": []
+},
+{
+"t": "2026-11-16T18:50:40.191122+00:00",
+"title": "Lighter приостанавливает все выплаты после крипто-эксплойта на сумму 10,4 миллиона долларов",
+"link": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+"score": 11.16,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"after",
+"crypto",
+"exploit",
+"lighter",
+"million",
+"suspends",
+"withdrawals"
+],
+"cve": []
+},
+{
+"t": "2026-11-16T18:50:43.986890+00:00",
+"title": "По всей видимости, кейс с холодильниками еще не исчерпан и имеет перспективы продолжения.…",
+"link": "https://t.me/true_secator/8817",
+"score": 8.71,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"copeland",
+"видимости",
+"всей",
+"изучению",
+"имеет",
+"исчерпан",
+"кейс",
+"контроллерах",
+"недавно",
+"обнаруженных",
+"перспективы",
+"приступили",
+"продолжения",
+"установок",
+"уязвимостей",
+"хакеры",
+"холодильниками",
+"холодильных"
+],
+"cve": [
+"cve-2026-124014",
+"cve-2026-124010"
+]
+},
+{
+"t": "2026-11-16T18:50:49.426264+00:00",
+"title": "🍍📟 Представляем NETRIDER & GPS Mod Pro от Glytch для Wi-Fi Pineapple Pager",
+"link": "https://www.youtube.com/watch?v=kx94I2FuOUk",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"glytch",
+"introducing",
+"netrider",
+"pager",
+"pineapple",
+"wifi"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-16",
 "quiz": "2026-11-14",
 "term": "2026-11-15",
-"top_day": "2026-11-14"
+"top_day": "2026-11-16"
 }
 }
