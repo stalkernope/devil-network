@@ -28,6 +28,7 @@
 "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
 "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
 "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+"https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
 "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
 "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
@@ -39,6 +40,7 @@
 "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
 "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
 "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+"https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
 "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
 "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
 "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
@@ -80,6 +82,7 @@
 "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
 "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
 "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
+"https://www.youtube.com/shorts/-m7pPKq-f2o",
 "https://www.youtube.com/shorts/-mhIHhRz2Ew",
 "https://www.youtube.com/shorts/33_jJ4kIxfc",
 "https://www.youtube.com/shorts/5USn1bdtvJU",
@@ -148,8 +151,8 @@
 "tg:true_secator/8815",
 "tg:true_secator/8817"
 ],
-"last_post": "2026-11-17T02:23:13.128172+00:00",
-"n": 143,
+"last_post": "2026-11-17T11:00:06.991601+00:00",
+"n": 146,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -165,64 +168,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-09T09:25:22.797150+00:00",
-"title": "Биткойн-ETF потеряли $1,3 млрд в результате крупнейшего недельного оттока с конца июня",
-"link": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"score": 9.2,
-"tags": "#крипта",
-"kind": "rss",
-"tok": [
-"biggest",
-"bitcoin",
-"etfs",
-"june",
-"late",
-"outflow",
-"shed",
-"since",
-"weekly"
-],
-"cve": []
-},
-{
-"t": "2026-11-09T09:25:26.369569+00:00",
-"title": "Microsoft патчит RCE-уязвимость в Windows Paint",
-"link": "https://xakep.ru/2026/11/09/paint-rce/",
-"score": 8.15,
-"tags": "#хакинг #новости",
-"kind": "rss",
-"tok": [
-"microsoft",
-"paint",
-"rce-уязвимость",
-"windows",
-"патчит"
-],
-"cve": [
-"cve-2026-83844"
-]
-},
-{
-"t": "2026-11-09T09:25:30.142997+00:00",
-"title": "SpaceX предлагает техасский суперкомпьютер стоимостью 24 миллиарда долларов, стоимость которого в 17 раз превышает массу биткойнов",
-"link": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
-"score": 7.85,
-"tags": "#крипта",
-"kind": "rss",
-"tok": [
-"billion",
-"bitcoin",
-"pile",
-"proposes",
-"spacex",
-"supercomputer",
-"texas",
-"times",
-"worth"
-],
-"cve": []
-},
 {
 "t": "2026-11-09T19:59:21.540424+00:00",
 "title": "Перевод вашего PHP-сайта в автономный режим",
@@ -2005,10 +1950,61 @@
 "уязвимость"
 ],
 "cve": []
+},
+{
+"t": "2026-11-17T10:59:58.119695+00:00",
+"title": "Minecraft Malware Research",
+"link": "https://www.youtube.com/shorts/-m7pPKq-f2o",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"malware",
+"minecraft",
+"research"
+],
+"cve": []
+},
+{
+"t": "2026-11-17T11:00:02.640381+00:00",
+"title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+"link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+"score": 9.5,
+"tags": "#IT #стартапы",
+"kind": "rss",
+"tok": [
+"about",
+"corma",
+"cybersecurity",
+"months",
+"reaches",
+"startup",
+"valuation"
+],
+"cve": []
+},
+{
+"t": "2026-11-17T11:00:06.991529+00:00",
+"title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+"link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+"score": 9.05,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"brothers",
+"charges",
+"clears",
+"court",
+"crypto",
+"ethereum",
+"heist",
+"million"
+],
+"cve": []
 }
 ],
 "rubrics": {
-"tip": "2026-11-16",
+"tip": "2026-11-17",
 "quiz": "2026-11-14",
 "term": "2026-11-15",
 "top_day": "2026-11-16"
