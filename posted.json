@@ -34,6 +34,7 @@
 "https://therecord.media/city-of-osaka-japan-email-data-breach",
 "https://therecord.media/queens-library-ransomware-causes-disruptions",
 "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
+"https://therecord.media/uber-says-150000-impacted-third-party-breach",
 "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
 "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
 "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
@@ -43,6 +44,7 @@
 "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
 "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
 "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+"https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
 "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
 "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
 "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
@@ -143,10 +145,11 @@
 "tg:true_secator/8810",
 "tg:true_secator/8811",
 "tg:true_secator/8813",
+"tg:true_secator/8815",
 "tg:true_secator/8817"
 ],
-"last_post": "2026-11-16T18:50:49.426349+00:00",
-"n": 140,
+"last_post": "2026-11-17T02:23:13.128172+00:00",
+"n": 143,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -162,118 +165,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-08T22:22:04.690569+00:00",
-"title": "Мошенникам даже не нужно ничего взламывать: я проверил 284 крупных сайта Рунета",
-"link": "https://habr.com/ru/articles/1105240/?utm_campaign=1105240&utm_source=habrahabr&utm_medium=rss",
-"score": 8.12,
-"tags": "#ИБ",
-"kind": "rss",
-"tok": [
-"взламывать",
-"даже",
-"крупных",
-"мошенникам",
-"ничего",
-"нужно",
-"проверил",
-"рунета",
-"сайта"
-],
-"cve": []
-},
-{
-"t": "2026-11-08T22:22:10.233512+00:00",
-"title": "🍍📟 [ПОЛЕЗНАЯ НАГРУЗКА] 🔴 Hak5 Live: WiFi-пейджер в ананасе с Дарреном Китченом",
-"link": "https://www.youtube.com/watch?v=s1XUIievwVA",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"darren",
-"hak5",
-"kitchen",
-"live",
-"pager",
-"payload",
-"pineapple",
-"wifi",
-"with"
-],
-"cve": []
-},
-{
-"t": "2026-11-08T22:22:15.632781+00:00",
-"title": "Сканирование уязвимости Sshole (CVE-2026-123158), (воскресенье, 8 ноября)",
-"link": "https://isc.sans.edu/diary/rss/33498",
-"score": 6.67,
-"tags": "#угрозы",
-"kind": "rss",
-"tok": [
-"cve-2026-123158",
-"scans",
-"sshole",
-"vulnerability"
-],
-"cve": [
-"cve-2026-123158"
-]
-},
-{
-"t": "2026-11-09T01:51:57.703843+00:00",
-"title": "Файлы SOC 5: Призрак в разработке, или бесфайловое взлом SharePoint с помощью Storm-2603",
-"link": "https://securelist.com/storm-2603-fileless-toolshell-attack/121467/",
-"score": 6.35,
-"tags": "#вирусы #исследования",
-"kind": "rss",
-"tok": [
-"breach",
-"fileless",
-"files",
-"ghost",
-"pipeline",
-"sharepoint",
-"storm-2603"
-],
-"cve": []
-},
-{
-"t": "2026-11-09T01:52:01.227748+00:00",
-"title": "Анти Бот, часть 3: 10 миллионов запросов, 300 доменов и боты, которые ничего не делают",
-"link": "https://habr.com/ru/articles/1105192/?utm_campaign=1105192&utm_source=habrahabr&utm_medium=rss",
-"score": 6.18,
-"tags": "#ИБ",
-"kind": "rss",
-"tok": [
-"анти",
-"боты",
-"делают",
-"доменов",
-"запросов",
-"которые",
-"миллионов",
-"ничего",
-"часть"
-],
-"cve": []
-},
-{
-"t": "2026-11-09T01:52:05.906799+00:00",
-"title": "🍍📟 Представляем версию 2.0 для Wi-Fi-пейджера Pineapple и еще кое-что...",
-"link": "https://www.youtube.com/watch?v=-j15pqyZBZs",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"introducing",
-"more",
-"pager",
-"pineapple",
-"thing",
-"wifi"
-],
-"cve": []
-},
 {
 "t": "2026-11-09T09:25:22.797150+00:00",
 "title": "Биткойн-ETF потеряли $1,3 млрд в результате крупнейшего недельного оттока с конца июня",
@@ -2046,6 +1937,72 @@
 "pager",
 "pineapple",
 "wifi"
+],
+"cve": []
+},
+{
+"t": "2026-11-17T02:23:05.580760+00:00",
+"title": "Uber says nearly 150,000 impacted by third-party breach",
+"link": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
+"score": 12.23,
+"tags": "#даркнет #кибервойна",
+"kind": "rss",
+"tok": [
+"breach",
+"impacted",
+"nearly",
+"says",
+"third-party",
+"uber"
+],
+"cve": []
+},
+{
+"t": "2026-11-17T02:23:09.785266+00:00",
+"title": "Optimizely supply chain attack infects major brands' sites with malware",
+"link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
+"score": 9.82,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"attack",
+"brands",
+"chain",
+"infects",
+"major",
+"malware",
+"optimizely",
+"sites",
+"supply",
+"with"
+],
+"cve": []
+},
+{
+"t": "2026-11-17T02:23:13.128081+00:00",
+"title": "Исследователи Лаборатории Касперского предупреждают , что уязвимость в недавно запущенных…",
+"link": "https://t.me/true_secator/8815",
+"score": 7.22,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"telegram",
+"webrat",
+"быть",
+"виджетах",
+"вредоносного",
+"запущенных",
+"злоумышленниками",
+"использована",
+"исследователи",
+"касперского",
+"лаборатории",
+"могла",
+"недавно",
+"предупреждают",
+"причем",
+"распространения",
+"уязвимость"
 ],
 "cve": []
 }
