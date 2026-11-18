@@ -41,6 +41,7 @@
 "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
 "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
 "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+"https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
 "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
 "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
 "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
@@ -97,6 +98,7 @@
 "https://www.youtube.com/watch?v=9U1b9RsmdWk",
 "https://www.youtube.com/watch?v=Dcxyeb1rB1g",
 "https://www.youtube.com/watch?v=J9OIWnwuAeU",
+"https://www.youtube.com/watch?v=LxVW3b8jVdE",
 "https://www.youtube.com/watch?v=PBLB1nZ2SZI",
 "https://www.youtube.com/watch?v=Q-e9L6ECpgM",
 "https://www.youtube.com/watch?v=XJ8zqsz4xvw",
@@ -153,10 +155,11 @@
 "tg:true_secator/8813",
 "tg:true_secator/8815",
 "tg:true_secator/8817",
+"tg:true_secator/8820",
 "tg:true_secator/8822"
 ],
-"last_post": "2026-11-17T19:46:15.056855+00:00",
-"n": 149,
+"last_post": "2026-11-18T02:15:03.007797+00:00",
+"n": 152,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -172,59 +175,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-09T19:59:21.540424+00:00",
-"title": "Перевод вашего PHP-сайта в автономный режим",
-"link": "https://www.youtube.com/shorts/F4duxQ4mMrg",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"offline",
-"taking",
-"website",
-"your"
-],
-"cve": []
-},
-{
-"t": "2026-11-09T19:59:24.935483+00:00",
-"title": "Почти 1000 коммутаторов Zyxel взломаны через уязвимость, от которой не защищал патч",
-"link": "https://xakep.ru/2026/11/09/zyxel-attacks-2/",
-"score": 14.23,
-"tags": "#хакинг #новости",
-"kind": "rss",
-"tok": [
-"1000",
-"zyxel",
-"взломаны",
-"защищал",
-"коммутаторов",
-"которой",
-"патч",
-"почти",
-"уязвимость",
-"через"
-],
-"cve": []
-},
-{
-"t": "2026-11-09T19:59:30.252080+00:00",
-"title": "раскрыты медицинские данные 13,3 миллиона человек; компании платят 300 000 долларов",
-"link": "https://www.malwarebytes.com/blog/news/2026/11/13-3-million-peoples-medical-data-exposed-companies-pay-300000",
-"score": 10.08,
-"tags": "#мошенничество #фишинг",
-"kind": "rss",
-"tok": [
-"companies",
-"data",
-"exposed",
-"medical",
-"million",
-"people"
-],
-"cve": []
-},
 {
 "t": "2026-11-10T02:39:39.554341+00:00",
 "title": "700K+ self-custodial wallets created on Telegram in the last 48 hours alone. 🦠 Adoption…",
@@ -2072,6 +2022,71 @@
 "cve": [
 "cve-2026-114938"
 ]
+},
+{
+"t": "2026-11-18T02:14:55.105384+00:00",
+"title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+"link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+"score": 10.59,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"cloud",
+"docker",
+"images",
+"keys",
+"leaked",
+"seconds",
+"stolen",
+"within"
+],
+"cve": []
+},
+{
+"t": "2026-11-18T02:14:58.453685+00:00",
+"title": "Исследователи F6 изучили ИИ‑инструменты группировки Rezet в атаках на Россию и мир,…",
+"link": "https://t.me/true_secator/8820",
+"score": 5.85,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"rezet",
+"активное",
+"атаках",
+"включение",
+"гонку",
+"групп",
+"группировки",
+"данным",
+"изучили",
+"инструментов",
+"инструменты",
+"исследователи",
+"констатируя",
+"октябре",
+"россию",
+"создания",
+"хакерских",
+"январе"
+],
+"cve": []
+},
+{
+"t": "2026-11-18T02:15:03.007720+00:00",
+"title": "A Two-Button Calculator That Does Everything - Numberphile",
+"link": "https://www.youtube.com/watch?v=LxVW3b8jVdE",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"calculator",
+"does",
+"everything",
+"numberphile",
+"that",
+"two-button"
+],
+"cve": []
 }
 ],
 "rubrics": {
