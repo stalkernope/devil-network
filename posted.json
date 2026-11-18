@@ -22,6 +22,7 @@
 "https://habr.com/ru/articles/1104926/?utm_campaign=1104926&utm_source=habrahabr&utm_medium=rss",
 "https://habr.com/ru/articles/1105192/?utm_campaign=1105192&utm_source=habrahabr&utm_medium=rss",
 "https://habr.com/ru/articles/1105240/?utm_campaign=1105240&utm_source=habrahabr&utm_medium=rss",
+"https://habr.com/ru/articles/1109554/?utm_campaign=1109554&utm_source=habrahabr&utm_medium=rss",
 "https://isc.sans.edu/diary/rss/33498",
 "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
 "https://securelist.com/auditteam-opsagent-forced-audit/122031/",
@@ -59,6 +60,7 @@
 "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
 "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
 "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+"https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
 "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
 "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
 "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
@@ -92,6 +94,7 @@
 "https://www.youtube.com/shorts/5USn1bdtvJU",
 "https://www.youtube.com/shorts/F4duxQ4mMrg",
 "https://www.youtube.com/shorts/M7RDtnWsV4U",
+"https://www.youtube.com/shorts/WHOxCLffxP8",
 "https://www.youtube.com/shorts/iJU6csQs_no",
 "https://www.youtube.com/shorts/v9sfKhXDOn0",
 "https://www.youtube.com/watch?v=-j15pqyZBZs",
@@ -161,8 +164,8 @@
 "tg:true_secator/8820",
 "tg:true_secator/8822"
 ],
-"last_post": "2026-11-18T10:21:03.938491+00:00",
-"n": 155,
+"last_post": "2026-11-18T18:58:49.586028+00:00",
+"n": 158,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -178,143 +181,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-10T10:28:25.679518+00:00",
-"title": "Чтобы устроить 15 пожаров, хакерам даже не понадобились спички. Во Франции расследовали атаку на холодильники",
-"link": "https://www.securitylab.ru/news/579909.php",
-"score": 9.47,
-"tags": "#кибербезопасность",
-"kind": "rss",
-"tok": [
-"атаку",
-"даже",
-"пожаров",
-"понадобились",
-"расследовали",
-"спички",
-"устроить",
-"франции",
-"хакерам",
-"холодильники",
-"чтобы"
-],
-"cve": []
-},
-{
-"t": "2026-11-10T10:28:29.563489+00:00",
-"title": "Истории в Telegram Desktop В canary-версии 7.4.1 (сборка 113) приложения Telegram Desktop…",
-"link": "https://t.me/tginfo/4449",
-"score": 5.25,
-"tags": "#telegram #новости",
-"kind": "tg",
-"tok": [
-"canary-версии",
-"desktop",
-"telegram",
-"видео",
-"возможность",
-"выбора",
-"графически",
-"истории",
-"отображает",
-"после",
-"появилась",
-"приложение",
-"приложения",
-"публиковать",
-"сборка",
-"фото"
-],
-"cve": []
-},
-{
-"t": "2026-11-10T10:28:33.588358+00:00",
-"title": "В Сингапуре несколько дней тусуются с хакерами и хорошо проводят время.",
-"link": "https://www.youtube.com/shorts/5USn1bdtvJU",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"days",
-"good",
-"hackers",
-"hanging",
-"having",
-"singapore",
-"time",
-"with"
-],
-"cve": []
-},
-{
-"t": "2026-11-10T18:09:59.029272+00:00",
-"title": "Критическая ошибка обхода аутентификации Xen Orchestra, использованная для взлома серверов виртуальных машин",
-"link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-"score": 11.86,
-"tags": "#новости #взломы",
-"kind": "rss",
-"tok": [
-"auth",
-"bypass",
-"critical",
-"exploited",
-"flaw",
-"hijack",
-"orchestra",
-"servers"
-],
-"cve": []
-},
-{
-"t": "2026-11-10T18:10:02.573758+00:00",
-"title": "D-Link предупреждает о нескольких 0-day в свитчах серии DGS-3130",
-"link": "https://xakep.ru/2026/11/10/d-link-0-days/",
-"score": 10.6,
-"tags": "#хакинг #новости",
-"kind": "rss",
-"tok": [
-"0-day",
-"d-link",
-"dgs-3130",
-"нескольких",
-"предупреждает",
-"свитчах",
-"серии"
-],
-"cve": []
-},
-{
-"t": "2026-11-10T18:10:06.001621+00:00",
-"title": "N-able отключила N-central после того, как исследователь раскрыл сразу более 30 0-day,…",
-"link": "https://t.me/true_secator/8797",
-"score": 6.91,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"0-day",
-"n-able",
-"n-central",
-"более",
-"выполнения",
-"данных",
-"злоумышленники",
-"использовать",
-"исследователь",
-"кода",
-"которые",
-"кражи",
-"могут",
-"отключила",
-"после",
-"потенциальные",
-"раскрыл",
-"сразу",
-"того",
-"удалённого",
-"учётных"
-],
-"cve": []
-},
 {
 "t": "2026-11-10T23:24:41.041849+00:00",
 "title": "Слепые рейтинговые цифры (Том Кроуфорд)",
@@ -2086,12 +1952,62 @@
 "with"
 ],
 "cve": []
+},
+{
+"t": "2026-11-18T18:58:41.897925+00:00",
+"title": "Blind Ranking Numbers (Tony Padilla)",
+"link": "https://www.youtube.com/shorts/WHOxCLffxP8",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"blind",
+"numbers",
+"padilla",
+"ranking",
+"tony"
+],
+"cve": []
+},
+{
+"t": "2026-11-18T18:58:45.328178+00:00",
+"title": "Хакеры из The Gentlemen заявили о взломе Nvidia",
+"link": "https://habr.com/ru/articles/1109554/?utm_campaign=1109554&utm_source=habrahabr&utm_medium=rss",
+"score": 15.01,
+"tags": "#ИБ",
+"kind": "rss",
+"tok": [
+"gentlemen",
+"nvidia",
+"взломе",
+"заявили",
+"хакеры"
+],
+"cve": []
+},
+{
+"t": "2026-11-18T18:58:49.585946+00:00",
+"title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
+"link": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
+"score": 12.6,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"crypto",
+"double",
+"exchanges",
+"long",
+"short",
+"shouldn",
+"vault"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-18",
 "quiz": "2026-11-14",
 "term": "2026-11-15",
-"top_day": "2026-11-17"
+"top_day": "2026-11-18"
 }
 }
