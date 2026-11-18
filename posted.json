@@ -24,6 +24,7 @@
 "https://habr.com/ru/articles/1105240/?utm_campaign=1105240&utm_source=habrahabr&utm_medium=rss",
 "https://isc.sans.edu/diary/rss/33498",
 "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+"https://securelist.com/auditteam-opsagent-forced-audit/122031/",
 "https://securelist.com/storm-2603-fileless-toolshell-attack/121467/",
 "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
 "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
@@ -82,6 +83,7 @@
 "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
 "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
 "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+"https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
 "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
 "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
 "https://www.youtube.com/shorts/-m7pPKq-f2o",
@@ -124,6 +126,7 @@
 "tg:durov/556",
 "tg:durov/560",
 "tg:durov/561",
+"tg:durov/564",
 "tg:investigations/374",
 "tg:investigations/377",
 "tg:investigations/379",
@@ -158,8 +161,8 @@
 "tg:true_secator/8820",
 "tg:true_secator/8822"
 ],
-"last_post": "2026-11-18T02:15:03.007797+00:00",
-"n": 152,
+"last_post": "2026-11-18T10:21:03.938491+00:00",
+"n": 155,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -175,76 +178,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-10T02:39:39.554341+00:00",
-"title": "700K+ self-custodial wallets created on Telegram in the last 48 hours alone. 🦠 Adoption…",
-"link": "https://t.me/durov/553",
-"score": 7.6,
-"tags": "#telegram #Дуров",
-"kind": "tg",
-"tok": [
-"700k",
-"activates",
-"adoption",
-"alone",
-"created",
-"crypto",
-"going",
-"grams",
-"hours",
-"last",
-"moment",
-"receives",
-"revolution",
-"self-custodial",
-"someone",
-"spreads",
-"strong",
-"telegram",
-"virally",
-"wallet",
-"wallets"
-],
-"cve": []
-},
-{
-"t": "2026-11-10T02:39:44.323488+00:00",
-"title": "Утечка данных информационного бюллетеня SEGA выявила 2,2 миллиона адресов электронной почты",
-"link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
-"score": 10.31,
-"tags": "#новости #взломы",
-"kind": "rss",
-"tok": [
-"addresses",
-"breach",
-"data",
-"email",
-"exposes",
-"million",
-"newsletter",
-"sega"
-],
-"cve": []
-},
-{
-"t": "2026-11-10T02:39:49.092116+00:00",
-"title": "Университет Вандербильта пострадал от атаки программы-вымогателя BYOD, заявлено о краже данных",
-"link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
-"score": 9.81,
-"tags": "#новости #взломы",
-"kind": "rss",
-"tok": [
-"attack",
-"byod",
-"claimed",
-"data",
-"ransomware",
-"theft",
-"university",
-"vanderbilt"
-],
-"cve": []
-},
 {
 "t": "2026-11-10T10:28:25.679518+00:00",
 "title": "Чтобы устроить 15 пожаров, хакерам даже не понадобились спички. Во Франции расследовали атаку на холодильники",
@@ -2087,10 +2020,76 @@
 "two-button"
 ],
 "cve": []
+},
+{
+"t": "2026-11-18T10:20:55.338798+00:00",
+"title": "The forced audit: how AuditTeam’s OpsAgent framework masks ransomware as consulting",
+"link": "https://securelist.com/auditteam-opsagent-forced-audit/122031/",
+"score": 9.9,
+"tags": "#вирусы #исследования",
+"kind": "rss",
+"tok": [
+"audit",
+"auditteam",
+"consulting",
+"forced",
+"framework",
+"masks",
+"opsagent",
+"ransomware"
+],
+"cve": []
+},
+{
+"t": "2026-11-18T10:21:00.095876+00:00",
+"title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
+"link": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
+"score": 9.77,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"2026",
+"cspu",
+"november",
+"oracle",
+"patches",
+"vulnerabilities",
+"with"
+],
+"cve": []
+},
+{
+"t": "2026-11-18T10:21:03.938398+00:00",
+"title": "⭐️ Telegram bots and mini apps can accept only Stars (*Grams) for digital services. Why?…",
+"link": "https://t.me/durov/564",
+"score": 5.23,
+"tags": "#telegram #Дуров",
+"kind": "tg",
+"tok": [
+"accept",
+"apple",
+"apps",
+"authori",
+"bots",
+"digital",
+"fragment",
+"google",
+"grams",
+"mini",
+"only",
+"require",
+"rules",
+"services",
+"stars",
+"telegram",
+"users",
+"with"
+],
+"cve": []
 }
 ],
 "rubrics": {
-"tip": "2026-11-17",
+"tip": "2026-11-18",
 "quiz": "2026-11-14",
 "term": "2026-11-15",
 "top_day": "2026-11-17"
