@@ -86,6 +86,7 @@
 "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
 "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
 "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
+"https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
 "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
 "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
 "https://www.youtube.com/shorts/-m7pPKq-f2o",
@@ -109,6 +110,7 @@
 "https://www.youtube.com/watch?v=XJ8zqsz4xvw",
 "https://www.youtube.com/watch?v=Z5DAv-zgrcI",
 "https://www.youtube.com/watch?v=kx94I2FuOUk",
+"https://www.youtube.com/watch?v=li_MPYRKcK4",
 "https://www.youtube.com/watch?v=p2AAz24AzU4",
 "https://www.youtube.com/watch?v=pIUXSsrDgBI",
 "https://www.youtube.com/watch?v=s1XUIievwVA",
@@ -130,6 +132,7 @@
 "tg:durov/560",
 "tg:durov/561",
 "tg:durov/564",
+"tg:durov/565",
 "tg:investigations/374",
 "tg:investigations/377",
 "tg:investigations/379",
@@ -164,8 +167,8 @@
 "tg:true_secator/8820",
 "tg:true_secator/8822"
 ],
-"last_post": "2026-11-18T18:58:49.586028+00:00",
-"n": 158,
+"last_post": "2026-11-19T01:04:54.472562+00:00",
+"n": 161,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -181,58 +184,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-10T23:24:41.041849+00:00",
-"title": "Слепые рейтинговые цифры (Том Кроуфорд)",
-"link": "https://www.youtube.com/shorts/v9sfKhXDOn0",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"blind",
-"crawford",
-"numbers",
-"ranking"
-],
-"cve": []
-},
-{
-"t": "2026-11-10T23:24:45.900317+00:00",
-"title": "Ноябрьский вторник патчей: рог изобилия CVE",
-"link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
-"score": 16.74,
-"tags": "#кибербезопасность",
-"kind": "rss",
-"tok": [
-"cornucopia",
-"cves",
-"november",
-"overflowing",
-"patch",
-"tuesday"
-],
-"cve": []
-},
-{
-"t": "2026-11-10T23:24:50.797855+00:00",
-"title": "Использование Outlook Zero-Day среди 1094 ошибок, исправленных Microsoft",
-"link": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
-"score": 11.02,
-"tags": "#кибербезопасность",
-"kind": "rss",
-"tok": [
-"among",
-"exploited",
-"flaws",
-"microsoft",
-"outlook",
-"patched",
-"zero-day"
-],
-"cve": [
-"cve-2026-124194"
-]
-},
 {
 "t": "2026-11-11T02:56:09.581726+00:00",
 "title": "Any Telegram message can now become an app. ⚡️ Downloads instantly (just 4 KB) 🎨…",
@@ -2000,6 +1951,67 @@
 "short",
 "shouldn",
 "vault"
+],
+"cve": []
+},
+{
+"t": "2026-11-19T01:04:45.200243+00:00",
+"title": "🇮🇶 Iraq blocked Telegram (2nd time this year). We feel sorry for the Iraqi people. But we…",
+"link": "https://t.me/durov/565",
+"score": 6.22,
+"tags": "#telegram #Дуров",
+"kind": "tg",
+"tok": [
+"asked",
+"blocked",
+"censor",
+"feel",
+"free",
+"iraq",
+"iraqi",
+"people",
+"political",
+"regardless",
+"sorry",
+"speech",
+"telegram",
+"this",
+"time",
+"year"
+],
+"cve": []
+},
+{
+"t": "2026-11-19T01:04:50.126641+00:00",
+"title": "🔴 [PAYLOAD] 🍍📟 WiFi Pineapple Pager",
+"link": "https://www.youtube.com/watch?v=li_MPYRKcK4",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"pager",
+"payload",
+"pineapple",
+"wifi"
+],
+"cve": []
+},
+{
+"t": "2026-11-19T01:04:54.472484+00:00",
+"title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
+"link": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
+"score": 12.34,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"another",
+"breach",
+"employee",
+"firm",
+"hacked",
+"organization",
+"poses",
+"russian"
 ],
 "cve": []
 }
