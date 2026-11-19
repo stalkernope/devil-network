@@ -53,6 +53,7 @@
 "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
 "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
 "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+"https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
 "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
 "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
 "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
@@ -98,6 +99,7 @@
 "https://www.youtube.com/shorts/WHOxCLffxP8",
 "https://www.youtube.com/shorts/iJU6csQs_no",
 "https://www.youtube.com/shorts/v9sfKhXDOn0",
+"https://www.youtube.com/shorts/yydGYEnRKzg",
 "https://www.youtube.com/watch?v=-j15pqyZBZs",
 "https://www.youtube.com/watch?v=06Qjai8RQKw",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
@@ -165,10 +167,11 @@
 "tg:true_secator/8815",
 "tg:true_secator/8817",
 "tg:true_secator/8820",
-"tg:true_secator/8822"
+"tg:true_secator/8822",
+"tg:true_secator/8827"
 ],
-"last_post": "2026-11-19T01:04:54.472562+00:00",
-"n": 161,
+"last_post": "2026-11-19T08:50:02.918091+00:00",
+"n": 164,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -184,68 +187,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-11T02:56:09.581726+00:00",
-"title": "Any Telegram message can now become an app. ⚡️ Downloads instantly (just 4 KB) 🎨…",
-"link": "https://t.me/durov/554",
-"score": 5.62,
-"tags": "#telegram #Дуров",
-"kind": "tg",
-"tok": [
-"become",
-"build",
-"built",
-"devs",
-"docs",
-"downloads",
-"info",
-"instantly",
-"interactive",
-"just",
-"mechanics",
-"message",
-"more",
-"natively",
-"payments",
-"rendered",
-"telegram",
-"viral",
-"your"
-],
-"cve": []
-},
-{
-"t": "2026-11-11T02:56:13.534370+00:00",
-"title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-"link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
-"score": 10.44,
-"tags": "#расследования #хакеры",
-"kind": "rss",
-"tok": [
-"fixes",
-"microsoft",
-"nearly",
-"security",
-"vulnerabilities"
-],
-"cve": []
-},
-{
-"t": "2026-11-11T02:56:17.670172+00:00",
-"title": "Railway breach leads to $740,000 in fraudulent AI charges",
-"link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-"score": 9.35,
-"tags": "#новости #взломы",
-"kind": "rss",
-"tok": [
-"breach",
-"charges",
-"fraudulent",
-"leads",
-"railway"
-],
-"cve": []
-},
 {
 "t": "2026-11-11T10:37:37.340331+00:00",
 "title": "Bitmine отчиталась о чистом убытке в размере $6,3 млрд за 2026 финансовый год из-за падения цен на эфир",
@@ -2014,10 +1955,74 @@
 "russian"
 ],
 "cve": []
+},
+{
+"t": "2026-11-19T08:49:55.441231+00:00",
+"title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+"link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+"score": 12.9,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"arrest",
+"gang",
+"members",
+"ransoms",
+"ransomware",
+"tied",
+"ukraine"
+],
+"cve": []
+},
+{
+"t": "2026-11-19T08:49:59.121577+00:00",
+"title": "Исследователи F6 зафиксировали и расследовали первый в мире случай эксплуатации…",
+"link": "https://t.me/true_secator/8827",
+"score": 5.39,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"cisco",
+"cve-2026-76466",
+"cvss",
+"expressway",
+"вскоре",
+"зафиксировали",
+"злоумышленники",
+"исследователи",
+"критической",
+"мире",
+"общедоступного",
+"первый",
+"после",
+"появления",
+"расследовали",
+"случай",
+"успеш",
+"эксплуатации"
+],
+"cve": [
+"cve-2026-76466",
+"cve-2026-76466"
+]
+},
+{
+"t": "2026-11-19T08:50:02.918017+00:00",
+"title": "ClickFix Cache Trick",
+"link": "https://www.youtube.com/shorts/yydGYEnRKzg",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"cache",
+"clickfix",
+"trick"
+],
+"cve": []
 }
 ],
 "rubrics": {
-"tip": "2026-11-18",
+"tip": "2026-11-19",
 "quiz": "2026-11-14",
 "term": "2026-11-15",
 "top_day": "2026-11-18"
