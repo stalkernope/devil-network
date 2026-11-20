@@ -8,6 +8,7 @@
 "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://darknetdiaries.com/episode/182/",
 "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
 "https://databreaches.net/2026/11/06/state-attorneys-general-secure-up-to-10-million-and-corrective-action-plan-from-perry-johnson-companies-after-2023-breach/",
@@ -75,6 +76,7 @@
 "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
 "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
 "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
+"https://www.europol.europa.eu/media-press/newsroom/news/27-arrests-and-248-potential-victims-identified-in-action-week-against-labour-exploitation",
 "https://www.europol.europa.eu/media-press/newsroom/news/almost-50-arrested-police-target-western-balkan-network-linked-to-killings",
 "https://www.europol.europa.eu/media-press/newsroom/news/european-and-ecuadorian-cooperation-leads-to-20-arrests-in-major-hit-against-drug-trafficking",
 "https://www.europol.europa.eu/media-press/newsroom/news/ordering-violence-abroad-five-suspects-arrested-in-spain-morocco-and-france",
@@ -180,10 +182,11 @@
 "tg:true_secator/8827",
 "tg:true_secator/8831",
 "tg:true_secator/8832",
-"tg:true_secator/8835"
+"tg:true_secator/8835",
+"tg:true_secator/8836"
 ],
-"last_post": "2026-11-20T16:49:30.302474+00:00",
-"n": 176,
+"last_post": "2026-11-20T23:00:02.158805+00:00",
+"n": 179,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -199,144 +202,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-12T16:50:22.465126+00:00",
-"title": "Новая система нулевого дня Windows SignDrop дает хакерам СИСТЕМНЫЕ привилегии",
-"link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-"score": 10.31,
-"tags": "#новости #взломы",
-"kind": "rss",
-"tok": [
-"gives",
-"hackers",
-"privileges",
-"signdrop",
-"system",
-"windows",
-"zero-day"
-],
-"cve": []
-},
-{
-"t": "2026-11-12T16:50:26.091059+00:00",
-"title": "Исследователи Лаборатории Касперского обнаружили попытку украинской хакерской группы BO…",
-"link": "https://t.me/true_secator/8806",
-"score": 6.17,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"2025",
-"it-провайдера",
-"team",
-"атаку",
-"года",
-"группы",
-"исследователи",
-"июне",
-"касперского",
-"лаборатории",
-"неназванного",
-"обнаружили",
-"осуществить",
-"попытку",
-"поставок",
-"представител",
-"российского",
-"украинской",
-"хакерской",
-"цепочку"
-],
-"cve": []
-},
-{
-"t": "2026-11-12T16:50:32.053541+00:00",
-"title": "Apple понятия не имела, что это находится внутри 174 миллионов iPhone",
-"link": "https://www.youtube.com/watch?v=PBLB1nZ2SZI",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"apple",
-"idea",
-"inside",
-"iphones",
-"million",
-"this"
-],
-"cve": []
-},
-{
-"t": "2026-11-12T22:38:41.137963+00:00",
-"title": "Северная Корея украла 400 миллионов долларов в криптовалюте с помощью дипфейковых видеозвонков, сообщает Министерство юстиции",
-"link": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
-"score": 14.13,
-"tags": "#крипта #web3",
-"kind": "rss",
-"tok": [
-"calls",
-"crypto",
-"deepfake",
-"korea",
-"million",
-"north",
-"says",
-"stole",
-"using",
-"video"
-],
-"cve": []
-},
-{
-"t": "2026-11-12T22:38:46.622487+00:00",
-"title": "Федеральные власти объявляют об аресте 1,2 миллиарда долларов США, полученных в результате кражи Binance; также удаление инструментов FaceStealer",
-"link": "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
-"score": 11.95,
-"tags": "#даркнет #кибервойна",
-"kind": "rss",
-"tok": [
-"also",
-"announce",
-"billion",
-"binance",
-"facestealer",
-"feds",
-"from",
-"seizure",
-"takedown",
-"theft",
-"tools"
-],
-"cve": []
-},
-{
-"t": "2026-11-12T22:38:50.223973+00:00",
-"title": "Huntress сообщает , что в рамках новой кампании злоумышленники скомпрометировали сотни…",
-"link": "https://t.me/true_secator/8808",
-"score": 7.63,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"connectwise",
-"huntress",
-"воспользовавшись",
-"десятков",
-"злоумышленники",
-"кампании",
-"клиентов",
-"конечных",
-"легитимном",
-"новой",
-"рамках",
-"расширении",
-"скомпрометировали",
-"сообщает",
-"сотни",
-"устройств",
-"уязвимостью",
-"чтобы"
-],
-"cve": []
-},
 {
 "t": "2026-11-13T02:57:08.090494+00:00",
 "title": "Blind Ranking Numbers (Terence Tao)",
@@ -2043,6 +1908,79 @@
 "wifi"
 ],
 "cve": []
+},
+{
+"t": "2026-11-20T22:59:54.587723+00:00",
+"title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+"link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"score": 12.57,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"amid",
+"crashes",
+"exploit",
+"monero",
+"suspected",
+"token",
+"wrapped"
+],
+"cve": []
+},
+{
+"t": "2026-11-20T22:59:58.751547+00:00",
+"title": "27 arrests and 248 potential victims identified in action week against labour exploitation",
+"link": "https://www.europol.europa.eu/media-press/newsroom/news/27-arrests-and-248-potential-victims-identified-in-action-week-against-labour-exploitation",
+"score": 9.87,
+"tags": "#даркнет #аресты #расследование",
+"kind": "rss",
+"tok": [
+"action",
+"against",
+"arrests",
+"exploitation",
+"identified",
+"labour",
+"potential",
+"victims",
+"week"
+],
+"cve": []
+},
+{
+"t": "2026-11-20T23:00:02.158680+00:00",
+"title": "Последние события в ИБ в части уязвимостей, как отмечают наши подписчики, больше похожи…",
+"link": "https://t.me/true_secator/8836",
+"score": 9.13,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"broadcom",
+"больше",
+"выглядит",
+"выпустила",
+"момент",
+"наши",
+"обновление",
+"образом",
+"обстановка",
+"отмечают",
+"подписчики",
+"поля",
+"последние",
+"похожи",
+"сводки",
+"следующим",
+"события",
+"текущий",
+"уязвимостей",
+"части"
+],
+"cve": [
+"cve-2026-132165",
+"cve-2026-118633",
+"cve-2026-120382"
+]
 }
 ],
 "rubrics": {
