@@ -3,6 +3,7 @@
 "CVE-2026-114713",
 "CVE-2026-123039",
 "CVE-2026-19868",
+"https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -58,6 +59,7 @@
 "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
 "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
 "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+"https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
 "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
 "https://www.chainalysis.com/blog/chainalysis-response-mercado-bitcoin/",
 "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
@@ -96,6 +98,7 @@
 "https://www.youtube.com/shorts/-mhIHhRz2Ew",
 "https://www.youtube.com/shorts/33_jJ4kIxfc",
 "https://www.youtube.com/shorts/5USn1bdtvJU",
+"https://www.youtube.com/shorts/9FVcrVMnZNw",
 "https://www.youtube.com/shorts/F4duxQ4mMrg",
 "https://www.youtube.com/shorts/M7RDtnWsV4U",
 "https://www.youtube.com/shorts/WHOxCLffxP8",
@@ -173,8 +176,8 @@
 "tg:true_secator/8827",
 "tg:true_secator/8831"
 ],
-"last_post": "2026-11-19T18:04:36.601739+00:00",
-"n": 167,
+"last_post": "2026-11-20T00:39:10.736113+00:00",
+"n": 170,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -190,69 +193,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-11T18:05:02.919772+00:00",
-"title": "Maersk подтверждает утечку данных, поскольку программа-вымогатель WhiteArmor требует 5 миллионов долларов",
-"link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-"score": 13.04,
-"tags": "#новости #взломы",
-"kind": "rss",
-"tok": [
-"breach",
-"confirms",
-"data",
-"demands",
-"maersk",
-"million",
-"ransomware",
-"whitearmor"
-],
-"cve": []
-},
-{
-"t": "2026-11-11T18:05:06.581534+00:00",
-"title": "Binance: уязвимость в iOS может привести к утечке ключей криптокошельков",
-"link": "https://xakep.ru/2026/11/11/worse_query/",
-"score": 9.86,
-"tags": "#хакинг #новости",
-"kind": "rss",
-"tok": [
-"binance",
-"ключей",
-"криптокошельков",
-"может",
-"привести",
-"утечке",
-"уязвимость"
-],
-"cve": []
-},
-{
-"t": "2026-11-11T18:05:10.339536+00:00",
-"title": "👛 Over 1 million self-custodial Gram wallets activated on Telegram in the last 48 hours…",
-"link": "https://t.me/durov/556",
-"score": 9.94,
-"tags": "#telegram #Дуров",
-"kind": "tg",
-"tok": [
-"activated",
-"alone",
-"among",
-"coins",
-"gainer",
-"gram",
-"hours",
-"last",
-"market",
-"million",
-"over",
-"self-custodial",
-"telegram",
-"today",
-"wallets"
-],
-"cve": []
-},
 {
 "t": "2026-11-12T00:46:00.934754+00:00",
 "title": "Trust Me Bro Then Websites Went Offline (The php2shell story) | Threat Wire",
@@ -2031,6 +1971,58 @@
 "сервисов",
 "учетных",
 "хакеры"
+],
+"cve": []
+},
+{
+"t": "2026-11-20T00:39:02.120018+00:00",
+"title": "Границы безопасности ИИ",
+"link": "https://www.youtube.com/shorts/9FVcrVMnZNw",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"boundaries",
+"security"
+],
+"cve": []
+},
+{
+"t": "2026-11-20T00:39:06.380083+00:00",
+"title": "VMware исправляет vCenter нулевого дня, который использовался в атаках с сентября",
+"link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+"score": 13.51,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"attacks",
+"exploited",
+"patches",
+"september",
+"since",
+"vcenter",
+"vmware",
+"zero-day"
+],
+"cve": []
+},
+{
+"t": "2026-11-20T00:39:10.736026+00:00",
+"title": "Приказ Binance о заморозке на сумму $6,5 млрд. Гонконг «подозревает» хайп: Asia Express",
+"link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"score": 12.54,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"asia",
+"binance",
+"express",
+"freeze",
+"hong",
+"hype",
+"kong",
+"order",
+"suspicious"
 ],
 "cve": []
 }
