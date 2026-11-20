@@ -78,6 +78,7 @@
 "https://www.europol.europa.eu/media-press/newsroom/news/almost-50-arrested-police-target-western-balkan-network-linked-to-killings",
 "https://www.europol.europa.eu/media-press/newsroom/news/european-and-ecuadorian-cooperation-leads-to-20-arrests-in-major-hit-against-drug-trafficking",
 "https://www.europol.europa.eu/media-press/newsroom/news/ordering-violence-abroad-five-suspects-arrested-in-spain-morocco-and-france",
+"https://www.malwarebytes.com/blog/data-breaches/2026/11/hackers-leak-data-linked-to-visa-mastercard-and-jpmorgan-customers",
 "https://www.malwarebytes.com/blog/news/2026/11/13-3-million-peoples-medical-data-exposed-companies-pay-300000",
 "https://www.ransomware.live/id/RmluYWwgTm90aWNlIEJlZm9yZSBQdWJsaWNhdGlvbkBldmVyZXN0",
 "https://www.ransomware.live/id/TW9tZW50dW0gVGVsZWNvbUBFbmRab25l",
@@ -126,6 +127,7 @@
 "https://www.youtube.com/watch?v=smdOz8LQNC0",
 "https://www.youtube.com/watch?v=tEfNgifejKc",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
+"https://www.youtube.com/watch?v=x8YSn57QTPQ",
 "https://www.youtube.com/watch?v=yTEBEBz6dNw",
 "https://www.youtube.com/watch?v=zsIIIga8KbU",
 "https://xakep.ru/2026/11/06/paper-specials-3/",
@@ -177,10 +179,11 @@
 "tg:true_secator/8822",
 "tg:true_secator/8827",
 "tg:true_secator/8831",
-"tg:true_secator/8832"
+"tg:true_secator/8832",
+"tg:true_secator/8835"
 ],
-"last_post": "2026-11-20T07:48:27.104968+00:00",
-"n": 173,
+"last_post": "2026-11-20T16:49:30.302474+00:00",
+"n": 176,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -196,72 +199,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-12T08:03:31.344330+00:00",
-"title": "Массовый сбой при покупке Telegram Premium Пользователи, приобретающие подписку через…",
-"link": "https://t.me/tginfo/4452",
-"score": 6.73,
-"tags": "#telegram #новости",
-"kind": "tg",
-"tok": [
-"1970",
-"premium",
-"premiumbot",
-"telegram",
-"бота",
-"года",
-"массовый",
-"него",
-"подписка",
-"подписку",
-"покупке",
-"получают",
-"пользователи",
-"приобретающие",
-"продлена",
-"сама",
-"сбой",
-"сообщение",
-"через",
-"января"
-],
-"cve": []
-},
-{
-"t": "2026-11-12T08:03:36.936868+00:00",
-"title": "Основы математики Теренса Тао",
-"link": "https://www.youtube.com/watch?v=p2AAz24AzU4",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"essentials",
-"math",
-"numberphile",
-"terence"
-],
-"cve": []
-},
-{
-"t": "2026-11-12T08:03:41.597925+00:00",
-"title": "Canaan может продать больше биткойнов для выкупа акций, поскольку доходы от майнинговых установок упали на 96%",
-"link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
-"score": 8.39,
-"tags": "#крипта",
-"kind": "rss",
-"tok": [
-"bitcoin",
-"buybacks",
-"canaan",
-"falls",
-"mining-rig",
-"more",
-"revenue",
-"sell",
-"stock"
-],
-"cve": []
-},
 {
 "t": "2026-11-12T16:50:22.465126+00:00",
 "title": "Новая система нулевого дня Windows SignDrop дает хакерам СИСТЕМНЫЕ привилегии",
@@ -2042,12 +1979,76 @@
 "cve": [
 "cve-2026-123890"
 ]
+},
+{
+"t": "2026-11-20T16:49:21.449538+00:00",
+"title": "Хакеры сливают данные, связанные с клиентами Visa, Mastercard и JPMorgan",
+"link": "https://www.malwarebytes.com/blog/data-breaches/2026/11/hackers-leak-data-linked-to-visa-mastercard-and-jpmorgan-customers",
+"score": 11.54,
+"tags": "#мошенничество #фишинг",
+"kind": "rss",
+"tok": [
+"customers",
+"data",
+"hackers",
+"jpmorgan",
+"leak",
+"linked",
+"mastercard",
+"visa"
+],
+"cve": []
+},
+{
+"t": "2026-11-20T16:49:25.057471+00:00",
+"title": "Исследователи Лаборатории Касперского обнаружила новый штамм вредоносного ПО под…",
+"link": "https://t.me/true_secator/8835",
+"score": 6.92,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"badvibe",
+"telegram",
+"youtube",
+"видеоролики",
+"вредоно",
+"вредоносного",
+"исследователи",
+"касперского",
+"который",
+"лаборатории",
+"названием",
+"неизвестное",
+"новый",
+"обнаружила",
+"ранее",
+"распространяется",
+"спам",
+"через",
+"штамм"
+],
+"cve": []
+},
+{
+"t": "2026-11-20T16:49:30.302396+00:00",
+"title": "🔴 [ПОЛЕЗНАЯ НАГРУЗКА] 🍍📟 WiFi-пейджер «Ананас»",
+"link": "https://www.youtube.com/watch?v=x8YSn57QTPQ",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"pager",
+"payload",
+"pineapple",
+"wifi"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-20",
 "quiz": "2026-11-14",
-"term": "2026-11-15",
+"term": "2026-11-20",
 "top_day": "2026-11-19"
 }
 }
