@@ -90,6 +90,7 @@
 "https://www.securitylab.ru/news/579909.php",
 "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
 "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+"https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
 "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
 "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
 "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
@@ -108,6 +109,7 @@
 "https://www.youtube.com/shorts/F4duxQ4mMrg",
 "https://www.youtube.com/shorts/M7RDtnWsV4U",
 "https://www.youtube.com/shorts/WHOxCLffxP8",
+"https://www.youtube.com/shorts/eoE8WQALJrc",
 "https://www.youtube.com/shorts/iJU6csQs_no",
 "https://www.youtube.com/shorts/v9sfKhXDOn0",
 "https://www.youtube.com/shorts/yydGYEnRKzg",
@@ -149,6 +151,7 @@
 "tg:durov/561",
 "tg:durov/564",
 "tg:durov/565",
+"tg:durov/567",
 "tg:investigations/374",
 "tg:investigations/377",
 "tg:investigations/379",
@@ -188,8 +191,8 @@
 "tg:true_secator/8835",
 "tg:true_secator/8836"
 ],
-"last_post": "2026-11-21T03:54:16.204552+00:00",
-"n": 182,
+"last_post": "2026-11-21T12:18:34.572458+00:00",
+"n": 185,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -205,72 +208,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-13T10:49:40.660904+00:00",
-"title": "Данные клиентов Notion утекли в результате взлома ИИ-платформы Fireworks . Правда, как…",
-"link": "https://t.me/true_secator/8805",
-"score": 4.53,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"fireworks",
-"notion",
-"взлома",
-"данные",
-"доступ",
-"заявляется",
-"злоумышленники",
-"ии-платформы",
-"клиентов",
-"менее",
-"получили",
-"правда",
-"пространств",
-"рабочих",
-"расшифровкам",
-"результате",
-"универ",
-"утекли",
-"чатов"
-],
-"cve": []
-},
-{
-"t": "2026-11-13T10:49:45.709699+00:00",
-"title": "AI Agents Are Here Now. Can Your Cyber Defenses Keep Up?",
-"link": "https://www.youtube.com/watch?v=zsIIIga8KbU",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"agents",
-"cyber",
-"defenses",
-"here",
-"keep",
-"your"
-],
-"cve": []
-},
-{
-"t": "2026-11-13T10:49:49.846234+00:00",
-"title": "Check Point warns of zero-day flaw exploited for root access",
-"link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
-"score": 9.97,
-"tags": "#новости #взломы",
-"kind": "rss",
-"tok": [
-"access",
-"check",
-"exploited",
-"flaw",
-"point",
-"root",
-"warns",
-"zero-day"
-],
-"cve": []
-},
 {
 "t": "2026-11-13T18:26:54.325700+00:00",
 "title": "Компания N-able отключила платформу N-central из-за обнаружения 33 уязвимостей нулевого",
@@ -1982,11 +1919,64 @@
 "says"
 ],
 "cve": []
+},
+{
+"t": "2026-11-21T12:18:26.597289+00:00",
+"title": "I was offered $256,000 for the @pride username on Telegram. I don’t need the username.…",
+"link": "https://t.me/durov/567",
+"score": 4.85,
+"tags": "#telegram #Дуров",
+"kind": "tg",
+"tok": [
+"does",
+"mean",
+"need",
+"offered",
+"pride",
+"sell",
+"sold",
+"telegram",
+"that",
+"username"
+],
+"cve": []
+},
+{
+"t": "2026-11-21T12:18:30.494687+00:00",
+"title": "Minecraft Malware Lab",
+"link": "https://www.youtube.com/shorts/eoE8WQALJrc",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"malware",
+"minecraft"
+],
+"cve": []
+},
+{
+"t": "2026-11-21T12:18:34.572377+00:00",
+"title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+"link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+"score": 13.28,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"agents",
+"amazon",
+"china-linked",
+"exploited",
+"hackers",
+"medical",
+"software",
+"zero-day"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-20",
-"quiz": "2026-11-14",
+"quiz": "2026-11-21",
 "term": "2026-11-20",
 "top_day": "2026-11-19"
 }
