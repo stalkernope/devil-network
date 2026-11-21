@@ -73,6 +73,7 @@
 "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
 "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
 "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+"https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
 "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
 "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
 "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
@@ -134,6 +135,7 @@
 "https://www.youtube.com/watch?v=smdOz8LQNC0",
 "https://www.youtube.com/watch?v=tEfNgifejKc",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
+"https://www.youtube.com/watch?v=w2A52-dhO9E",
 "https://www.youtube.com/watch?v=x8YSn57QTPQ",
 "https://www.youtube.com/watch?v=yTEBEBz6dNw",
 "https://www.youtube.com/watch?v=zsIIIga8KbU",
@@ -188,11 +190,12 @@
 "tg:true_secator/8827",
 "tg:true_secator/8831",
 "tg:true_secator/8832",
+"tg:true_secator/8833",
 "tg:true_secator/8835",
 "tg:true_secator/8836"
 ],
-"last_post": "2026-11-21T12:18:34.572458+00:00",
-"n": 185,
+"last_post": "2026-11-21T19:40:34.851416+00:00",
+"n": 188,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -208,76 +211,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-13T18:26:54.325700+00:00",
-"title": "Компания N-able отключила платформу N-central из-за обнаружения 33 уязвимостей нулевого",
-"link": "https://xakep.ru/2026/11/13/n-able-0days/",
-"score": 10.75,
-"tags": "#хакинг #новости",
-"kind": "rss",
-"tok": [
-"n-able",
-"n-central",
-"из-за",
-"компания",
-"нулевого",
-"обнаружения",
-"отключила",
-"платформу",
-"уязвимостей"
-],
-"cve": []
-},
-{
-"t": "2026-11-13T18:26:58.075241+00:00",
-"title": "Telegram отключил HTML-виджеты в чатах Несколько минут назад интерактивные HTML-сообщения…",
-"link": "https://t.me/tginfo/4453",
-"score": 8.67,
-"tags": "#telegram #новости",
-"kind": "tg",
-"tok": [
-"html-виджеты",
-"html-сообщения",
-"telegram",
-"tginfo",
-"виджеты",
-"всех",
-"интерактивные",
-"команда",
-"мессенджера",
-"минут",
-"назад",
-"несколько",
-"отключил",
-"перестали",
-"полагает",
-"пользователей",
-"работать",
-"редакция",
-"чатах",
-"экстренн"
-],
-"cve": []
-},
-{
-"t": "2026-11-13T18:27:02.936743+00:00",
-"title": "Is curl Getting Harder to Hack? Daniel Stenberg on AI vs. Decades of Hardening",
-"link": "https://www.youtube.com/watch?v=06Qjai8RQKw",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"curl",
-"daniel",
-"decades",
-"getting",
-"hack",
-"hardening",
-"harder",
-"stenberg"
-],
-"cve": []
-},
 {
 "t": "2026-11-13T23:48:31.483205+00:00",
 "title": "🏴‍☠️ Everest has just published a new victim : Final Notice Before Publication",
@@ -1972,12 +1905,78 @@
 "zero-day"
 ],
 "cve": []
+},
+{
+"t": "2026-11-21T19:40:26.764490+00:00",
+"title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+"link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+"score": 10.78,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"bitcoin",
+"bounces",
+"from",
+"monday",
+"open",
+"retake",
+"stock",
+"traders",
+"two-year"
+],
+"cve": []
+},
+{
+"t": "2026-11-21T19:40:30.543851+00:00",
+"title": "↔️ Две критические уязвимости в веб-сервере NGINX Пять независимых команд ( Wiz Research…",
+"link": "https://t.me/true_secator/8833",
+"score": 4.21,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"ikotas",
+"labs",
+"metnir",
+"nginx",
+"rapid7",
+"research",
+"xint",
+"веб-сервере",
+"выявили",
+"исходным",
+"кодом",
+"команд",
+"критические",
+"независимых",
+"открытым",
+"пять",
+"уязвимости"
+],
+"cve": [
+"cve-2026-123633",
+"cve-2026-123007",
+"cve-2026-123633",
+"cve-2026-123007"
+]
+},
+{
+"t": "2026-11-21T19:40:34.851318+00:00",
+"title": "HackTheBox - PingPong",
+"link": "https://www.youtube.com/watch?v=w2A52-dhO9E",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"hackthebox",
+"pingpong"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-20",
 "quiz": "2026-11-21",
 "term": "2026-11-20",
-"top_day": "2026-11-19"
+"top_day": "2026-11-21"
 }
 }
