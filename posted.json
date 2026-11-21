@@ -16,6 +16,7 @@
 "https://databreaches.net/2026/11/11/au-hacker-claims-to-have-sold-stolen-exams-to-students-but-marked-them-for-identification-purposes/",
 "https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/",
 "https://databreaches.net/2026/11/15/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+"https://databreaches.net/2026/11/20/ransomware-what-we-know-about-the-arrests-of-chaos-affiliates/",
 "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
 "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
 "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
@@ -97,6 +98,7 @@
 "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
 "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
 "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+"https://www.theverge.com/games/1036279/gta-vi-sales",
 "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
 "https://www.youtube.com/shorts/-m7pPKq-f2o",
 "https://www.youtube.com/shorts/-mhIHhRz2Ew",
@@ -113,6 +115,7 @@
 "https://www.youtube.com/watch?v=06Qjai8RQKw",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
 "https://www.youtube.com/watch?v=9U1b9RsmdWk",
+"https://www.youtube.com/watch?v=CfPeBaxwi-0",
 "https://www.youtube.com/watch?v=Dcxyeb1rB1g",
 "https://www.youtube.com/watch?v=EgnAN0ZUl08",
 "https://www.youtube.com/watch?v=J9OIWnwuAeU",
@@ -185,8 +188,8 @@
 "tg:true_secator/8835",
 "tg:true_secator/8836"
 ],
-"last_post": "2026-11-20T23:00:02.158805+00:00",
-"n": 179,
+"last_post": "2026-11-21T03:54:16.204552+00:00",
+"n": 182,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -202,61 +205,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-13T02:57:08.090494+00:00",
-"title": "Blind Ranking Numbers (Terence Tao)",
-"link": "https://www.youtube.com/shorts/33_jJ4kIxfc",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"blind",
-"numbers",
-"ranking",
-"terence"
-],
-"cve": []
-},
-{
-"t": "2026-11-13T02:57:12.368477+00:00",
-"title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
-"link": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
-"score": 18.89,
-"tags": "#кибербезопасность",
-"kind": "rss",
-"tok": [
-"billion",
-"binance",
-"cryptocurrency",
-"from",
-"says",
-"seized",
-"stolen",
-"worth"
-],
-"cve": []
-},
-{
-"t": "2026-11-13T02:57:16.449718+00:00",
-"title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-"link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-"score": 15.38,
-"tags": "#крипта",
-"kind": "rss",
-"tok": [
-"billion",
-"binance",
-"crackdown",
-"crypto",
-"faces",
-"hack",
-"korea",
-"north",
-"stolen",
-"targets"
-],
-"cve": []
-},
 {
 "t": "2026-11-13T10:49:40.660904+00:00",
 "title": "Данные клиентов Notion утекли в результате взлома ИИ-платформы Fireworks . Правда, как…",
@@ -1981,6 +1929,59 @@
 "cve-2026-118633",
 "cve-2026-120382"
 ]
+},
+{
+"t": "2026-11-21T03:54:07.916059+00:00",
+"title": "A Residential Proxy Was Found on the White House Network | Threat Wire",
+"link": "https://www.youtube.com/watch?v=CfPeBaxwi-0",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"found",
+"house",
+"network",
+"proxy",
+"residential",
+"threat",
+"white",
+"wire"
+],
+"cve": []
+},
+{
+"t": "2026-11-21T03:54:12.053920+00:00",
+"title": "Ransomware: What we know about the arrests of Chaos affiliates",
+"link": "https://databreaches.net/2026/11/20/ransomware-what-we-know-about-the-arrests-of-chaos-affiliates/",
+"score": 10.2,
+"tags": "#утечки #даркнет",
+"kind": "rss",
+"tok": [
+"about",
+"affiliates",
+"arrests",
+"chaos",
+"know",
+"ransomware",
+"what"
+],
+"cve": []
+},
+{
+"t": "2026-11-21T03:54:16.204469+00:00",
+"title": "Rockstar says GTA VI made $3.79 billion in its first day",
+"link": "https://www.theverge.com/games/1036279/gta-vi-sales",
+"score": 10.11,
+"tags": "#IT #гаджеты",
+"kind": "rss",
+"tok": [
+"billion",
+"first",
+"made",
+"rockstar",
+"says"
+],
+"cve": []
 }
 ],
 "rubrics": {
