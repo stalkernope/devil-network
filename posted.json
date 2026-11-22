@@ -87,6 +87,7 @@
 "https://www.europol.europa.eu/media-press/newsroom/news/almost-50-arrested-police-target-western-balkan-network-linked-to-killings",
 "https://www.europol.europa.eu/media-press/newsroom/news/european-and-ecuadorian-cooperation-leads-to-20-arrests-in-major-hit-against-drug-trafficking",
 "https://www.europol.europa.eu/media-press/newsroom/news/ordering-violence-abroad-five-suspects-arrested-in-spain-morocco-and-france",
+"https://www.malwarebytes.com/blog/ai/2026/11/deepfake-elon-musk-nearly-costs-viewers-4-7-million-in-crypto",
 "https://www.malwarebytes.com/blog/data-breaches/2026/11/hackers-leak-data-linked-to-visa-mastercard-and-jpmorgan-customers",
 "https://www.malwarebytes.com/blog/news/2026/11/13-3-million-peoples-medical-data-exposed-companies-pay-300000",
 "https://www.ransomware.live/id/RmluYWwgTm90aWNlIEJlZm9yZSBQdWJsaWNhdGlvbkBldmVyZXN0",
@@ -133,6 +134,7 @@
 "https://www.youtube.com/watch?v=Q-e9L6ECpgM",
 "https://www.youtube.com/watch?v=XJ8zqsz4xvw",
 "https://www.youtube.com/watch?v=Z5DAv-zgrcI",
+"https://www.youtube.com/watch?v=c_ioEqX7NFE",
 "https://www.youtube.com/watch?v=kx94I2FuOUk",
 "https://www.youtube.com/watch?v=li_MPYRKcK4",
 "https://www.youtube.com/watch?v=p2AAz24AzU4",
@@ -170,6 +172,7 @@
 "tg:tginfo/4454",
 "tg:tginfo/4456",
 "tg:tginfo/4457",
+"tg:tginfo/4460",
 "tg:true_secator/8779",
 "tg:true_secator/8782",
 "tg:true_secator/8784",
@@ -201,8 +204,8 @@
 "tg:true_secator/8835",
 "tg:true_secator/8836"
 ],
-"last_post": "2026-11-22T06:25:54.596070+00:00",
-"n": 194,
+"last_post": "2026-11-22T14:49:10.040819+00:00",
+"n": 197,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -218,70 +221,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-14T12:32:15.041692+00:00",
-"title": "Исследователи Лаборатории Касперского препарировали Citrus Ransomware , которая…",
-"link": "https://t.me/true_secator/8813",
-"score": 5.54,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"citrus",
-"ransomware",
-"sn00py",
-"vless",
-"встречае",
-"годы",
-"исследователи",
-"касперского",
-"киберугроз",
-"которая",
-"лаборатории",
-"последние",
-"практикует",
-"препарировали",
-"придачу",
-"среди",
-"трафика",
-"чаще",
-"шифрования"
-],
-"cve": [
-"cve-2026-54121",
-"cve-2020-1337"
-]
-},
-{
-"t": "2026-11-14T12:32:20.566488+00:00",
-"title": "Подкаст «Полезная нагрузка» 013 – Catchup",
-"link": "https://www.youtube.com/watch?v=Q-e9L6ECpgM",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"catchup",
-"payload",
-"podcast"
-],
-"cve": []
-},
-{
-"t": "2026-11-14T12:32:25.503810+00:00",
-"title": "🏴‍☠️ Endzone только что опубликовала новую жертву: Momentum Telecom.",
-"link": "https://www.ransomware.live/id/TW9tZW50dW0gVGVsZWNvbUBFbmRab25l",
-"score": 7.7,
-"tags": "#ransomware #даркнет",
-"kind": "rss",
-"tok": [
-"endzone",
-"just",
-"momentum",
-"published",
-"telecom",
-"victim"
-],
-"cve": []
-},
 {
 "t": "2026-11-14T18:30:44.458555+00:00",
 "title": "Uber Data Breach: Driver Licenses Stolen via Fireworks AI",
@@ -1952,11 +1891,70 @@
 "used"
 ],
 "cve": []
+},
+{
+"t": "2026-11-22T14:48:58.489551+00:00",
+"title": "Сбои при отправке изображений в высоком качестве Пользователи Telegram на разных…",
+"link": "https://t.me/tginfo/4460",
+"score": 6.18,
+"tags": "#telegram #новости",
+"kind": "tg",
+"tok": [
+"telegram",
+"высоком",
+"изображений",
+"картинок",
+"качестве",
+"начала",
+"неполадках",
+"отправке",
+"платформах",
+"пользователи",
+"проблема",
+"проявляться",
+"разных",
+"режим",
+"сбои",
+"сообщают"
+],
+"cve": []
+},
+{
+"t": "2026-11-22T14:49:04.508765+00:00",
+"title": "HackTheBox - Контрольная точка",
+"link": "https://www.youtube.com/watch?v=c_ioEqX7NFE",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"checkpoint",
+"hackthebox"
+],
+"cve": []
+},
+{
+"t": "2026-11-22T14:49:10.040735+00:00",
+"title": "Дипфейк Илона Маска едва не обошелся зрителям в 4,7 миллиона долларов в криптовалюте",
+"link": "https://www.malwarebytes.com/blog/ai/2026/11/deepfake-elon-musk-nearly-costs-viewers-4-7-million-in-crypto",
+"score": 7.82,
+"tags": "#мошенничество #фишинг",
+"kind": "rss",
+"tok": [
+"costs",
+"crypto",
+"deepfake",
+"elon",
+"million",
+"musk",
+"nearly",
+"viewers"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-22",
-"quiz": "2026-11-21",
+"quiz": "2026-11-22",
 "term": "2026-11-20",
 "top_day": "2026-11-21"
 }
