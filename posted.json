@@ -57,6 +57,7 @@
 "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
 "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
 "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+"https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
 "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
 "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
 "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
@@ -116,6 +117,7 @@
 "https://www.youtube.com/shorts/9FVcrVMnZNw",
 "https://www.youtube.com/shorts/F4duxQ4mMrg",
 "https://www.youtube.com/shorts/M7RDtnWsV4U",
+"https://www.youtube.com/shorts/PSDdF_Naz_M",
 "https://www.youtube.com/shorts/WHOxCLffxP8",
 "https://www.youtube.com/shorts/eoE8WQALJrc",
 "https://www.youtube.com/shorts/iJU6csQs_no",
@@ -173,6 +175,7 @@
 "tg:tginfo/4456",
 "tg:tginfo/4457",
 "tg:tginfo/4460",
+"tg:tginfo/4461",
 "tg:true_secator/8779",
 "tg:true_secator/8782",
 "tg:true_secator/8784",
@@ -204,8 +207,8 @@
 "tg:true_secator/8835",
 "tg:true_secator/8836"
 ],
-"last_post": "2026-11-22T14:49:10.040819+00:00",
-"n": 197,
+"last_post": "2026-11-22T20:57:58.800917+00:00",
+"n": 200,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -221,70 +224,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-14T18:30:44.458555+00:00",
-"title": "Uber Data Breach: Driver Licenses Stolen via Fireworks AI",
-"link": "https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/",
-"score": 10.26,
-"tags": "#утечки #даркнет",
-"kind": "rss",
-"tok": [
-"breach",
-"data",
-"driver",
-"fireworks",
-"licenses",
-"stolen",
-"uber"
-],
-"cve": []
-},
-{
-"t": "2026-11-14T18:30:48.031164+00:00",
-"title": "Бывший сотрудник микромягких , исследователь Абдельхамид Насери (также известный как…",
-"link": "https://t.me/true_secator/8811",
-"score": 6.81,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"0-day",
-"eclipse",
-"nightmare",
-"абдельхамид",
-"бывшего",
-"бывший",
-"известный",
-"исследователь",
-"микромягких",
-"наезжать",
-"насери",
-"новую",
-"опубликовал",
-"продолжает",
-"работодателя",
-"своего",
-"сотрудник",
-"также",
-"этот"
-],
-"cve": []
-},
-{
-"t": "2026-11-14T18:30:52.752953+00:00",
-"title": "Самый Молодой Крипто Скаммер в Даркнете",
-"link": "https://www.youtube.com/watch?v=9U1b9RsmdWk",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"даркнете",
-"крипто",
-"молодой",
-"самый",
-"скаммер"
-],
-"cve": []
-},
 {
 "t": "2026-11-14T22:45:25.895684+00:00",
 "title": "US disrupts North Korean campaign behind $400 million crypto theft",
@@ -1950,12 +1889,74 @@
 "viewers"
 ],
 "cve": []
+},
+{
+"t": "2026-11-22T20:57:50.769145+00:00",
+"title": "Хакеры используют уязвимость облака GL.iNet для заражения маршрутизаторов и KVM-устройств",
+"link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+"score": 9.22,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"cloud",
+"devices",
+"exploit",
+"flaw",
+"hackers",
+"inet",
+"infect",
+"routers"
+],
+"cve": []
+},
+{
+"t": "2026-11-22T20:57:54.181774+00:00",
+"title": "Telegram для Android и iOS обновились до версии 13.3 Рассказываем, какие новшества стали…",
+"link": "https://t.me/tginfo/4461",
+"score": 6.8,
+"tags": "#telegram #новости",
+"kind": "tg",
+"tok": [
+"android",
+"telegram",
+"ввод",
+"версии",
+"втором",
+"голосовой",
+"доступны",
+"какие",
+"мессенджера",
+"новшества",
+"ноябрьском",
+"обновились",
+"обновлении",
+"пользователям",
+"прило",
+"рассказываем",
+"сообщений",
+"стали",
+"счёту"
+],
+"cve": []
+},
+{
+"t": "2026-11-22T20:57:58.800834+00:00",
+"title": "Следующие шаги для PHP",
+"link": "https://www.youtube.com/shorts/PSDdF_Naz_M",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"next",
+"steps"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-22",
 "quiz": "2026-11-22",
 "term": "2026-11-20",
-"top_day": "2026-11-21"
+"top_day": "2026-11-22"
 }
 }
