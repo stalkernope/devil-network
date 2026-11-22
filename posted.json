@@ -22,6 +22,7 @@
 "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
 "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
 "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+"https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
 "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
 "https://habr.com/ru/articles/1104742/?utm_campaign=1104742&utm_source=habrahabr&utm_medium=rss",
 "https://habr.com/ru/articles/1104926/?utm_campaign=1104926&utm_source=habrahabr&utm_medium=rss",
@@ -49,6 +50,7 @@
 "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
 "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
 "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+"https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
 "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
 "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
 "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
@@ -108,6 +110,7 @@
 "https://www.youtube.com/shorts/-m7pPKq-f2o",
 "https://www.youtube.com/shorts/-mhIHhRz2Ew",
 "https://www.youtube.com/shorts/33_jJ4kIxfc",
+"https://www.youtube.com/shorts/4Wut2JZgJ8E",
 "https://www.youtube.com/shorts/5USn1bdtvJU",
 "https://www.youtube.com/shorts/9FVcrVMnZNw",
 "https://www.youtube.com/shorts/F4duxQ4mMrg",
@@ -198,8 +201,8 @@
 "tg:true_secator/8835",
 "tg:true_secator/8836"
 ],
-"last_post": "2026-11-21T23:56:56.605140+00:00",
-"n": 191,
+"last_post": "2026-11-22T06:25:54.596070+00:00",
+"n": 194,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -215,74 +218,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-14T05:39:13.678252+00:00",
-"title": "Кошелек эпохи Сатоши, рассмотренный в судебном иске на сумму 260 миллиардов долларов, переместил 75 BTC, которые он хранил с 2011 года.",
-"link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
-"score": 10.63,
-"tags": "#крипта",
-"kind": "rss",
-"tok": [
-"2011",
-"billion",
-"held",
-"lawsuit",
-"moves",
-"satoshi-era",
-"served",
-"since",
-"wallet"
-],
-"cve": []
-},
-{
-"t": "2026-11-14T05:39:19.437841+00:00",
-"title": "CVE-2026-123039: Несколько продуктов Check Point — Несколько продуктов Check Point Неверное назначение разрешений для уязвимости критического ресурса",
-"link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123039",
-"score": 9.46,
-"tags": "#уязвимости #CVE",
-"kind": "kev",
-"tok": [
-"assignment",
-"check",
-"critical",
-"cve-2026-123039",
-"incorrect",
-"multiple",
-"permission",
-"point",
-"products",
-"resource",
-"vulnerability"
-],
-"cve": [
-"cve-2026-123039"
-]
-},
-{
-"t": "2026-11-14T05:39:25.258325+00:00",
-"title": "Город Осака предупреждает об утечке данных, затронувшей 1 миллион человек, поскольку Япония переживает десятки киберинцидентов",
-"link": "https://therecord.media/city-of-osaka-japan-email-data-breach",
-"score": 8.53,
-"tags": "#даркнет #кибервойна",
-"kind": "rss",
-"tok": [
-"breach",
-"city",
-"cyber",
-"data",
-"dozens",
-"from",
-"impacting",
-"incidents",
-"japan",
-"million",
-"osaka",
-"reels",
-"warns"
-],
-"cve": []
-},
 {
 "t": "2026-11-14T12:32:15.041692+00:00",
 "title": "Исследователи Лаборатории Касперского препарировали Citrus Ransomware , которая…",
@@ -1963,10 +1898,64 @@
 "tenant"
 ],
 "cve": []
+},
+{
+"t": "2026-11-22T06:25:45.966502+00:00",
+"title": "Он Разбил Самолет Ради Лайков #shorts",
+"link": "https://www.youtube.com/shorts/4Wut2JZgJ8E",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"shorts",
+"лайков",
+"ради",
+"разбил",
+"самолет"
+],
+"cve": []
+},
+{
+"t": "2026-11-22T06:25:50.392511+00:00",
+"title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+"link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+"score": 7.75,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"badbox",
+"billion",
+"botnet",
+"daily",
+"record-breaking",
+"requests",
+"returns",
+"with"
+],
+"cve": []
+},
+{
+"t": "2026-11-22T06:25:54.595986+00:00",
+"title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+"link": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+"score": 7.53,
+"tags": "#крипта #web3",
+"kind": "rss",
+"tok": [
+"alleges",
+"crypto",
+"exchanges",
+"fake",
+"fraudsters",
+"million",
+"steal",
+"used"
+],
+"cve": []
 }
 ],
 "rubrics": {
-"tip": "2026-11-20",
+"tip": "2026-11-22",
 "quiz": "2026-11-21",
 "term": "2026-11-20",
 "top_day": "2026-11-21"
