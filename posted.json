@@ -9,6 +9,7 @@
 "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://darknetdiaries.com/episode/182/",
 "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
@@ -142,6 +143,7 @@
 "https://www.youtube.com/watch?v=Z5DAv-zgrcI",
 "https://www.youtube.com/watch?v=cN4Uez-PZmM",
 "https://www.youtube.com/watch?v=c_ioEqX7NFE",
+"https://www.youtube.com/watch?v=exEBYWtSkM0",
 "https://www.youtube.com/watch?v=kx94I2FuOUk",
 "https://www.youtube.com/watch?v=li_MPYRKcK4",
 "https://www.youtube.com/watch?v=p2AAz24AzU4",
@@ -182,6 +184,7 @@
 "tg:tginfo/4457",
 "tg:tginfo/4460",
 "tg:tginfo/4461",
+"tg:tginfo/4462",
 "tg:true_secator/8779",
 "tg:true_secator/8782",
 "tg:true_secator/8784",
@@ -213,8 +216,8 @@
 "tg:true_secator/8835",
 "tg:true_secator/8836"
 ],
-"last_post": "2026-11-23T09:50:13.953016+00:00",
-"n": 206,
+"last_post": "2026-11-23T21:56:46.112756+00:00",
+"n": 209,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -230,130 +233,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-15T16:52:10.736069+00:00",
-"title": "Утечка данных сотрудников TSMC связана с облачным провайдером",
-"link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-"score": 12.14,
-"tags": "#новости #взломы",
-"kind": "rss",
-"tok": [
-"breach",
-"cloud",
-"data",
-"employee",
-"linked",
-"provider",
-"tsmc"
-],
-"cve": []
-},
-{
-"t": "2026-11-15T16:52:14.428115+00:00",
-"title": "ZachXBT vs. Indian Law Enforcement tomorrow on X at 1 pm UTC. Who do you think wins?",
-"link": "https://t.me/investigations/379",
-"score": 2.62,
-"tags": "#расследование #крипта #кражи",
-"kind": "tg",
-"tok": [
-"enforcement",
-"indian",
-"think",
-"tomorrow",
-"wins",
-"zachxbt"
-],
-"cve": []
-},
-{
-"t": "2026-11-15T16:52:19.917257+00:00",
-"title": "Китайский искусственный интеллект попытался позвонить домой. Никто не знает, почему | Угроза провода",
-"link": "https://www.youtube.com/watch?v=XJ8zqsz4xvw",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"chinese",
-"home",
-"knows",
-"nobody",
-"phone",
-"threat",
-"tried",
-"wire"
-],
-"cve": []
-},
-{
-"t": "2026-11-15T21:31:34.641223+00:00",
-"title": "Биткойн-ETF потеряли $2,1 миллиарда в ноябре, поскольку полоса оттока достигла семи дней",
-"link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
-"score": 11.69,
-"tags": "#крипта #web3",
-"kind": "rss",
-"tok": [
-"billion",
-"bitcoin",
-"days",
-"etfs",
-"hits",
-"lose",
-"november",
-"outflow",
-"seven",
-"streak"
-],
-"cve": []
-},
-{
-"t": "2026-11-15T21:31:40.392548+00:00",
-"title": "Курсор утверждает, что украденный ключ искусственного интеллекта Fireworks привел к инциденту с расширением кода Клода, зараженным трояном",
-"link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-"score": 8.76,
-"tags": "#новости #кибербезопасность",
-"kind": "rss",
-"tok": [
-"claude",
-"code",
-"cursor",
-"extension",
-"fireworks",
-"incident",
-"says",
-"stolen",
-"trojanized"
-],
-"cve": []
-},
-{
-"t": "2026-11-15T21:31:43.794090+00:00",
-"title": "Nvidia’s board was right to fire Jensen. He was married. Meaning he signed an exclusive…",
-"link": "https://t.me/durov/561",
-"score": 1.53,
-"tags": "#telegram #Дуров",
-"kind": "tg",
-"tok": [
-"board",
-"contract",
-"exclusive",
-"exit",
-"fire",
-"guarantee",
-"jensen",
-"married",
-"meaning",
-"nvidia",
-"penalty",
-"right",
-"service",
-"sign",
-"signed",
-"trust",
-"uptime",
-"with"
-],
-"cve": []
-},
 {
 "t": "2026-11-16T01:25:20.997852+00:00",
 "title": "🍍📟 Theme Hacking Tip - WiFi Pineapple Pager #pentesting #hacking #cybersecurity",
@@ -1877,6 +1756,73 @@
 "shed",
 "third-largest",
 "weekly"
+],
+"cve": []
+},
+{
+"t": "2026-11-23T21:56:37.899011+00:00",
+"title": "Bot API обновился до версии 10.5 Telegram продолжает расширять автономность ботов и…",
+"link": "https://t.me/tginfo/4462",
+"score": 6.57,
+"tags": "#telegram #новости",
+"kind": "tg",
+"tok": [
+"telegram",
+"автономность",
+"ботов",
+"версии",
+"инструменты",
+"интерфейсом",
+"настройке",
+"необходимость",
+"обновился",
+"обновление",
+"параметров",
+"продолжает",
+"работы",
+"расширять",
+"ручной",
+"свежее",
+"снимает",
+"части"
+],
+"cve": []
+},
+{
+"t": "2026-11-23T21:56:42.598553+00:00",
+"title": "Как аэропорт Гатвик использовал Splunk, чтобы вернуть экраны полетов в онлайн",
+"link": "https://www.youtube.com/watch?v=exEBYWtSkM0",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"airport",
+"back",
+"flight",
+"gatwick",
+"online",
+"screens",
+"splunk",
+"used"
+],
+"cve": []
+},
+{
+"t": "2026-11-23T21:56:46.112623+00:00",
+"title": "США стремятся вернуть 1,1 миллиарда долларов в криптовалюте, украденной в результате взлома Binance, связанного с Северной Кореей",
+"link": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"score": 11.99,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"binance",
+"crypto",
+"hack",
+"korea-linked",
+"north",
+"recover",
+"seeks",
+"stolen"
 ],
 "cve": []
 }
