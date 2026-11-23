@@ -5,6 +5,7 @@
 "CVE-2026-19868",
 "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -53,6 +54,7 @@
 "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
 "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
 "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+"https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
 "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
 "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
 "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
@@ -138,6 +140,7 @@
 "https://www.youtube.com/watch?v=Q-e9L6ECpgM",
 "https://www.youtube.com/watch?v=XJ8zqsz4xvw",
 "https://www.youtube.com/watch?v=Z5DAv-zgrcI",
+"https://www.youtube.com/watch?v=cN4Uez-PZmM",
 "https://www.youtube.com/watch?v=c_ioEqX7NFE",
 "https://www.youtube.com/watch?v=kx94I2FuOUk",
 "https://www.youtube.com/watch?v=li_MPYRKcK4",
@@ -210,8 +213,8 @@
 "tg:true_secator/8835",
 "tg:true_secator/8836"
 ],
-"last_post": "2026-11-23T01:32:34.610553+00:00",
-"n": 203,
+"last_post": "2026-11-23T09:50:13.953016+00:00",
+"n": 206,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -227,126 +230,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-15T02:28:08.535789+00:00",
-"title": "Is AI Making Us Worse at Cybersecurity?",
-"link": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
-"score": 5.95,
-"tags": "#кибербезопасность",
-"kind": "rss",
-"tok": [
-"cybersecurity",
-"making",
-"worse"
-],
-"cve": []
-},
-{
-"t": "2026-11-15T02:28:12.748973+00:00",
-"title": "CVE-2026-114713: UnrealIRCd UnrealIRCd — UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
-"link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114713",
-"score": 5.45,
-"tags": "#уязвимости #CVE",
-"kind": "kev",
-"tok": [
-"cve-2026-114713",
-"delimiters",
-"improper",
-"neutralization",
-"unrealircd",
-"vulnerability"
-],
-"cve": [
-"cve-2026-114713"
-]
-},
-{
-"t": "2026-11-15T02:28:17.147086+00:00",
-"title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-"link": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-"score": 5.27,
-"tags": "#крипта",
-"kind": "rss",
-"tok": [
-"business",
-"ethereum",
-"megaeth",
-"project",
-"pursues",
-"scaling",
-"slashes",
-"staff"
-],
-"cve": []
-},
-{
-"t": "2026-11-15T09:49:51.765097+00:00",
-"title": "Киберподполье переходит на GSocket , легитимный инструмент удаленного доступа с открытым…",
-"link": "https://t.me/true_secator/8809",
-"score": 2.53,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"gsocket",
-"linux",
-"даже",
-"доступа",
-"инструмент",
-"использованных",
-"исходным",
-"киберподполье",
-"кодом",
-"легитимный",
-"открытым",
-"переходит",
-"после",
-"серверам",
-"сохранения",
-"удаленного",
-"устранения",
-"уязвимостей"
-],
-"cve": [
-"cve-2026-43284",
-"cve-2026-43284"
-]
-},
-{
-"t": "2026-11-15T09:49:56.515660+00:00",
-"title": "Claude Code Extension Hid an SSH Backdoor | Threat",
-"link": "https://www.youtube.com/watch?v=Dcxyeb1rB1g",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"backdoor",
-"claude",
-"code",
-"extension",
-"threat"
-],
-"cve": []
-},
-{
-"t": "2026-11-15T09:50:00.681342+00:00",
-"title": "Coinone warns of phishing, identity theft after customer data breach",
-"link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"score": 10.17,
-"tags": "#крипта",
-"kind": "rss",
-"tok": [
-"after",
-"breach",
-"coinone",
-"customer",
-"data",
-"identity",
-"phishing",
-"theft",
-"warns"
-],
-"cve": []
-},
 {
 "t": "2026-11-15T16:52:10.736069+00:00",
 "title": "Утечка данных сотрудников TSMC связана с облачным провайдером",
@@ -1947,10 +1830,59 @@
 "without"
 ],
 "cve": []
+},
+{
+"t": "2026-11-23T09:50:05.523590+00:00",
+"title": "HackTheBox - Garfield",
+"link": "https://www.youtube.com/watch?v=cN4Uez-PZmM",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"garfield",
+"hackthebox"
+],
+"cve": []
+},
+{
+"t": "2026-11-23T09:50:09.815319+00:00",
+"title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+"link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+"score": 12.48,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"actively",
+"attacks",
+"cisa",
+"cisco",
+"critical",
+"exploited",
+"flags",
+"flaw"
+],
+"cve": []
+},
+{
+"t": "2026-11-23T09:50:13.952943+00:00",
+"title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
+"link": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"score": 9.49,
+"tags": "#крипта",
+"kind": "rss",
+"tok": [
+"bitcoin",
+"etfs",
+"outflow",
+"shed",
+"third-largest",
+"weekly"
+],
+"cve": []
 }
 ],
 "rubrics": {
-"tip": "2026-11-22",
+"tip": "2026-11-23",
 "quiz": "2026-11-22",
 "term": "2026-11-20",
 "top_day": "2026-11-22"
