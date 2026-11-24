@@ -26,6 +26,7 @@
 "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
 "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
 "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+"https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
 "https://habr.com/ru/articles/1104742/?utm_campaign=1104742&utm_source=habrahabr&utm_medium=rss",
 "https://habr.com/ru/articles/1104926/?utm_campaign=1104926&utm_source=habrahabr&utm_medium=rss",
 "https://habr.com/ru/articles/1105192/?utm_campaign=1105192&utm_source=habrahabr&utm_medium=rss",
@@ -45,6 +46,7 @@
 "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
 "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
 "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+"https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
 "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
 "https://therecord.media/city-of-osaka-japan-email-data-breach",
@@ -217,10 +219,11 @@
 "tg:true_secator/8834",
 "tg:true_secator/8835",
 "tg:true_secator/8836",
-"tg:true_secator/8839"
+"tg:true_secator/8839",
+"tg:true_secator/8844"
 ],
-"last_post": "2026-11-24T05:52:20.337116+00:00",
-"n": 212,
+"last_post": "2026-11-24T17:14:51.855242+00:00",
+"n": 215,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -236,66 +239,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-16T08:26:35.809273+00:00",
-"title": "💪 В Telegram для iOS появился виртуальный компаньон В Beta-версии Telegram для iOS под…",
-"link": "https://t.me/tginfo/4456",
-"score": 6.75,
-"tags": "#telegram #новости",
-"kind": "tg",
-"tok": [
-"37388",
-"3d-пер",
-"beta-версии",
-"telegram",
-"виртуального",
-"виртуальный",
-"добавить",
-"компаньон",
-"личные",
-"номером",
-"обнаружена",
-"позволяющая",
-"появился",
-"функция",
-"чаты",
-"экспериментальная"
-],
-"cve": []
-},
-{
-"t": "2026-11-16T08:26:39.617575+00:00",
-"title": "ClickFix Data Staging",
-"link": "https://www.youtube.com/shorts/-mhIHhRz2Ew",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"clickfix",
-"data",
-"staging"
-],
-"cve": []
-},
-{
-"t": "2026-11-16T08:26:43.751715+00:00",
-"title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
-"link": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
-"score": 8.09,
-"tags": "#IT #стартапы",
-"kind": "rss",
-"tok": [
-"backer",
-"europe",
-"fund",
-"helsing",
-"moonshots",
-"next",
-"plural",
-"raises"
-],
-"cve": []
-},
 {
 "t": "2026-11-16T18:50:40.191122+00:00",
 "title": "Lighter приостанавливает все выплаты после крипто-эксплойта на сумму 10,4 миллиона долларов",
@@ -1833,12 +1776,96 @@
 "хакеров"
 ],
 "cve": []
+},
+{
+"t": "2026-11-24T17:14:44.240902+00:00",
+"title": "В VMware vCenter обнаружен еще один критический дефект обхода аутентификации с рейтингом 9,8 после эксплуатации нулевого дня",
+"link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+"score": 13.81,
+"tags": "#новости #кибербезопасность",
+"kind": "rss",
+"tok": [
+"8-rated",
+"after",
+"another",
+"auth",
+"bypass",
+"critical",
+"exploitation",
+"flaw",
+"vcenter",
+"vmware",
+"zero-day"
+],
+"cve": [
+"cve-2026-123903"
+]
+},
+{
+"t": "2026-11-24T17:14:48.003297+00:00",
+"title": "Министерство юстиции намерено конфисковать 1,1 миллиарда долларов США в долларах США из-за взлома Binance Северной Кореей",
+"link": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+"score": 11.42,
+"tags": "#крипта #web3",
+"kind": "rss",
+"tok": [
+"binance",
+"department",
+"forfeit",
+"from",
+"hack",
+"justice",
+"korea",
+"moves",
+"north",
+"usdc"
+],
+"cve": []
+},
+{
+"t": "2026-11-24T17:14:51.855106+00:00",
+"title": "В Лаборатории Касперского также продолжают отслеживать развитие информационных угроз,…",
+"link": "https://t.me/true_secator/8844",
+"score": 3.48,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"2026",
+"аналитику",
+"выделим",
+"главные",
+"года",
+"информационных",
+"касперского",
+"квартал",
+"лаборатории",
+"мобильной",
+"обобщили",
+"отслеживать",
+"отчетах",
+"продолжают",
+"развитие",
+"статистикой",
+"также",
+"тренды",
+"третий",
+"угроз"
+],
+"cve": [
+"cve-2026-0257",
+"cve-2026-15409",
+"cve-2026-45659",
+"cve-2025-60710",
+"cve-2026-59310",
+"cve-2025-14733",
+"cve-2026-63077"
+]
 }
 ],
 "rubrics": {
 "tip": "2026-11-23",
 "quiz": "2026-11-22",
-"term": "2026-11-20",
+"term": "2026-11-24",
 "top_day": "2026-11-22"
 }
 }
