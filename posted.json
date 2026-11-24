@@ -45,6 +45,7 @@
 "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
 "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
 "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+"https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
 "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
 "https://therecord.media/city-of-osaka-japan-email-data-breach",
 "https://therecord.media/queens-library-ransomware-causes-disruptions",
@@ -131,6 +132,7 @@
 "https://www.youtube.com/watch?v=-j15pqyZBZs",
 "https://www.youtube.com/watch?v=06Qjai8RQKw",
 "https://www.youtube.com/watch?v=3BmzS53iHiw",
+"https://www.youtube.com/watch?v=5UFdprGfzhM",
 "https://www.youtube.com/watch?v=9U1b9RsmdWk",
 "https://www.youtube.com/watch?v=CfPeBaxwi-0",
 "https://www.youtube.com/watch?v=Dcxyeb1rB1g",
@@ -214,10 +216,11 @@
 "tg:true_secator/8833",
 "tg:true_secator/8834",
 "tg:true_secator/8835",
-"tg:true_secator/8836"
+"tg:true_secator/8836",
+"tg:true_secator/8839"
 ],
-"last_post": "2026-11-23T21:56:46.112756+00:00",
-"n": 209,
+"last_post": "2026-11-24T05:52:20.337116+00:00",
+"n": 212,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -233,62 +236,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-16T01:25:20.997852+00:00",
-"title": "🍍📟 Theme Hacking Tip - WiFi Pineapple Pager #pentesting #hacking #cybersecurity",
-"link": "https://www.youtube.com/shorts/M7RDtnWsV4U",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"cybersecurity",
-"hacking",
-"pager",
-"pentesting",
-"pineapple",
-"theme",
-"wifi"
-],
-"cve": []
-},
-{
-"t": "2026-11-16T01:25:25.262325+00:00",
-"title": "🏴‍☠️ Byod has just published a new victim : Texas HHSC - Final Warning & Sample",
-"link": "https://www.ransomware.live/id/VGV4YXMgSEhTQyAtIEZpbmFsIFdhcm5pbmcgJiBTYW1wbGVAQllPRA",
-"score": 8.45,
-"tags": "#ransomware #даркнет",
-"kind": "rss",
-"tok": [
-"byod",
-"final",
-"hhsc",
-"just",
-"published",
-"sample",
-"texas",
-"victim",
-"warning"
-],
-"cve": []
-},
-{
-"t": "2026-11-16T01:25:29.537848+00:00",
-"title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-"link": "https://databreaches.net/2026/11/15/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-"score": 7.61,
-"tags": "#утечки #даркнет",
-"kind": "rss",
-"tok": [
-"artex",
-"cyberattacks",
-"global",
-"hacking",
-"powering",
-"tool",
-"warns"
-],
-"cve": []
-},
 {
 "t": "2026-11-16T08:26:35.809273+00:00",
 "title": "💪 В Telegram для iOS появился виртуальный компаньон В Beta-версии Telegram для iOS под…",
@@ -1823,6 +1770,67 @@
 "recover",
 "seeks",
 "stolen"
+],
+"cve": []
+},
+{
+"t": "2026-11-24T05:52:12.364843+00:00",
+"title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+"link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+"score": 10.64,
+"tags": "#новости #кибербезопасность",
+"kind": "rss",
+"tok": [
+"0-day",
+"java4shell",
+"nginx2root",
+"recap",
+"ruby2shell",
+"shell",
+"trouble",
+"vmware",
+"weekly",
+"whole"
+],
+"cve": []
+},
+{
+"t": "2026-11-24T05:52:16.086048+00:00",
+"title": "Исследователи Лаборатории Касперского бомбят новыми отчетами и на этот раз рассказали ,…",
+"link": "https://t.me/true_secator/8839",
+"score": 5.83,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"auditteam",
+"opsagent",
+"бомбят",
+"исследователи",
+"касперского",
+"консультационные",
+"лаборатории",
+"маскирует",
+"новыми",
+"отчетами",
+"платформа",
+"программы-вымогатели",
+"рассказали",
+"услуги",
+"этот"
+],
+"cve": []
+},
+{
+"t": "2026-11-24T05:52:20.337043+00:00",
+"title": "ФБР ОХОТИТСЯ НА ХАКЕРОВ STEAM",
+"link": "https://www.youtube.com/watch?v=5UFdprGfzhM",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"steam",
+"охотится",
+"хакеров"
 ],
 "cve": []
 }
