@@ -2,6 +2,7 @@
 "seen": [
 "CVE-2026-114713",
 "CVE-2026-123039",
+"CVE-2026-132224",
 "CVE-2026-19868",
 "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -43,6 +44,7 @@
 "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
 "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
 "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+"https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
 "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
 "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
 "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
@@ -153,6 +155,7 @@
 "https://www.youtube.com/watch?v=p2AAz24AzU4",
 "https://www.youtube.com/watch?v=pIUXSsrDgBI",
 "https://www.youtube.com/watch?v=s1XUIievwVA",
+"https://www.youtube.com/watch?v=sMZMpsHeFKc",
 "https://www.youtube.com/watch?v=smdOz8LQNC0",
 "https://www.youtube.com/watch?v=tEfNgifejKc",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
@@ -222,8 +225,8 @@
 "tg:true_secator/8839",
 "tg:true_secator/8844"
 ],
-"last_post": "2026-11-24T17:14:51.855242+00:00",
-"n": 215,
+"last_post": "2026-11-25T01:28:20.949287+00:00",
+"n": 218,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -239,73 +242,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-16T18:50:40.191122+00:00",
-"title": "Lighter приостанавливает все выплаты после крипто-эксплойта на сумму 10,4 миллиона долларов",
-"link": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
-"score": 11.16,
-"tags": "#крипта",
-"kind": "rss",
-"tok": [
-"after",
-"crypto",
-"exploit",
-"lighter",
-"million",
-"suspends",
-"withdrawals"
-],
-"cve": []
-},
-{
-"t": "2026-11-16T18:50:43.986890+00:00",
-"title": "По всей видимости, кейс с холодильниками еще не исчерпан и имеет перспективы продолжения.…",
-"link": "https://t.me/true_secator/8817",
-"score": 8.71,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"copeland",
-"видимости",
-"всей",
-"изучению",
-"имеет",
-"исчерпан",
-"кейс",
-"контроллерах",
-"недавно",
-"обнаруженных",
-"перспективы",
-"приступили",
-"продолжения",
-"установок",
-"уязвимостей",
-"хакеры",
-"холодильниками",
-"холодильных"
-],
-"cve": [
-"cve-2026-124014",
-"cve-2026-124010"
-]
-},
-{
-"t": "2026-11-16T18:50:49.426264+00:00",
-"title": "🍍📟 Представляем NETRIDER & GPS Mod Pro от Glytch для Wi-Fi Pineapple Pager",
-"link": "https://www.youtube.com/watch?v=kx94I2FuOUk",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"glytch",
-"introducing",
-"netrider",
-"pager",
-"pineapple",
-"wifi"
-],
-"cve": []
-},
 {
 "t": "2026-11-17T02:23:05.580760+00:00",
 "title": "Uber says nearly 150,000 impacted by third-party breach",
@@ -1860,6 +1796,64 @@
 "cve-2025-14733",
 "cve-2026-63077"
 ]
+},
+{
+"t": "2026-11-25T01:28:12.477724+00:00",
+"title": "The Riemann Hypothesis Falls (reaction) - Numberphile",
+"link": "https://www.youtube.com/watch?v=sMZMpsHeFKc",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"falls",
+"hypothesis",
+"numberphile",
+"reaction",
+"riemann"
+],
+"cve": []
+},
+{
+"t": "2026-11-25T01:28:16.491012+00:00",
+"title": "CVE-2026-132224: Optimizely Web Experimentation — Optimizely Web Experimentation External Control of Critical State Data Vulnerability",
+"link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132224",
+"score": 10.32,
+"tags": "#уязвимости #CVE",
+"kind": "kev",
+"tok": [
+"control",
+"critical",
+"cve-2026-132224",
+"data",
+"experimentation",
+"external",
+"optimizely",
+"state",
+"vulnerability"
+],
+"cve": [
+"cve-2026-132224"
+]
+},
+{
+"t": "2026-11-25T01:28:20.949212+00:00",
+"title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+"link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+"score": 9.15,
+"tags": "#новости #кибербезопасность",
+"kind": "rss",
+"tok": [
+"backdoor",
+"campaigns",
+"espionage",
+"ipfs-based",
+"iran-aligned",
+"kuboshell",
+"manticore",
+"uses",
+"volant"
+],
+"cve": []
 }
 ],
 "rubrics": {
