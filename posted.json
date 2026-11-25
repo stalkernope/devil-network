@@ -119,6 +119,7 @@
 "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
 "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
 "https://www.theverge.com/games/1036279/gta-vi-sales",
+"https://www.theverge.com/tech/1042409/1password-data-breach-leak",
 "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
 "https://www.youtube.com/shorts/-m7pPKq-f2o",
 "https://www.youtube.com/shorts/-mhIHhRz2Ew",
@@ -131,6 +132,7 @@
 "https://www.youtube.com/shorts/PSDdF_Naz_M",
 "https://www.youtube.com/shorts/WHOxCLffxP8",
 "https://www.youtube.com/shorts/eoE8WQALJrc",
+"https://www.youtube.com/shorts/fQiZUwyzT1w",
 "https://www.youtube.com/shorts/iJU6csQs_no",
 "https://www.youtube.com/shorts/qh8Z6maFt4c",
 "https://www.youtube.com/shorts/v9sfKhXDOn0",
@@ -181,6 +183,7 @@
 "tg:durov/565",
 "tg:durov/567",
 "tg:durov/569",
+"tg:durov/573",
 "tg:investigations/374",
 "tg:investigations/377",
 "tg:investigations/379",
@@ -226,10 +229,11 @@
 "tg:true_secator/8836",
 "tg:true_secator/8839",
 "tg:true_secator/8844",
-"tg:true_secator/8845"
+"tg:true_secator/8845",
+"tg:true_secator/8848"
 ],
-"last_post": "2026-11-25T10:22:39.202804+00:00",
-"n": 221,
+"last_post": "2026-11-25T20:05:01.808439+00:00",
+"n": 224,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -245,124 +249,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-17T10:59:58.119695+00:00",
-"title": "Minecraft Malware Research",
-"link": "https://www.youtube.com/shorts/-m7pPKq-f2o",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"malware",
-"minecraft",
-"research"
-],
-"cve": []
-},
-{
-"t": "2026-11-17T11:00:02.640381+00:00",
-"title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-"link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-"score": 9.5,
-"tags": "#IT #стартапы",
-"kind": "rss",
-"tok": [
-"about",
-"corma",
-"cybersecurity",
-"months",
-"reaches",
-"startup",
-"valuation"
-],
-"cve": []
-},
-{
-"t": "2026-11-17T11:00:06.991529+00:00",
-"title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-"link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-"score": 9.05,
-"tags": "#новости #взломы",
-"kind": "rss",
-"tok": [
-"brothers",
-"charges",
-"clears",
-"court",
-"crypto",
-"ethereum",
-"heist",
-"million"
-],
-"cve": []
-},
-{
-"t": "2026-11-17T19:46:05.848465+00:00",
-"title": "Telegram требует от всех разработчиков ботов продавать платные функции за свою новую…",
-"link": "https://t.me/tginfo/4457",
-"score": 6.49,
-"tags": "#telegram #новости",
-"kind": "tg",
-"tok": [
-"stars",
-"telegram",
-"ботов",
-"валюту",
-"всех",
-"мессенджер",
-"начал",
-"новую",
-"оплату",
-"перевести",
-"платные",
-"продавать",
-"разработчикам",
-"разработчиков",
-"рассылать",
-"свою",
-"сообщения",
-"требованием",
-"требует",
-"функции"
-],
-"cve": []
-},
-{
-"t": "2026-11-17T19:46:10.714988+00:00",
-"title": "HackTheBox - Nimbus",
-"link": "https://www.youtube.com/watch?v=smdOz8LQNC0",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"hackthebox",
-"nimbus"
-],
-"cve": []
-},
-{
-"t": "2026-11-17T19:46:15.056726+00:00",
-"title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-"link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-"score": 10.39,
-"tags": "#новости #кибербезопасность",
-"kind": "rss",
-"tok": [
-"critical",
-"cve-2026-114938",
-"emerges",
-"flaws",
-"java",
-"openjdk",
-"oracle",
-"patch",
-"report",
-"today"
-],
-"cve": [
-"cve-2026-114938"
-]
-},
 {
 "t": "2026-11-18T02:14:55.105384+00:00",
 "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
@@ -1858,12 +1744,71 @@
 "sites"
 ],
 "cve": []
+},
+{
+"t": "2026-11-25T20:04:54.593987+00:00",
+"title": "1Password breach leaked customer names and emails, but not passwords",
+"link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+"score": 10.58,
+"tags": "#IT #гаджеты",
+"kind": "rss",
+"tok": [
+"1password",
+"breach",
+"customer",
+"emails",
+"leaked",
+"names",
+"passwords"
+],
+"cve": []
+},
+{
+"t": "2026-11-25T20:04:58.228555+00:00",
+"title": "Someone offered me $1M for the @liar username on Telegram. I want to believe the money is…",
+"link": "https://t.me/durov/573",
+"score": 7.25,
+"tags": "#telegram #Дуров",
+"kind": "tg",
+"tok": [
+"believe",
+"hard",
+"known",
+"liar",
+"money",
+"offered",
+"real",
+"someone",
+"telegram",
+"trust",
+"username",
+"want",
+"wants"
+],
+"cve": []
+},
+{
+"t": "2026-11-25T20:05:01.808359+00:00",
+"title": "Самый Глупый Страховой Обман в Истории #shorts",
+"link": "https://www.youtube.com/shorts/fQiZUwyzT1w",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"shorts",
+"глупый",
+"истории",
+"обман",
+"самый",
+"страховой"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-25",
 "quiz": "2026-11-22",
 "term": "2026-11-24",
-"top_day": "2026-11-22"
+"top_day": "2026-11-25"
 }
 }
