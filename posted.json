@@ -67,6 +67,7 @@
 "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
 "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
 "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+"https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
 "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
 "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
 "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
@@ -131,6 +132,7 @@
 "https://www.youtube.com/shorts/WHOxCLffxP8",
 "https://www.youtube.com/shorts/eoE8WQALJrc",
 "https://www.youtube.com/shorts/iJU6csQs_no",
+"https://www.youtube.com/shorts/qh8Z6maFt4c",
 "https://www.youtube.com/shorts/v9sfKhXDOn0",
 "https://www.youtube.com/shorts/yydGYEnRKzg",
 "https://www.youtube.com/watch?v=-j15pqyZBZs",
@@ -223,10 +225,11 @@
 "tg:true_secator/8835",
 "tg:true_secator/8836",
 "tg:true_secator/8839",
-"tg:true_secator/8844"
+"tg:true_secator/8844",
+"tg:true_secator/8845"
 ],
-"last_post": "2026-11-25T01:28:20.949287+00:00",
-"n": 218,
+"last_post": "2026-11-25T10:22:39.202804+00:00",
+"n": 221,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -242,72 +245,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-17T02:23:05.580760+00:00",
-"title": "Uber says nearly 150,000 impacted by third-party breach",
-"link": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
-"score": 12.23,
-"tags": "#даркнет #кибервойна",
-"kind": "rss",
-"tok": [
-"breach",
-"impacted",
-"nearly",
-"says",
-"third-party",
-"uber"
-],
-"cve": []
-},
-{
-"t": "2026-11-17T02:23:09.785266+00:00",
-"title": "Optimizely supply chain attack infects major brands' sites with malware",
-"link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
-"score": 9.82,
-"tags": "#новости #взломы",
-"kind": "rss",
-"tok": [
-"attack",
-"brands",
-"chain",
-"infects",
-"major",
-"malware",
-"optimizely",
-"sites",
-"supply",
-"with"
-],
-"cve": []
-},
-{
-"t": "2026-11-17T02:23:13.128081+00:00",
-"title": "Исследователи Лаборатории Касперского предупреждают , что уязвимость в недавно запущенных…",
-"link": "https://t.me/true_secator/8815",
-"score": 7.22,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"telegram",
-"webrat",
-"быть",
-"виджетах",
-"вредоносного",
-"запущенных",
-"злоумышленниками",
-"использована",
-"исследователи",
-"касперского",
-"лаборатории",
-"могла",
-"недавно",
-"предупреждают",
-"причем",
-"распространения",
-"уязвимость"
-],
-"cve": []
-},
 {
 "t": "2026-11-17T10:59:58.119695+00:00",
 "title": "Minecraft Malware Research",
@@ -1854,10 +1791,77 @@
 "volant"
 ],
 "cve": []
+},
+{
+"t": "2026-11-25T10:22:31.708852+00:00",
+"title": "По данным Depthfirst , уязвимость phpAfterShell открывает путь атаки PHP2Shell : если…",
+"link": "https://t.me/true_secator/8845",
+"score": 6.86,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"depthfirst",
+"php2shell",
+"phpaftershell",
+"актуальные",
+"атаки",
+"будет",
+"данные",
+"данным",
+"если",
+"злоумышленник",
+"инициировать",
+"контролирующий",
+"может",
+"операция",
+"открывает",
+"перезаписи",
+"прервана",
+"путь",
+"сессии",
+"уязвимость"
+],
+"cve": [
+"cve-2026-126714"
+]
+},
+{
+"t": "2026-11-25T10:22:35.060297+00:00",
+"title": "Как 4chan Нашел Секретный Флаг 🔎 #4chan #расследование",
+"link": "https://www.youtube.com/shorts/qh8Z6maFt4c",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"4chan",
+"нашел",
+"расследование",
+"секретный",
+"флаг"
+],
+"cve": []
+},
+{
+"t": "2026-11-25T10:22:39.202712+00:00",
+"title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+"link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+"score": 12.03,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"critical",
+"drupal",
+"exploit",
+"flaw",
+"hackers",
+"hijack",
+"sites"
+],
+"cve": []
 }
 ],
 "rubrics": {
-"tip": "2026-11-23",
+"tip": "2026-11-25",
 "quiz": "2026-11-22",
 "term": "2026-11-24",
 "top_day": "2026-11-22"
