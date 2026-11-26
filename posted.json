@@ -115,6 +115,7 @@
 "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
 "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
 "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
+"https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
 "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
 "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
 "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
@@ -155,6 +156,7 @@
 "https://www.youtube.com/watch?v=LxVW3b8jVdE",
 "https://www.youtube.com/watch?v=PBLB1nZ2SZI",
 "https://www.youtube.com/watch?v=Q-e9L6ECpgM",
+"https://www.youtube.com/watch?v=ViT2FOEr6EI",
 "https://www.youtube.com/watch?v=XJ8zqsz4xvw",
 "https://www.youtube.com/watch?v=Z5DAv-zgrcI",
 "https://www.youtube.com/watch?v=cN4Uez-PZmM",
@@ -190,6 +192,7 @@
 "tg:durov/567",
 "tg:durov/569",
 "tg:durov/573",
+"tg:durov/574",
 "tg:investigations/374",
 "tg:investigations/377",
 "tg:investigations/379",
@@ -239,8 +242,8 @@
 "tg:true_secator/8847",
 "tg:true_secator/8848"
 ],
-"last_post": "2026-11-26T12:03:45.808097+00:00",
-"n": 230,
+"last_post": "2026-11-26T21:36:02.597959+00:00",
+"n": 233,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -256,56 +259,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-18T18:58:41.897925+00:00",
-"title": "Blind Ranking Numbers (Tony Padilla)",
-"link": "https://www.youtube.com/shorts/WHOxCLffxP8",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"blind",
-"numbers",
-"padilla",
-"ranking",
-"tony"
-],
-"cve": []
-},
-{
-"t": "2026-11-18T18:58:45.328178+00:00",
-"title": "Хакеры из The Gentlemen заявили о взломе Nvidia",
-"link": "https://habr.com/ru/articles/1109554/?utm_campaign=1109554&utm_source=habrahabr&utm_medium=rss",
-"score": 15.01,
-"tags": "#ИБ",
-"kind": "rss",
-"tok": [
-"gentlemen",
-"nvidia",
-"взломе",
-"заявили",
-"хакеры"
-],
-"cve": []
-},
-{
-"t": "2026-11-18T18:58:49.585946+00:00",
-"title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
-"link": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
-"score": 12.6,
-"tags": "#крипта",
-"kind": "rss",
-"tok": [
-"crypto",
-"double",
-"exchanges",
-"long",
-"short",
-"shouldn",
-"vault"
-],
-"cve": []
-},
 {
 "t": "2026-11-19T01:04:45.200243+00:00",
 "title": "🇮🇶 Iraq blocked Telegram (2nd time this year). We feel sorry for the Iraqi people. But we…",
@@ -1813,6 +1766,76 @@
 "too-good-to-be-true"
 ],
 "cve": []
+},
+{
+"t": "2026-11-26T21:35:52.557924+00:00",
+"title": "Telegram gifts are the only NFTs still alive. 📈 They are up 2.5x since issuance 1–2 years…",
+"link": "https://t.me/durov/574",
+"score": 7.88,
+"tags": "#telegram #Дуров",
+"kind": "tg",
+"tok": [
+"alive",
+"crypto",
+"despite",
+"gift",
+"gifts",
+"issuance",
+"moved",
+"nfts",
+"offers",
+"on-chain",
+"only",
+"sales",
+"since",
+"still",
+"telegram",
+"they",
+"this",
+"trading",
+"week",
+"winter",
+"years"
+],
+"cve": []
+},
+{
+"t": "2026-11-26T21:35:57.846022+00:00",
+"title": "Этот объект бросает вызов здравому смыслу",
+"link": "https://www.youtube.com/watch?v=ViT2FOEr6EI",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"common",
+"defies",
+"numberphile",
+"object",
+"sense",
+"this"
+],
+"cve": []
+},
+{
+"t": "2026-11-26T21:36:02.597871+00:00",
+"title": "Критическая ошибка Juniper Session Smart Conductor, использованная в атаках",
+"link": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
+"score": 9.69,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"attacks",
+"conductor",
+"critical",
+"exploited",
+"flaw",
+"juniper",
+"session",
+"smart"
+],
+"cve": [
+"cve-2026-103406"
+]
 }
 ],
 "rubrics": {
