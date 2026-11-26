@@ -57,6 +57,7 @@
 "https://therecord.media/uber-says-150000-impacted-third-party-breach",
 "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
 "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+"https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
 "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
 "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
 "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
@@ -101,6 +102,7 @@
 "https://www.europol.europa.eu/media-press/newsroom/news/ordering-violence-abroad-five-suspects-arrested-in-spain-morocco-and-france",
 "https://www.malwarebytes.com/blog/ai/2026/11/deepfake-elon-musk-nearly-costs-viewers-4-7-million-in-crypto",
 "https://www.malwarebytes.com/blog/data-breaches/2026/11/hackers-leak-data-linked-to-visa-mastercard-and-jpmorgan-customers",
+"https://www.malwarebytes.com/blog/data-breaches/2026/11/two-exposed-databases-held-over-3-5-billion-records",
 "https://www.malwarebytes.com/blog/news/2026/11/13-3-million-peoples-medical-data-exposed-companies-pay-300000",
 "https://www.ransomware.live/id/RmluYWwgTm90aWNlIEJlZm9yZSBQdWJsaWNhdGlvbkBldmVyZXN0",
 "https://www.ransomware.live/id/TW9tZW50dW0gVGVsZWNvbUBFbmRab25l",
@@ -230,10 +232,11 @@
 "tg:true_secator/8839",
 "tg:true_secator/8844",
 "tg:true_secator/8845",
+"tg:true_secator/8847",
 "tg:true_secator/8848"
 ],
-"last_post": "2026-11-25T20:05:01.808439+00:00",
-"n": 224,
+"last_post": "2026-11-26T02:52:21.358409+00:00",
+"n": 227,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -249,71 +252,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-18T02:14:55.105384+00:00",
-"title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-"link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-"score": 10.59,
-"tags": "#новости #взломы",
-"kind": "rss",
-"tok": [
-"cloud",
-"docker",
-"images",
-"keys",
-"leaked",
-"seconds",
-"stolen",
-"within"
-],
-"cve": []
-},
-{
-"t": "2026-11-18T02:14:58.453685+00:00",
-"title": "Исследователи F6 изучили ИИ‑инструменты группировки Rezet в атаках на Россию и мир,…",
-"link": "https://t.me/true_secator/8820",
-"score": 5.85,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"rezet",
-"активное",
-"атаках",
-"включение",
-"гонку",
-"групп",
-"группировки",
-"данным",
-"изучили",
-"инструментов",
-"инструменты",
-"исследователи",
-"констатируя",
-"октябре",
-"россию",
-"создания",
-"хакерских",
-"январе"
-],
-"cve": []
-},
-{
-"t": "2026-11-18T02:15:03.007720+00:00",
-"title": "A Two-Button Calculator That Does Everything - Numberphile",
-"link": "https://www.youtube.com/watch?v=LxVW3b8jVdE",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"calculator",
-"does",
-"everything",
-"numberphile",
-"that",
-"two-button"
-],
-"cve": []
-},
 {
 "t": "2026-11-18T10:20:55.338798+00:00",
 "title": "The forced audit: how AuditTeam’s OpsAgent framework masks ransomware as consulting",
@@ -1803,6 +1741,82 @@
 "страховой"
 ],
 "cve": []
+},
+{
+"t": "2026-11-26T02:52:13.359266+00:00",
+"title": "1Password customer data stolen after employee GitHub account breach",
+"link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+"score": 11.91,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"1password",
+"account",
+"after",
+"breach",
+"customer",
+"data",
+"employee",
+"github",
+"stolen"
+],
+"cve": []
+},
+{
+"t": "2026-11-26T02:52:17.555394+00:00",
+"title": "Two exposed databases held over 3.5 billion records",
+"link": "https://www.malwarebytes.com/blog/data-breaches/2026/11/two-exposed-databases-held-over-3-5-billion-records",
+"score": 9.22,
+"tags": "#мошенничество #фишинг",
+"kind": "rss",
+"tok": [
+"billion",
+"databases",
+"exposed",
+"held",
+"over",
+"records"
+],
+"cve": []
+},
+{
+"t": "2026-11-26T02:52:21.358312+00:00",
+"title": "Злоумышленники использовали многочисленные уязвимости для взлома двух десятков серверов…",
+"link": "https://t.me/true_secator/8847",
+"score": 7.39,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"check",
+"point",
+"security",
+"активность",
+"взлома",
+"двух",
+"десятков",
+"злоумышленники",
+"использовали",
+"кампании",
+"многочисленные",
+"направленной",
+"организации",
+"продолжающейся",
+"рамках",
+"серверов",
+"управления",
+"уязвимости"
+],
+"cve": [
+"cve-2026-61500",
+"cve-2026-16232",
+"cve-2025-5777",
+"cve-2024-21893",
+"cve-2026-41089",
+"cve-2026-16232",
+"cve-2026-98432",
+"cve-2026-16232",
+"cve-2026-16232"
+]
 }
 ],
 "rubrics": {
