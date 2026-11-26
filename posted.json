@@ -36,12 +36,14 @@
 "https://isc.sans.edu/diary/rss/33498",
 "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
 "https://securelist.com/auditteam-opsagent-forced-audit/122031/",
+"https://securelist.com/black-friday-threat-report-2026/122061/",
 "https://securelist.com/storm-2603-fileless-toolshell-attack/121467/",
 "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
 "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
 "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
 "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
 "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+"https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
 "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
 "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
 "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
@@ -117,6 +119,7 @@
 "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
 "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
 "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+"https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
 "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
 "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
 "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
@@ -147,6 +150,7 @@
 "https://www.youtube.com/watch?v=CfPeBaxwi-0",
 "https://www.youtube.com/watch?v=Dcxyeb1rB1g",
 "https://www.youtube.com/watch?v=EgnAN0ZUl08",
+"https://www.youtube.com/watch?v=GASiu5gnv0k",
 "https://www.youtube.com/watch?v=J9OIWnwuAeU",
 "https://www.youtube.com/watch?v=LxVW3b8jVdE",
 "https://www.youtube.com/watch?v=PBLB1nZ2SZI",
@@ -235,8 +239,8 @@
 "tg:true_secator/8847",
 "tg:true_secator/8848"
 ],
-"last_post": "2026-11-26T02:52:21.358409+00:00",
-"n": 227,
+"last_post": "2026-11-26T12:03:45.808097+00:00",
+"n": 230,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -252,72 +256,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-18T10:20:55.338798+00:00",
-"title": "The forced audit: how AuditTeam’s OpsAgent framework masks ransomware as consulting",
-"link": "https://securelist.com/auditteam-opsagent-forced-audit/122031/",
-"score": 9.9,
-"tags": "#вирусы #исследования",
-"kind": "rss",
-"tok": [
-"audit",
-"auditteam",
-"consulting",
-"forced",
-"framework",
-"masks",
-"opsagent",
-"ransomware"
-],
-"cve": []
-},
-{
-"t": "2026-11-18T10:21:00.095876+00:00",
-"title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
-"link": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
-"score": 9.77,
-"tags": "#кибербезопасность",
-"kind": "rss",
-"tok": [
-"2026",
-"cspu",
-"november",
-"oracle",
-"patches",
-"vulnerabilities",
-"with"
-],
-"cve": []
-},
-{
-"t": "2026-11-18T10:21:03.938398+00:00",
-"title": "⭐️ Telegram bots and mini apps can accept only Stars (*Grams) for digital services. Why?…",
-"link": "https://t.me/durov/564",
-"score": 5.23,
-"tags": "#telegram #Дуров",
-"kind": "tg",
-"tok": [
-"accept",
-"apple",
-"apps",
-"authori",
-"bots",
-"digital",
-"fragment",
-"google",
-"grams",
-"mini",
-"only",
-"require",
-"rules",
-"services",
-"stars",
-"telegram",
-"users",
-"with"
-],
-"cve": []
-},
 {
 "t": "2026-11-18T18:58:41.897925+00:00",
 "title": "Blind Ranking Numbers (Tony Padilla)",
@@ -1817,11 +1755,69 @@
 "cve-2026-16232",
 "cve-2026-16232"
 ]
+},
+{
+"t": "2026-11-26T12:03:37.465965+00:00",
+"title": "Builders & Breakers | Securing AI Agents: Prompt Injection & Sandboxing with Donato Capitella",
+"link": "https://www.youtube.com/watch?v=GASiu5gnv0k",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"agents",
+"breakers",
+"builders",
+"capitella",
+"donato",
+"injection",
+"prompt",
+"sandboxing",
+"securing",
+"with"
+],
+"cve": []
+},
+{
+"t": "2026-11-26T12:03:41.568021+00:00",
+"title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+"link": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+"score": 10.66,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"ai-assisted",
+"attacks",
+"exploited",
+"micollab",
+"mitel",
+"suspected",
+"zero-days"
+],
+"cve": []
+},
+{
+"t": "2026-11-26T12:03:45.808023+00:00",
+"title": "Black Friday, red flags: too-good-to-be-true deals hiding real threats",
+"link": "https://securelist.com/black-friday-threat-report-2026/122061/",
+"score": 7.81,
+"tags": "#вирусы #исследования",
+"kind": "rss",
+"tok": [
+"black",
+"deals",
+"flags",
+"friday",
+"hiding",
+"real",
+"threats",
+"too-good-to-be-true"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-25",
-"quiz": "2026-11-22",
+"quiz": "2026-11-26",
 "term": "2026-11-24",
 "top_day": "2026-11-25"
 }
