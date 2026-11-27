@@ -105,6 +105,7 @@
 "https://www.europol.europa.eu/media-press/newsroom/news/european-and-ecuadorian-cooperation-leads-to-20-arrests-in-major-hit-against-drug-trafficking",
 "https://www.europol.europa.eu/media-press/newsroom/news/ordering-violence-abroad-five-suspects-arrested-in-spain-morocco-and-france",
 "https://www.malwarebytes.com/blog/ai/2026/11/deepfake-elon-musk-nearly-costs-viewers-4-7-million-in-crypto",
+"https://www.malwarebytes.com/blog/bugs/2026/11/drupal-sites-are-being-hijacked-and-a-follow-up-flaw-is-already-under-attack",
 "https://www.malwarebytes.com/blog/data-breaches/2026/11/hackers-leak-data-linked-to-visa-mastercard-and-jpmorgan-customers",
 "https://www.malwarebytes.com/blog/data-breaches/2026/11/two-exposed-databases-held-over-3-5-billion-records",
 "https://www.malwarebytes.com/blog/news/2026/11/13-3-million-peoples-medical-data-exposed-companies-pay-300000",
@@ -113,6 +114,7 @@
 "https://www.ransomware.live/id/VGV4YXMgSEhTQyAtIEZpbmFsIFdhcm5pbmcgJiBTYW1wbGVAQllPRA",
 "https://www.securitylab.ru/news/579843.php",
 "https://www.securitylab.ru/news/579909.php",
+"https://www.securitylab.ru/news/584823.php",
 "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
 "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
 "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
@@ -176,6 +178,7 @@
 "https://www.youtube.com/watch?v=tEfNgifejKc",
 "https://www.youtube.com/watch?v=vCAD3W43lIk",
 "https://www.youtube.com/watch?v=w2A52-dhO9E",
+"https://www.youtube.com/watch?v=x-fBu4FlP2Y",
 "https://www.youtube.com/watch?v=x8YSn57QTPQ",
 "https://www.youtube.com/watch?v=yTEBEBz6dNw",
 "https://www.youtube.com/watch?v=zsIIIga8KbU",
@@ -248,8 +251,8 @@
 "tg:true_secator/8854",
 "tg:true_secator/8855"
 ],
-"last_post": "2026-11-27T13:37:05.972811+00:00",
-"n": 239,
+"last_post": "2026-11-27T22:21:49.833737+00:00",
+"n": 242,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -265,82 +268,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-19T18:04:28.477279+00:00",
-"title": "Five warning signs of ransomware breach before encryption or data theft",
-"link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-"score": 12.61,
-"tags": "#новости #взломы",
-"kind": "rss",
-"tok": [
-"before",
-"breach",
-"data",
-"encryption",
-"five",
-"ransomware",
-"signs",
-"theft",
-"warning"
-],
-"cve": []
-},
-{
-"t": "2026-11-19T18:04:32.865384+00:00",
-"title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-"link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-"score": 9.92,
-"tags": "#новости #кибербезопасность",
-"kind": "rss",
-"tok": [
-"allow",
-"bugs",
-"code",
-"could",
-"critical",
-"execution",
-"fixes",
-"flaws",
-"including",
-"remote",
-"that"
-],
-"cve": [
-"cve-2026-115560"
-]
-},
-{
-"t": "2026-11-19T18:04:36.601633+00:00",
-"title": "Хакеры взломали официальный пакет Python Agent Framework от Microsoft на платформе PyPI ,…",
-"link": "https://t.me/true_secator/8831",
-"score": 8.71,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"agent",
-"framework",
-"microsoft",
-"pypi",
-"python",
-"версии",
-"взломали",
-"вредоносные",
-"данных",
-"другой",
-"конфид",
-"кражи",
-"облачных",
-"опубликовав",
-"официальный",
-"пакет",
-"платформе",
-"предназначенные",
-"сервисов",
-"учетных",
-"хакеры"
-],
-"cve": []
-},
 {
 "t": "2026-11-20T00:39:02.120018+00:00",
 "title": "Границы безопасности ИИ",
@@ -1851,6 +1778,65 @@
 "cve": [
 "cve-2026-129514"
 ]
+},
+{
+"t": "2026-11-27T22:21:41.560790+00:00",
+"title": "Взлом кода Клода выявил гораздо большую проблему | Угроза провода",
+"link": "https://www.youtube.com/watch?v=x-fBu4FlP2Y",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"bigger",
+"claude",
+"code",
+"exposes",
+"hack",
+"much",
+"problem",
+"threat",
+"wire"
+],
+"cve": []
+},
+{
+"t": "2026-11-27T22:21:46.396907+00:00",
+"title": "Сайты Drupal подвергаются взлому, а следующая уязвимость уже находится под атакой",
+"link": "https://www.malwarebytes.com/blog/bugs/2026/11/drupal-sites-are-being-hijacked-and-a-follow-up-flaw-is-already-under-attack",
+"score": 8.62,
+"tags": "#мошенничество #фишинг",
+"kind": "rss",
+"tok": [
+"already",
+"attack",
+"being",
+"drupal",
+"flaw",
+"follow-up",
+"hijacked",
+"sites",
+"under"
+],
+"cve": []
+},
+{
+"t": "2026-11-27T22:21:49.833663+00:00",
+"title": "Telegram забил тревогу. Владельцев iPhone призывают срочно обновить iOS",
+"link": "https://www.securitylab.ru/news/584823.php",
+"score": 8.51,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"iphone",
+"telegram",
+"владельцев",
+"забил",
+"обновить",
+"призывают",
+"срочно",
+"тревогу"
+],
+"cve": []
 }
 ],
 "rubrics": {
