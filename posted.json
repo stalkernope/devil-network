@@ -69,6 +69,7 @@
 "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
 "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
 "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+"https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
 "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
 "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
 "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
@@ -119,6 +120,7 @@
 "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
 "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
 "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
+"https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
 "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
 "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
 "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
@@ -243,10 +245,11 @@
 "tg:true_secator/8845",
 "tg:true_secator/8847",
 "tg:true_secator/8848",
-"tg:true_secator/8854"
+"tg:true_secator/8854",
+"tg:true_secator/8855"
 ],
-"last_post": "2026-11-27T03:48:58.645816+00:00",
-"n": 236,
+"last_post": "2026-11-27T13:37:05.972811+00:00",
+"n": 239,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -262,70 +265,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-19T08:49:55.441231+00:00",
-"title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-"link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-"score": 12.9,
-"tags": "#новости #взломы",
-"kind": "rss",
-"tok": [
-"arrest",
-"gang",
-"members",
-"ransoms",
-"ransomware",
-"tied",
-"ukraine"
-],
-"cve": []
-},
-{
-"t": "2026-11-19T08:49:59.121577+00:00",
-"title": "Исследователи F6 зафиксировали и расследовали первый в мире случай эксплуатации…",
-"link": "https://t.me/true_secator/8827",
-"score": 5.39,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"cisco",
-"cve-2026-76466",
-"cvss",
-"expressway",
-"вскоре",
-"зафиксировали",
-"злоумышленники",
-"исследователи",
-"критической",
-"мире",
-"общедоступного",
-"первый",
-"после",
-"появления",
-"расследовали",
-"случай",
-"успеш",
-"эксплуатации"
-],
-"cve": [
-"cve-2026-76466",
-"cve-2026-76466"
-]
-},
-{
-"t": "2026-11-19T08:50:02.918017+00:00",
-"title": "ClickFix Cache Trick",
-"link": "https://www.youtube.com/shorts/yydGYEnRKzg",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"cache",
-"clickfix",
-"trick"
-],
-"cve": []
-},
 {
 "t": "2026-11-19T18:04:28.477279+00:00",
 "title": "Five warning signs of ransomware breach before encryption or data theft",
@@ -1845,11 +1784,78 @@
 "this"
 ],
 "cve": []
+},
+{
+"t": "2026-11-27T13:36:57.136142+00:00",
+"title": "Другие новости: Кибератаки на танкеры, Квантовый закон ЕС, Новые возможности VirusTotal",
+"link": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+"score": 12.2,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"capabilities",
+"cyberattacks",
+"news",
+"other",
+"quantum",
+"tanker",
+"virustotal"
+],
+"cve": []
+},
+{
+"t": "2026-11-27T13:37:02.023617+00:00",
+"title": "Drupal предупреждает об уязвимости захвата нового сайта, используемой в атаках",
+"link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+"score": 12.01,
+"tags": "#новости #взломы",
+"kind": "rss",
+"tok": [
+"attacks",
+"drupal",
+"exploited",
+"flaw",
+"site",
+"takeover",
+"warns"
+],
+"cve": []
+},
+{
+"t": "2026-11-27T13:37:05.972726+00:00",
+"title": "Злоумышленник взломал Hex.pm , наиболее широко используемый менеджер пакетов для языков…",
+"link": "https://t.me/true_secator/8855",
+"score": 10.23,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"0-day",
+"elixir",
+"erlang",
+"бэкэнда",
+"взломал",
+"воспользовавшись",
+"захвата",
+"злоумышленник",
+"используемый",
+"контроля",
+"менеджер",
+"наиболее",
+"пакетов",
+"программирования",
+"серверами",
+"шестью",
+"широко",
+"языков"
+],
+"cve": [
+"cve-2026-129514"
+]
 }
 ],
 "rubrics": {
 "tip": "2026-11-25",
-"quiz": "2026-11-26",
+"quiz": "2026-11-27",
 "term": "2026-11-24",
 "top_day": "2026-11-25"
 }
