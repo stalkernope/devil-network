@@ -4,6 +4,7 @@
 "CVE-2026-123039",
 "CVE-2026-132224",
 "CVE-2026-19868",
+"https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
 "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
 "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -156,6 +157,7 @@
 "https://www.youtube.com/watch?v=AdeIrffwzCY",
 "https://www.youtube.com/watch?v=CfPeBaxwi-0",
 "https://www.youtube.com/watch?v=Dcxyeb1rB1g",
+"https://www.youtube.com/watch?v=E62rhbgOB60",
 "https://www.youtube.com/watch?v=EgnAN0ZUl08",
 "https://www.youtube.com/watch?v=GASiu5gnv0k",
 "https://www.youtube.com/watch?v=J9OIWnwuAeU",
@@ -249,10 +251,12 @@
 "tg:true_secator/8847",
 "tg:true_secator/8848",
 "tg:true_secator/8854",
-"tg:true_secator/8855"
+"tg:true_secator/8855",
+"tg:true_secator/8858",
+"tg:true_secator/8859"
 ],
-"last_post": "2026-11-27T22:21:49.833737+00:00",
-"n": 242,
+"last_post": "2026-11-28T04:08:27.648484+00:00",
+"n": 245,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -268,58 +272,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-20T00:39:02.120018+00:00",
-"title": "Границы безопасности ИИ",
-"link": "https://www.youtube.com/shorts/9FVcrVMnZNw",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"boundaries",
-"security"
-],
-"cve": []
-},
-{
-"t": "2026-11-20T00:39:06.380083+00:00",
-"title": "VMware исправляет vCenter нулевого дня, который использовался в атаках с сентября",
-"link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-"score": 13.51,
-"tags": "#новости #взломы",
-"kind": "rss",
-"tok": [
-"attacks",
-"exploited",
-"patches",
-"september",
-"since",
-"vcenter",
-"vmware",
-"zero-day"
-],
-"cve": []
-},
-{
-"t": "2026-11-20T00:39:10.736026+00:00",
-"title": "Приказ Binance о заморозке на сумму $6,5 млрд. Гонконг «подозревает» хайп: Asia Express",
-"link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"score": 12.54,
-"tags": "#крипта",
-"kind": "rss",
-"tok": [
-"asia",
-"binance",
-"express",
-"freeze",
-"hong",
-"hype",
-"kong",
-"order",
-"suspicious"
-],
-"cve": []
-},
 {
 "t": "2026-11-20T07:48:07.576758+00:00",
 "title": "Под прицелом активной эксплуатации на текущий момент: 1. Критическая уязвимость Perforce…",
@@ -1835,6 +1787,73 @@
 "призывают",
 "срочно",
 "тревогу"
+],
+"cve": []
+},
+{
+"t": "2026-11-28T04:08:11.696533+00:00",
+"title": "Приложение для Android с разрешением на использование камеры способно восстанавливать…",
+"link": "https://t.me/true_secator/8859",
+"score": 7.11,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"android",
+"воспроизводимые",
+"восстанавливать",
+"встроенный",
+"динамик",
+"доступа",
+"использование",
+"камеры",
+"микрофону",
+"оснащенны",
+"приложение",
+"разрешением",
+"речи",
+"способно",
+"телефона",
+"телефонах",
+"фрагменты",
+"через"
+],
+"cve": []
+},
+{
+"t": "2026-11-28T04:08:22.778930+00:00",
+"title": "A Critical Linux Bug Could Let Hackers Take Over Servers | Threat Wire",
+"link": "https://www.youtube.com/watch?v=E62rhbgOB60",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"could",
+"critical",
+"hackers",
+"linux",
+"over",
+"servers",
+"take",
+"threat",
+"wire"
+],
+"cve": []
+},
+{
+"t": "2026-11-28T04:08:27.648417+00:00",
+"title": "Intel faced a choice: Give Trump 10% or face the consequences",
+"link": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+"score": 7.49,
+"tags": "#IT #технологии",
+"kind": "rss",
+"tok": [
+"choice",
+"consequences",
+"face",
+"faced",
+"give",
+"intel",
+"trump"
 ],
 "cve": []
 }
