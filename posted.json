@@ -116,6 +116,7 @@
 "https://www.securitylab.ru/news/579843.php",
 "https://www.securitylab.ru/news/579909.php",
 "https://www.securitylab.ru/news/584823.php",
+"https://www.securitylab.ru/news/584830.php",
 "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
 "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
 "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
@@ -163,6 +164,7 @@
 "https://www.youtube.com/watch?v=J9OIWnwuAeU",
 "https://www.youtube.com/watch?v=LxVW3b8jVdE",
 "https://www.youtube.com/watch?v=PBLB1nZ2SZI",
+"https://www.youtube.com/watch?v=PjGlt3y-Nco",
 "https://www.youtube.com/watch?v=Q-e9L6ECpgM",
 "https://www.youtube.com/watch?v=ViT2FOEr6EI",
 "https://www.youtube.com/watch?v=XJ8zqsz4xvw",
@@ -252,11 +254,12 @@
 "tg:true_secator/8848",
 "tg:true_secator/8854",
 "tg:true_secator/8855",
+"tg:true_secator/8856",
 "tg:true_secator/8858",
 "tg:true_secator/8859"
 ],
-"last_post": "2026-11-28T04:08:27.648484+00:00",
-"n": 245,
+"last_post": "2026-11-28T13:02:00.082019+00:00",
+"n": 248,
 "yt_ids": {
 "_JohnHammond": "UCVeW9qkBjo3zosnqUbG7CFw",
 "NetworkChuck": "UCOuGATIAbd2DvzJmUgXn2IQ",
@@ -272,81 +275,6 @@
 "hak5": "UC3s0BtrBJpwNDaflRSoiieQ"
 },
 "recent": [
-{
-"t": "2026-11-20T07:48:07.576758+00:00",
-"title": "Под прицелом активной эксплуатации на текущий момент: 1. Критическая уязвимость Perforce…",
-"link": "https://t.me/true_secator/8832",
-"score": 7.3,
-"tags": "#кибербезопасность #взломы",
-"kind": "tg",
-"tok": [
-"cve-2026-115731",
-"cvss",
-"perforce",
-"puppet",
-"активной",
-"данных",
-"десериализации",
-"которая",
-"критическая",
-"момент",
-"недоверенных",
-"описывается",
-"прицелом",
-"проблема",
-"текущий",
-"уязвимость",
-"эксплуатации"
-],
-"cve": [
-"cve-2026-115731",
-"cve-2026-115732",
-"cve-2026-115731",
-"cve-2026-115731",
-"cve-2026-90436",
-"cve-2026-90436",
-"cve-2026-129448"
-]
-},
-{
-"t": "2026-11-20T07:48:23.022529+00:00",
-"title": "Квадратура треугольника - Числофил",
-"link": "https://www.youtube.com/watch?v=EgnAN0ZUl08",
-"score": 0,
-"tags": "#видео #хакинг #YouTube",
-"kind": "yt",
-"tok": [
-"numberphile",
-"squaring",
-"triangle"
-],
-"cve": []
-},
-{
-"t": "2026-11-20T07:48:27.104889+00:00",
-"title": "Хакеры, связанные с Китаем, используют критически важную систему VMware vCenter Zero-Day для получения доступа администратора и кражи данных",
-"link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-"score": 14.3,
-"tags": "#новости #кибербезопасность",
-"kind": "rss",
-"tok": [
-"access",
-"admin",
-"china-linked",
-"critical",
-"data",
-"exploit",
-"gain",
-"hackers",
-"steal",
-"vcenter",
-"vmware",
-"zero-day"
-],
-"cve": [
-"cve-2026-123890"
-]
-},
 {
 "t": "2026-11-20T16:49:21.449538+00:00",
 "title": "Хакеры сливают данные, связанные с клиентами Visa, Mastercard и JPMorgan",
@@ -1856,11 +1784,82 @@
 "trump"
 ],
 "cve": []
+},
+{
+"t": "2026-11-28T13:01:50.886598+00:00",
+"title": "Срочно обновите iPhone. Владельцы смартфонов Apple массово теряют доступ к Telegram",
+"link": "https://www.securitylab.ru/news/584830.php",
+"score": 7.47,
+"tags": "#кибербезопасность",
+"kind": "rss",
+"tok": [
+"apple",
+"iphone",
+"telegram",
+"владельцы",
+"доступ",
+"массово",
+"обновите",
+"смартфонов",
+"срочно",
+"теряют"
+],
+"cve": []
+},
+{
+"t": "2026-11-28T13:01:54.322115+00:00",
+"title": "Критическая уязвимость 12 летней давности в сервере сетевой файловой системы ( NFS ) ядра…",
+"link": "https://t.me/true_secator/8856",
+"score": 6.24,
+"tags": "#кибербезопасность #взломы",
+"kind": "tg",
+"tok": [
+"cve-2026-99362",
+"linux",
+"root",
+"давности",
+"жаном",
+"жереми",
+"злоумышленникам",
+"критическая",
+"летней",
+"обнаруженная",
+"позволяет",
+"получить",
+"права",
+"сервере",
+"сетевой",
+"системы",
+"удаленным",
+"уязвимость",
+"файловой",
+"ядра"
+],
+"cve": [
+"cve-2026-99362",
+"cve-2026-99362"
+]
+},
+{
+"t": "2026-11-28T13:02:00.081948+00:00",
+"title": "Как они взломали гипотезу Римана? - Числофил",
+"link": "https://www.youtube.com/watch?v=PjGlt3y-Nco",
+"score": 0,
+"tags": "#видео #хакинг #YouTube",
+"kind": "yt",
+"tok": [
+"crack",
+"hypothesis",
+"numberphile",
+"riemann",
+"they"
+],
+"cve": []
 }
 ],
 "rubrics": {
 "tip": "2026-11-25",
-"quiz": "2026-11-27",
+"quiz": "2026-11-28",
 "term": "2026-11-24",
 "top_day": "2026-11-25"
 }
